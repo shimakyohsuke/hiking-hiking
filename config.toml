@@ -1,0 +1,5 @@
+languageCode = "ja-JP"
+title = "Hiking-hiking"
+baseURL = "https://hiking.shimakyohsuke.com/"
+googleAnalytics = "UA-XXXXX-X"
+theme = "hugo-tracks-theme"
