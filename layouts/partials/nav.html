@@ -11,9 +11,9 @@
       </div>
     </nav>
   </div>
-  <div class="container">
+  {{ with .Site.Params.description }}<div class="container">
     <div class="nav-left">
-      <p>{{ .Site.Params.Description }}</p>
+      <p>{{ . }}</p>
     </div>
-  </div>
+  </div>{{ end }}
 </section>
