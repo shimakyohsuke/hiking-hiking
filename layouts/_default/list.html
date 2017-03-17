@@ -1,0 +1,24 @@
+{{ partial "header" . }}
+{{ partial "nav" . }}
+<section class="section">
+  <div class="container">
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+    {{ range sort $paginator.Pages }}
+    <article>
+      <h1 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} ::Draft{{ end }}</h1>
+      <h2 class="subtitle is-5">{{ .Date.Format "January 2, 2006" }}</h2>
+      {{ if .Params.tags }}
+        {{ partial "tags" .Params.tags }}
+      {{ end }}
+      <div class="content">
+        {{ .Summary | plainify | safeHTML }}
+        {{ if .Truncated }}
+        <p>{{ .Description }} <a class="button is-link" href="{{ .Permalink }}" style="height:28px">Read more<span class="icon is-small"><i class="fa fa-angle-double-right"></i></span></a></p>
+        {{ end }}
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ partial "pager" . }}
+{{ partial "footer" . }}

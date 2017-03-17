@@ -1,5 +1,12 @@
-languageCode = "ja-JP"
+languageCode = "ja-jp"
 title = "HIKING-HIKING"
 baseURL = "https://hiking.shimakyohsuke.com/"
 googleAnalytics = "UA-51113357-6"
-theme = "hugo-tracks-theme"
+theme = "hucore"
+copyright = "&copy; <a href=\"/\">HIKING-HIKING</a>"
+
+[params]
+  description = "知らない土地、知らない景色を知る為にぼちぼち歩いて行くブログ"
+  author = "SHIMA KYOHSUKE"
+  sharingicons = false
+  displayauthor = true
