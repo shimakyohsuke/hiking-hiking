@@ -1,7 +1,6 @@
 languageCode = "ja-jp"
 title = "HIKING-HIKING"
 baseURL = "https://hiking.shimakyohsuke.com/"
-googleAnalytics = "UA-51113357-6"
 theme = "hucore"
 copyright = "&copy; <a href=\"/\">HIKING-HIKING</a>"
 
