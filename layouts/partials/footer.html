@@ -1,27 +1,29 @@
-<style>
-  .footer__icons {
-    display: flex;
-    justify-content: space-around;
-    width: 40%;
-    margin: 0 auto;
-  }
-  .footer__icons li a {
-    color: #42464c;
-  }
-</style>
-<section class="section">
-  <div class="container has-text-centered">
-    <ul class="footer__icons">
-      <li><a href="https://twitter.com/shima_x_o"><i class="fa fa-twitter fa-2x" aria-label="twitter" aria-hidden="true"></i></a></li>
-      <li><a href="https://github.com/shimakyohsuke"><i class="fa fa-github fa-2x" aria-label="github" aria-hidden="true"></i></a></li>
-      <li><a href="https://instagram.com/shimakyohsuke/"><i class="fa fa-instagram fa-2x" aria-label="instagram" aria-hidden="true"></i></a></li>
-      <li><a href="https://www.flickr.com/photos/shimakyohsuke/"><i class="fa fa-flickr fa-2x" aria-label="flickr" aria-hidden="true"></i></a></li>
-    </ul>
-  </div>
-</section>
-<section class="section">
-  <div class="container has-text-centered">
-    <p>{{ .Site.Copyright | safeHTML }}</p>
-  </div>
-</section>
+  <style>
+    .footer__icons {
+      display: flex;
+      justify-content: space-around;
+      width: 40%;
+      margin: 0 auto;
+    }
+    .footer__icons li a {
+      color: #42464c;
+    }
+  </style>
+  <section class="section">
+    <div class="container has-text-centered">
+      <ul class="footer__icons">
+        <li><a href="https://twitter.com/shima_x_o"><i class="fa fa-twitter fa-2x" aria-label="twitter" aria-hidden="true"></i></a></li>
+        <li><a href="https://github.com/shimakyohsuke"><i class="fa fa-github fa-2x" aria-label="github" aria-hidden="true"></i></a></li>
+        <li><a href="https://instagram.com/shimakyohsuke/"><i class="fa fa-instagram fa-2x" aria-label="instagram" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.flickr.com/photos/shimakyohsuke/"><i class="fa fa-flickr fa-2x" aria-label="flickr" aria-hidden="true"></i></a></li>
+      </ul>
+    </div>
+  </section>
+  <section class="section">
+    <div class="container has-text-centered">
+      <p>{{ .Site.Copyright | safeHTML }}</p>
+    </div>
+  </section>
 {{ if .Site.GoogleAnalytics }}{{ template "_internal/google_analytics_async.html" . }}{{ end }}
+  </body>
+</html>
