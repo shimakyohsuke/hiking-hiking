@@ -2,7 +2,7 @@
 date: "2017-03-16T20:00:00+09:00"
 draft: false
 title: "六甲山の思い出"
-description: "初めての山登った時のこと書きました。"
+description: "初めて山に登った時のこと書きました。"
 ---
 
 <!--more-->
