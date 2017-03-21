@@ -14,7 +14,9 @@
     <meta property="og:title" content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}">
     <meta property="og:url" content="{{ .Permalink }}">
     <meta property="og:description" content="{{ $isHomePage := eq .Title .Site.Title }}{{ if eq $isHomePage false }}{{ .Description }}{{else}}{{ .Site.Params.description }}{{ end }}">
-    <meta property="og:type" content="website" />
+    <meta property="og:image" content="{{ if .Params.ogimage }}{{ .Site.BaseURL }}{{ .Params.ogimage }}{{else}}/ogp/ogp.png{{ end }}" />
+    <meta property="og:type" content="{{ if eq .IsHome true }}website{{else}}article{{ end }}" />
+    <meta property="og:site_name" content="{{ .Site.Title }}" />
     <meta name="theme-color" content="#ffffff">
     <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="/favicons/favicon-32x32.png" sizes="32x32">
