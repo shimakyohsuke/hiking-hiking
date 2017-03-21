@@ -29,7 +29,11 @@
     <script src="https://use.fontawesome.com/889f7ec330.js"></script>
   </head>
   <body>
+    {{ if eq (printf "%v" $.Site.BaseURL) "http://localhost:1313/" }}
+    {{ "<!-- code for localhost only -->" | safeHTML }}
+    {{ else }}
     {{ "<!-- Google Tag Manager (noscript) -->" | safeHTML }}
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQFDTV6"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     {{ "<!-- End Google Tag Manager (noscript) -->" | safeHTML }}
+    {{ end }}
