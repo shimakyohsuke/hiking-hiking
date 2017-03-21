@@ -1,15 +1,15 @@
 +++
-description = "「ハイキング-ハイキング」について"
+description = "「HIKING-HIKING」について"
 draft = false
 date = "2017-03-09T00:00:00+09:00"
-title = "「ハイキング-ハイキング」について"
+title = "「HIKING-HIKING」について"
 +++
 
 <!--more-->
 
 ## サイト名は適当に二回繰り返すあれです
 
-「ハイキング-ハイキング」は [@shima_x_o](https://twitter.com/shima_x_o) が、  
+「HIKING-HIKING」は [@shima_x_o](https://twitter.com/shima_x_o) が、  
 ハイキングいったり、写真撮りにいったりそういった記録を残すブログです。  
 
 
