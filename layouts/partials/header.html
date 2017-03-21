@@ -10,12 +10,12 @@
     })(window,document,'script','dataLayer','GTM-MQFDTV6');</script>
     <!-- End Google Tag Manager -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta content="{{ .Site.Params.Author }}" name="author">
-    <meta property="og:title" content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}">
+    <meta content="{{ .Site.Params.author }}" name="author">
+    <meta property="og:title" content="{{ .Title }}{{ if eq .IsHome false }} | {{ .Site.Title }}{{ end }}">
     <meta property="og:url" content="{{ .Permalink }}">
-    <meta property="og:description" content="{{ $isHomePage := eq .Title .Site.Title }}{{ if eq $isHomePage false }}{{ .Description }}{{else}}{{ .Site.Params.description }}{{ end }}">
-    <meta property="og:image" content="{{ if .Params.ogimage }}{{ .Site.BaseURL }}{{ .Params.ogimage }}{{else}}/ogp/ogp.png{{ end }}" />
-    <meta property="og:type" content="{{ if eq .IsHome true }}website{{else}}article{{ end }}" />
+    <meta property="og:description" content="{{ if eq .IsHome false }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <meta property="og:image" content="{{ if .Params.ogimage }}{{ .Site.BaseURL }}{{ .Params.ogimage }}{{ else }}/ogp/ogp.png{{ end }}" />
+    <meta property="og:type" content="{{ if eq .IsHome true }}website{{ else }}article{{ end }}" />
     <meta property="og:site_name" content="{{ .Site.Title }}" />
     <meta name="theme-color" content="#ffffff">
     <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
