@@ -1,6 +1,6 @@
 languageCode = "ja-jp"
 title = "HIKING-HIKING"
-baseURL = "https://hiking.shimakyohsuke.com/"
+baseURL = "https://hiking-hiking.com/"
 theme = "hucore"
 copyright = "&copy; <a href=\"/\">HIKING-HIKING</a>"
 description = "知らない土地、知らない景色を知る為にぼちぼち歩いて行くブログ"
