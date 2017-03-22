@@ -2,12 +2,13 @@
 date: "2017-03-22T00:00:00+09:00"
 title: "道具再考 - 行動編"
 draft: false
-description: "ザック編長かったのであとはサクッと紹介。"
+description: "ザック編は長かったのであとはサクッと紹介。"
+related: "tool-rethink"
 ---
 
 <!--more-->
 
-[前回の記事](/post/tool-rethink-lunch/) ザック編長かったのであとはサクッと紹介。
+[前回の記事](/post/tool-rethink-backpack/) ザック編は長かったのであとはサクッと紹介。
 
 ## とりあえず購入したのもの一覧
 
@@ -24,11 +25,18 @@ description: "ザック編長かったのであとはサクッと紹介。"
 ### トレッキングポール
 
 トレッキングポールは先輩にお借りした時に絶対に必要だと思っていたので、最優先で購入しました。  
+上を見ればカーボン製のとびきり軽くコンパクトに収まるポールがありましたが、カーボンは一般的なポールで採用されているアルミより耐久力が弱いとのことなのでアルミ製にしました。
 
-上を見ればカーボン製のとびきり軽くコンパクトに収まるポールがありましたが、カーボンは一般的なポールで採用されているアルミより耐久力が弱いとのことなのでアルミ製にしました。組み立てが容易なことと折りたたみ時にザックの長さを超えないものを探してこれになりました。
+
+{{% figure src="/media/tool-rethink-act/IMG_9363.JPG" alt="ザックの大きさにぴったり" caption="ザックの大きさにぴったり" %}}
+
+組み立てが容易なことと折りたたみ時にザックの長さを超えないものを探してこれになりました。
+
+
+{{% figure src="/media/tool-rethink-act/IMG_9362.JPG" alt="ポールを逆さにして撮影。左が先端にゴムをつけたもので、右が購入時の状態" caption="ポールを逆さにして撮影。左が先端にゴムをつけたもので、右が購入時の状態" %}}
 
 ポール先端が一般的なポールより細く尖っているので、さきっちょにゴムをつけます。  
- [BlackDiamond / ディスタンスFLZ](http://blackdiamondequipment.com/en/trekking-poles/distance-flz-pole-BD112178_cfg.html) に [杖先ゴム PP07‐08](http://sinanostore.jp/products/detail.php?product_id=57) はぴったし装着できました。
+[BlackDiamond / ディスタンスFLZ](http://blackdiamondequipment.com/en/trekking-poles/distance-flz-pole-BD112178_cfg.html) に [杖先ゴム PP07‐08](http://sinanostore.jp/products/detail.php?product_id=57) はぴったし装着できました。
 
 ### シューズ
 
