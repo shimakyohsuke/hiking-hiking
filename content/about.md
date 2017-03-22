@@ -2,7 +2,7 @@
 description = "「HIKING-HIKING」について"
 draft = false
 date = "2017-03-09T00:00:00+09:00"
-title = "「HIKING-HIKING」について"
+title = "このサイトについて"
 +++
 
 <!--more-->
@@ -26,13 +26,3 @@ EASY HIKING - <http://easyhiking.exblog.jp/22284609/>
 「ルポ 北アルプスUL珍道中」に掲載されていた両紙面いっぱいの双六岳の写真をみて一目惚れしました。
 
 いつの日か双六岳にいこう
-
----
-
-### プロフィール
-
-シマ キョウスケと言います。  
-30 代男性大阪在住で普段は Web のお仕事をしています。  
-<https://shimakyohsuke.com/>
-
-またこのブログは [Netlify](https://www.netlify.com/) と [Hugo](https://gohugo.io/) と [GitHub](https://github.com/) を使って作成しています。
