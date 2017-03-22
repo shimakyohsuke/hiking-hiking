@@ -119,7 +119,7 @@ ogimage: "media/first-climb/IMG_8871.JPG"
 
 ほんとに時間も体力もなにもかもギリギリだった。
 
-![秘密のスポット](/media/first-climb/IMG_8871.JPG)
+{{% figure src="/media/first-climb/IMG_8871.JPG" alt="秘密のスポット" caption="秘密のスポットから撮影" %}}
 
 ## 知見
 
@@ -153,6 +153,8 @@ ogimage: "media/first-climb/IMG_8871.JPG"
 
 ### あとがき
 
+{{% img src="/media/first-climb/IMG_8888.JPG" alt="てっぺん" class="alignright" style="max-width: 40%;" %}}
+
 思い出の欄にも書きましたが、トレッキングポールをお借りしたり途中荷物をもっていただいたり貴重な水をいただいたりと、ほんと先輩方がいないと頂上までいけなかったと思います。
 
 あと水の配分ってむずかしい。まさかあれだけのコーヒーセットを準備して担いでいったのに使うことができないとは。。このお金でいろいろと他の装備購入できたやんとか思いながら登ってました。（コーヒーは先輩が淹れたものをおすそ分けいただけました。うまかった）
@@ -163,5 +165,3 @@ ogimage: "media/first-climb/IMG_8871.JPG"
 
 というわけで、この山登りから得られた反省と経験を踏まえいろいろと装備品を新たに購入したので、  
 次回は山道具 再考とか書こうと思います。
-
-![てっぺん](/media/first-climb/IMG_8888.JPG)

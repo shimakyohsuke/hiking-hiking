@@ -1,0 +1,1 @@
+<img src="{{ .Get "src" }}"{{ if .Get "alt" }} alt="{{ .Get "alt" }}"{{ end }}{{ if .Get "class" }} class="{{ .Get "class" }}"{{ end }}{{ if .Get "style" }} style="{{ .Get "style" | safeCSS }}"{{ end }}>

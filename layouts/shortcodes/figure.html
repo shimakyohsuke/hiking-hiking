@@ -1,0 +1,8 @@
+<figure{{ if .Get "class" }} class="{{ .Get "class" }}"{{ end }}{{ if .Get "style" }} style="{{ .Get "style" | safeCSS }}"{{ end }}>
+  <img src="{{ .Get "src" }}"{{ if .Get "alt" }} alt="{{ .Get "alt" }}"{{ end }}>
+  {{ if .Get "caption" }}
+  <figcaption>
+    {{- .Get "caption" -}}
+  </figcaption>
+  {{ end }}
+</figure>
