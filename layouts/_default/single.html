@@ -27,7 +27,7 @@
             <div class="level-left">
               <div class="level-item">
                 {{ if .Next }}
-                <a class="button" href="{{ .Next.Permalink }}"><span class="icon is-small is-marginless"><i class="fa fa-angle-left"></i></span>前の記事: {{ .Next.Title }}</a>
+                <a class="button" href="{{ .Next.Permalink }}"><span class="icon is-small is-marginless"><i class="fa fa-angle-left"></i></span>前の記事</a>
                 {{ else }}
                 <a class="button is-disabled">前の記事</a>
                 {{ end }}
@@ -36,7 +36,7 @@
             <div class="level-right">
               <div class="level-item">
                 {{ if .Prev }}
-                <a class="button" href="{{ .Prev.Permalink }}">次の記事: {{ .Prev.Title }}<span class="icon is-small is-marginless"><i class="fa fa-angle-right"></i></span></a>
+                <a class="button" href="{{ .Prev.Permalink }}">次の記事<span class="icon is-small is-marginless"><i class="fa fa-angle-right"></i></span></a>
                 {{ else }}
                 <a class="button is-disabled">次の記事</a>
                 {{ end }}
