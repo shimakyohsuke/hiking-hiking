@@ -1,6 +1,6 @@
 ---
 date: "2017-03-21T00:00:00+09:00"
-title: "OMM Classic 25 を選んだ理由 - 山道具再考"
+title: "OMM Classic 25 を選んだ理由"
 draft: false
 description: "ザック選びに一番長く迷いました。OMM Classic 25 を選んだ理由"
 related: "tool-rethink"
@@ -8,8 +8,7 @@ related: "tool-rethink"
 
 <!--more-->
 
-山道具再考 ザック編です。  
-[前回の記事](/post/tool-rethink-lunch/)に引き続き、六甲山に登った時のうっすい経験をもとにいろいろと買い足した装備をご紹介します。
+[前回の記事](/post/tool-rethink-lunch/)に引き続き、六甲山に登った時のうっすい経験をもとにいろいろと買い足した装備をご紹介します。山道具再考 ザック編です。
 
 ## 購入したのもの一覧
 

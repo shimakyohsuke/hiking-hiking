@@ -1,15 +1,15 @@
 ---
 date: "2017-03-22T00:00:00+09:00"
-title: "BlackDiamond ディスタンスFLZ を買いました - 山道具再考"
+title: "BlackDiamond ディスタンスFLZ は軽くて折りたたみもコンパクト"
 draft: false
-description: "BlackDiamond ディスタンスFLZ は軽くて折りたたみもコンパクト"
+description: "BlackDiamond ディスタンスFLZ は組み立てが容易で折りたたみ時もコンパクト"
 related: "tool-rethink"
 ---
 
 <!--more-->
 
 [前回の記事](/post/tool-rethink-backpack/) ザック編は長かったのであとはサクッと紹介。  
-山道具再考 行動編です。
+山道具再考 トレッキングポール編です。
 
 ## 購入したのもの一覧
 

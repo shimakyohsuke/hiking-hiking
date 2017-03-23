@@ -1,12 +1,14 @@
 ---
 date: "2017-03-23T00:00:00+09:00"
-title: "山靴デビューは ALTRA の Lone Peak 3.0 - 山道具再考"
+title: "山靴デビューは ALTRA の Lone Peak 3.0"
 draft: false
 description: "ALTRA の特徴である「ゼロドロップ」がどんな感じで歩けるのか楽しみ"
 related: "tool-rethink"
 ---
 
 <!--more-->
+
+山道具再考 シューズ編です。
 
 ## 購入したのもの一覧
 
