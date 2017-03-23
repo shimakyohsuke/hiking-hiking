@@ -35,6 +35,10 @@
     <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ if .Params.ogimage }}{{ .Params.ogimage }}{{ else }}ogp/ogp.png{{ end }}">
     <meta name="twitter:url" content="{{ .Site.BaseURL }}">
     <meta name="theme-color" content="#ffffff">
+    {{ if .RSSLink }}
+    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+    <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+    {{ end }}
     <link rel="canonical" href="{{ .Permalink }}">
     <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="/favicons/favicon-32x32.png" sizes="32x32">
