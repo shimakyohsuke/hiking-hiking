@@ -32,21 +32,21 @@ related: "tool-rethink"
 | スタッフサック | [Granite Gear / AIR ZIPPSACK](http://www.granitegear.com/air-zippsack.html) | 調理器具とカップラーメンいれる |
 
 
-{{% figure src="/media/tool-rethink-lunch/IMG_9365.JPG" alt="Quatro Stove" caption="Quatro Stove" %}}
+{{% figure src="/media/tool-rethink-lunch/IMG_9365.JPG" alt="Quatro Stove" caption="Highland Designs / Quatro Stove" %}}
 
 ストーブはたまたま東京出張の時に、三鷹の [Hiker&#039;s Depot](http://hikersdepot.jp/) に寄る時間があったので、Quatro Stove を購入。  
-Quatro Stove はチタン製で形どられた薄い板 3 枚を使用時に組み立て、台の中央に固形燃料を置いて使用します。
+Quatro Stove はチタン製で型どられた薄い板 3 枚を使用時に組み立て、台の中央に固形燃料を置いて使用します。
 
 {{% figure src="/media/tool-rethink-lunch/IMG_9366.JPG" alt="組み立ても簡単" caption="組み立ても簡単" %}}
 
-{{% figure src="/media/tool-rethink-lunch/IMG_9367.JPG" alt="大きさをライターと比較" caption="大きさをライターと比較" %}}
+{{% figure src="/media/tool-rethink-lunch/IMG_9368.JPG" alt="台の中央に固形燃料を置く" caption="台の中央に固形燃料を置く" %}}
 
 固形燃料自体は Esbit の燃料で全く問題ありませんでしたが、独特の匂いが苦手なのとクッカー類にけっこうな煤が付着してしまうので、旅館等の食事で使用されている固形燃料にしました。  
 放置しておくと揮発してしまうとのことで若干取り扱いが面倒ですが、サランラップなどに巻いて持っていけば良いそうです。
 
-{{% figure src="/media/tool-rethink-lunch/IMG_9368.JPG" alt="台の中央に固形燃料を置く" caption="台の中央に固形燃料を置く" %}}
+{{% figure src="/media/tool-rethink-lunch/IMG_9367.JPG" alt="大きさをライターと比較" caption="大きさをライターと比較" %}}
 
-クッカーはお湯を 300ml ほど沸かせればいいのでマグカップを使用し、Quatro Stove の五徳部分は snowpeak のチタンシングルマグ 450 と丁度いいサイズとのことだったので、こちらも購入。ついでにチタンシングルマグ 450 にピッタリサイズのフタも購入しました。お湯を沸かすだけなのでこれで十分なはず。
+クッカーはお湯を 300ml ほど沸かせればいいのでマグカップを使用し、Quatro Stove の五徳部分は snowpeak のチタンシングルマグ 450 の底面と丁度いいサイズとのことだったので、こちらも購入。ついでにチタンシングルマグ 450 にピッタリサイズのフタも購入しました。お湯を沸かすだけなのでこれで十分なはず。
 
 {{% figure src="/media/tool-rethink-lunch/IMG_9369.JPG" alt="snowpeak のチタンシングルマグ 450 とフタ" caption="snowpeak のチタンシングルマグ 450 とフタ" %}}
 

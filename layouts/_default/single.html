@@ -10,22 +10,38 @@
         <div class="content">
           {{ .Content }}
           {{ if .Params.related }}
-            {{ $related := .Params.related }}
-            <h2>関連記事</h2>
-            <ul>
-              {{ $page_link := .Permalink }}
-              {{ $title := .Title }}
-              {{ range (where .Site.Pages ".Params.related" $related) }}
-              {{ $page := . }}
-              {{ if ne $title  $page.Title }}
-              <li><a href="{{ $page.Permalink }}">{{ $page.Title }}</a></li>
-              {{ end }}
-              {{ end }}
-            </ul>
+          {{ $related := .Params.related }}
+          <h2>関連記事</h2>
+          <ul>
+            {{ $page_link := .Permalink }}
+            {{ $title := .Title }}
+            {{ range (where .Site.Pages ".Params.related" $related) }}
+            {{ $page := . }}
+            {{ if ne $title  $page.Title }}
+            <li><a href="{{ $page.Permalink }}">{{ $page.Title }}</a></li>
+            {{ end }}
+            {{ end }}
+          </ul>
           {{ end }}
-          <div class="pagination">
-            {{ if .Next }}<div><p>前の記事: <a class="next" href="{{.Next.Permalink}}">{{ .Next.Title }}</a></p></div>{{ end }}
-            {{ if .Prev }}<div><p>次の記事: <a class="previous" href="{{.Prev.Permalink}}">{{ .Prev.Title }}</a></p></div>{{ end }}
+          <div class="level">
+            <div class="level-left">
+              <div class="level-item">
+                {{ if .Next }}
+                <a class="button" href="{{ .Next.Permalink }}"><span class="icon is-small is-marginless"><i class="fa fa-angle-left"></i></span>前の記事: {{ .Next.Title }}</a>
+                {{ else }}
+                <a class="button is-disabled">前の記事</a>
+                {{ end }}
+              </div>
+            </div>
+            <div class="level-right">
+              <div class="level-item">
+                {{ if .Prev }}
+                <a class="button" href="{{ .Prev.Permalink }}">次の記事: {{ .Prev.Title }}<span class="icon is-small is-marginless"><i class="fa fa-angle-right"></i></span></a>
+                {{ else }}
+                <a class="button is-disabled">次の記事</a>
+                {{ end }}
+              </div>
+            </div>
           </div>
         </div>
         {{ if (ne ($.Param "sharingicons") false) }}
