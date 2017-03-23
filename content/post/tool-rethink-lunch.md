@@ -1,6 +1,6 @@
 ---
 date: "2017-03-20T00:00:00+09:00"
-title: "道具再考 - 昼食編"
+title: "山道具再考 - 昼食編"
 draft: false
 description: "六甲山に登った時のうっすい経験をもとに昼食時に必要な装備を買い足しました。"
 related: "tool-rethink"
@@ -58,4 +58,4 @@ Quatro Stove はチタン製で型どられた薄い板 3 枚を使用時に組�
 
 気づけば全部チタン製で、物の重量より自身の体重落とせよといった感じです。
 
-[道具再考 行動編](/post/tool-rethink-backpack/)に続く
+[山道具再考 行動編](/post/tool-rethink-backpack/)に続く

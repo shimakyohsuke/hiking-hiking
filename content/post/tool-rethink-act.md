@@ -1,6 +1,6 @@
 ---
 date: "2017-03-22T00:00:00+09:00"
-title: "道具再考 - 行動編"
+title: "山道具再考 - 行動編"
 draft: false
 description: "ザック編は長かったのであとはサクッと紹介。"
 related: "tool-rethink"
