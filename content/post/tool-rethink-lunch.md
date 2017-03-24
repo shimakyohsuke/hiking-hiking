@@ -8,7 +8,7 @@ related: "tool-rethink"
 
 <!--more-->
 
-[前回、六甲山に登った時のうっすい経験](/post/first-climb/)をもとに昼食時に必要な装備を買い足しました。  
+[前回、六甲山に登った時のうっすい経験](/post/first-climb/)をもとに昼食時に必要な装備を買い足しました。
 山道具再考 昼食編といった感じです。
 
 ## ストーブ・クッカーなど再考
@@ -35,14 +35,14 @@ related: "tool-rethink"
 
 {{% figure src="/media/tool-rethink-lunch/IMG_9365.JPG" alt="Quatro Stove" caption="Highland Designs / Quatro Stove" %}}
 
-ストーブはたまたま東京出張の時に、三鷹の [Hiker&#039;s Depot](http://hikersdepot.jp/) に寄る時間があったので、Quatro Stove を購入。  
+ストーブはたまたま東京出張の時に、三鷹の [Hiker&#039;s Depot](http://hikersdepot.jp/) に寄る時間があったので、Quatro Stove を購入。
 Quatro Stove はチタン製で型どられた薄い板 3 枚を使用時に組み立て、台の中央に固形燃料を置いて使用します。
 
 {{% figure src="/media/tool-rethink-lunch/IMG_9366.JPG" alt="組み立ても簡単" caption="組み立ても簡単" %}}
 
 {{% figure src="/media/tool-rethink-lunch/IMG_9368.JPG" alt="台の中央に固形燃料を置く" caption="台の中央に固形燃料を置く" %}}
 
-固形燃料自体は Esbit の燃料で全く問題ありませんでしたが、独特の匂いが苦手なのとクッカー類にけっこうな煤が付着してしまうので、旅館等の食事で使用されている固形燃料にしました。  
+固形燃料自体は Esbit の燃料で全く問題ありませんでしたが、独特の匂いが苦手なのとクッカー類にけっこうな煤が付着してしまうので、旅館等の食事で使用されている固形燃料にしました。
 放置しておくと揮発してしまうとのことで若干取り扱いが面倒ですが、サランラップなどに巻いて持っていけば良いそうです。
 
 {{% figure src="/media/tool-rethink-lunch/IMG_9367.JPG" alt="大きさをライターと比較" caption="大きさをライターと比較" %}}
@@ -60,3 +60,9 @@ Quatro Stove はチタン製で型どられた薄い板 3 枚を使用時に組�
 気づけば全部チタン製で、物の重量より自身の体重落とせよといった感じです。
 
 しばらくお米は炊きませんがいつか必ずリベンジします。
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00U3B5Q78&linkId=5dd392ad064d8f544c3305d3753bcb7f"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B015WN7FPW&linkId=0a09ed3b629da182685eeed28f7da3c0"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B003AJBHE6&linkId=7bc56b7423a8958786fedad34dec8aeb"></iframe>
