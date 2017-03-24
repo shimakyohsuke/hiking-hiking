@@ -1,0 +1,33 @@
+ds(w, h = auto, f = left)
+	width w
+	height h
+	float f
+
+calcWdith(size)
+	return ((size / 750) * 100)%
+
+vcalcWdith(size)
+	return round(((size / 750) * 100))vw
+
+imgPath(fileName, extension = '.png')
+	return (imagesPath + fileName + extension)
+
+lh(n)
+	line-height ceil(n, 1)
+
+fs(c, fz, lh, fw = 400)
+	color c
+	font-size fz
+	line-height lh
+	font-weight fw
+
+opa(o, t = 0.25s)
+	opacity o
+	transition t
+
+/*
+ * @param fz: font-size
+ * @param kerning: Adobe Illustrator Kerning values
+ */
+ls(fz, kerning)
+	letter-spacing ((fz / 1000) * kerning)px

@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600');
+
+body
+	font-family "游ゴシック", YuGothic, fontFamily
+	line-height 1.8
+	color #1B435D
+	font-size 100%
+
+a
+	color #F99F48
+	text-decoration none
+	&:hover
+		color #F99F48
+		text-decoration underline
+p
+	color #1B435D
+
+img
+	max-width 100%
+	height auto
+
+table
+	width 100%
+	border 1px #CCCCCC solid
+	border-bottom 0
+	border-right 0
+	table-layout fixed
+	font-size px14
+	margin-bottom 30px
+	tr
+		border-bottom 1px #CCCCCC solid
+	thead
+		th
+			background-color #F2F2F2
+			text-align center
+			padding 10px
+			border-right 1px #CCCCCC solid
+	tbody
+		td
+			padding 10px
+			box-sizing border-box
+			border-right 1px #CCCCCC solid
+		th
+			border-right 1px #CCCCCC solid
+
+.hh-header
+	background #78BBE6
+
+.hh-header__content
+	max-width contentWidth
+	margin 0 auto
+	display flex
+	justify-content space-between
+	align-items center
+
+@media screen and (max-width: screenSmallMin)
+	.hh-header__content
+		justify-content center
+		flex-wrap wrap
+		& > div
+			width 90%
+	.hh-site_title
+		margin-bottom 0
+
+.hh-site_title
+	font-family 'Source Sans Pro', "游ゴシック", YuGothic, fontFamily
+	font-size px20
+	color #FFF
+	font-weight 600
+	a
+		text-decoration none
+		color #FFF
+		font-weight 600
+		&:visited
+			color #FFF
+		&:hover
+			color #FFF
+
+.hh-site_tagline
+	color #FFF
+	font-size px14
+	font-weight 400
+
+.hh-list__title
+	margin-top 30px
+	margin-bottom 0
+	font-size px20
+	color #1B435D
+	a
+		color #1B435D
+		&:hover
+			color #F99F48
+
+.hh-button
+	background-color #F99F48
+	padding 0 10px
+	color #FFF
+	display inline-block
+	&:hover
+		color #FFF
+
+.hh-button.is-disabled
+	background-color #F2F2F2
+	&:hover
+		text-decoration none
+
+.hh-container
+	padding 20px
+
+.hh-content
+	max-width contentWidth
+	margin 0 auto
+	background-color #fff
+
+.hh-post
+	h1, h2, h3, h4, h5, h6
+		margin-top 0
+		line-height 1.5
+		&:not(:first-child)
+			margin-top 30px
+	& &__title
+		margin-top 30px
+	code
+		background-color #f8f8f8
+	h1+h2:not(:first-child),
+	h2+h3:not(:first-child),
+	h3+h4:not(:first-child),
+	h4+h5:not(:first-child),
+	h5+h6:not(:first-child)
+		margin-top: 20px
+	h2
+		border-bottom 1px solid #78BBE6
+		padding-bottom 8px
+	h3
+		border-left 4px solid #78BBE6
+		padding 4px 0 4px 10px
+	strong
+		background linear-gradient(transparent 68%, #F99F48 68%)
+	figure
+		text-align center
+		img
+			max-width 80%
+	figcaption
+		color #78BBE6
+		margin-bottom 1em
+		font-size 90%
+
+@media screen and (max-width: screenSmallMin)
+	.hh-post
+		figure
+			margin 0
+			img
+				max-width 100%
+
+.hh-footer__icons
+	width 50%
+	margin 0 auto
+	p
+		a
+			color #42464c
+
+.hh-display__flex--jcs--aic
+	display flex
+	justify-content space-around
+	align-items center
+
+.hh-display__flex--jcsb--aic
+	display flex
+	justify-content space-between
+	align-items center
+
+.aligncenter
+	display block
+	margin 0 auto
+
+.alignright
+	float right
+	margin-left 1.5em
+	margin-bottom 1em
+
+.alignleft
+	float left
+	margin-right 1.5em
+	margin-bottom 1em

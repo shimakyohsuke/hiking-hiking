@@ -16,7 +16,7 @@ related: "tool-rethink"
 | アイテム | 商品名 | 購入理由 / 用途など |
 | ------ | ------ | ------ |
 | トレッキングポール | [BlackDiamond / ディスタンスFLZ](http://blackdiamondequipment.com/en/trekking-poles/distance-flz-pole-BD112178_cfg.html) | ザックからはみ出ない長さを求めて |
-| ポール先ゴム | [杖先ゴム PP07‐08](http://sinanostore.jp/products/detail.php?product_id=57) | BlackDiamond ディスタンスFLZの先に |
+| ポール先ゴム | [杖先ゴム PP07‐08](http://sinanostore.jp/products/detail.php?product_id=57) | BlackDiamond ディスタンスFLZ の先に |
 
 ### トレッキングポール
 

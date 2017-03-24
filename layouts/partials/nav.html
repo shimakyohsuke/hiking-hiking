@@ -1,17 +1,10 @@
-    <section class="section">
-      <div class="container">
-        <nav class="nav">
-          <div class="nav-left">
-            <a class="nav-item" href="{{ .Site.BaseURL }}"><h1 class="title is-4">{{ .Site.Title }}</h1></a>
+    <header>
+      <div class="hh-header">
+        <div class="hh-header__content">
+          <div>
+            <h1 class="hh-site_title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
           </div>
-          <div class="nav-right">
-            <nav class="nav-item level is-mobile">
-              <a class="level-item" href="/about">このサイトについて</a>
-            </nav>
-          </div>
-        </nav>
+          {{ with .Site.Params.description }}<div><h2 class="hh-site_tagline">{{ . }}</h2></div>{{ end }}
+        </div>
       </div>
-      {{ with .Site.Params.description }}<div class="container">
-        <p>{{ . }}</p>
-      </div>{{ end }}
-    </section>
+    </header>

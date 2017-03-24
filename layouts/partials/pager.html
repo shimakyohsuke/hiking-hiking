@@ -1,0 +1,20 @@
+<section>
+  <div class="hh-container">
+    <div class="hh-content hh-display__flex--jcs--aic">
+      <div>
+        {{ if .Paginator.HasPrev }}
+        <a class="hh-button" href="{{ .Paginator.Prev.URL }}"><i class="fa fa-angle-left"></i> Newer</a>
+        {{ else }}
+        <a class="hh-button is-disabled"><i class="fa fa-angle-left"></i> Newer</a>
+        {{ end }}
+      </div>
+      <div>
+        {{ if .Paginator.HasNext }}
+        <a class="hh-button" href="{{ .Paginator.Next.URL }}">Older <i class="fa fa-angle-right"></i></a>
+        {{ else }}
+        <a class="hh-button is-disabled">Older <i class="fa fa-angle-right"></i></a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,17 +1,17 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
-    <section class="section">
-      <div class="container">
+    <section>
+      <div class="hh-container">
+        <div class="hh-content">
         {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}{{ range sort $paginator.Pages }}
-        <article>
-          <h1 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} ::Draft{{ end }}</h1>
-          <h2 class="subtitle is-5">{{ .Date.Format "January 2, 2006" }}</h2>
-          {{ if .Params.tags }}{{ partial "tags" .Params.tags }}{{ end }}
-          <div class="content">
-            {{ .Summary | plainify | safeHTML }}{{ if .Truncated }}
-            <p>{{ .Description }} <a class="button is-link" href="{{ .Permalink }}" style="height:28px">Read more<span class="icon is-small"><i class="fa fa-angle-double-right"></i></span></a></p>{{ end }}
-          </div>
-        </article>{{ end }}
+          <article>
+            <h1 class="hh-list__title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} ::Draft{{ end }}</h1>
+            <p>{{ .Date.Format "January 2, 2006" }}</p>
+            {{ if .Params.tags }}{{ partial "tags" .Params.tags }}{{ end }}
+            {{ .Summary | plainify | safeHTML }}{{ if .Truncated }}<p>{{ .Description }}  <a class="hh-button" href="{{ .Permalink }}">Read more <i class="fa fa-angle-double-right"></i></a></p>{{ end }}
+          </article>
+        {{ end }}
+      </div>
       </div>
     </section>
 {{ partial "pager" . }}

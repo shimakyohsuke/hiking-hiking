@@ -1,17 +1,17 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
-    <section class="section">
-      <div class="container">
-        <h1 class="title">{{ .Title }}</h1>
-        <h2 class="subtitle is-5">{{ .Date.Format "January 2, 2006" }} {{ if (ne ($.Param "displayauthor") false) }}by {{ .Params.author | default .Site.Params.author }}{{ end }}</h2>
-        {{ if .Params.tags }}
-          {{ partial "tags" .Params.tags }}
-        {{ end }}
-        <div class="content">
+    <section>
+      <div class="hh-container">
+        <div class="hh-post hh-content">
+          <h1 class="hh-post__title">{{ .Title }}</h1>
+          <p>{{ .Date.Format "January 2, 2006" }}</p>
+          {{ if .Params.tags }}
+            {{ partial "tags" .Params.tags }}
+          {{ end }}
           {{ .Content }}
           {{ if .Params.related }}
           {{ $related := .Params.related }}
-          <h2>関連記事</h2>
+          <h3>関連記事</h3>
           <ul>
             {{ $page_link := .Permalink }}
             {{ $title := .Title }}
@@ -23,31 +23,23 @@
             {{ end }}
           </ul>
           {{ end }}
-          <div class="level">
-            <div class="level-left">
-              <div class="level-item">
-                {{ if .Next }}
-                <a class="button" href="{{ .Next.Permalink }}"><span class="icon is-small is-marginless"><i class="fa fa-angle-left"></i></span>前の記事</a>
-                {{ else }}
-                <a class="button is-disabled">前の記事</a>
-                {{ end }}
-              </div>
+          <div class="hh-content hh-display__flex--jcs--aic">
+            <div>
+              {{ if .Next }}
+              <a class="hh-button" href="{{ .Next.Permalink }}"><i class="fa fa-angle-left"></i> 前の記事</a>
+              {{ else }}
+              <a class="hh-button is-disabled">前の記事</a>
+              {{ end }}
             </div>
-            <div class="level-right">
-              <div class="level-item">
-                {{ if .Prev }}
-                <a class="button" href="{{ .Prev.Permalink }}">次の記事<span class="icon is-small is-marginless"><i class="fa fa-angle-right"></i></span></a>
-                {{ else }}
-                <a class="button is-disabled">次の記事</a>
-                {{ end }}
-              </div>
+            <div>
+              {{ if .Prev }}
+              <a class="hh-button" href="{{ .Prev.Permalink }}">次の記事 <i class="fa fa-angle-right"></i></a>
+              {{ else }}
+              <a class="hh-button is-disabled">次の記事</a>
+              {{ end }}
             </div>
           </div>
         </div>
-        {{ if (ne ($.Param "sharingicons") false) }}
-        {{ partial "sharing.html" . }}
-        {{ end }}
       </div>
     </section>
-{{ partial "disqus" . }}
 {{ partial "footer" . }}

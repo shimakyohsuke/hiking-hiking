@@ -1,27 +1,20 @@
-    <section class="section">
-      <div class="container">
-        <div class="content">
-          <hr>
-          <h3>プロフィール</h3>
+    <footer>
+      <div class="hh-container">
+        <div class="hh-content">
+          <h4>プロフィール</h4>
           <p>シマ キョウスケと言います。<br />30 代男性大阪在住で普段は Web のお仕事をしています。<br /><a href="https://shimakyohsuke.com/">https://shimakyohsuke.com/</a></p>
           <p>またこのブログは <a href="https://www.netlify.com/">Netlify</a> と <a href="https://gohugo.io/">Hugo</a> と <a href="https://github.com/">GitHub</a> を使って作成しています。</p>
+          <div class="hh-footer__icons hh-display__flex--jcs--aic">
+            <p><a href="https://twitter.com/shima_x_o"><i class="fa fa-twitter fa-2x" aria-label="twitter" aria-hidden="true"></i></a></p>
+            <p><a href="https://github.com/shimakyohsuke"><i class="fa fa-github fa-2x" aria-label="github" aria-hidden="true"></i></a></p>
+            <p><a href="https://instagram.com/shimakyohsuke/"><i class="fa fa-instagram fa-2x" aria-label="instagram" aria-hidden="true"></i></a></p>
+            <p><a href="https://www.flickr.com/photos/shimakyohsuke/"><i class="fa fa-flickr fa-2x" aria-label="flickr" aria-hidden="true"></i></a></p>
+          </div>
+          <div class="hh-display__flex--jcs--aic">
+            <small>{{ .Site.Copyright | safeHTML }}</small>
+          </div>
         </div>
       </div>
-    </section>
-    <section class="section">
-      <div class="container has-text-centered">
-        <ul class="footer__icons">
-          <li><a href="https://twitter.com/shima_x_o"><i class="fa fa-twitter fa-2x" aria-label="twitter" aria-hidden="true"></i></a></li>
-          <li><a href="https://github.com/shimakyohsuke"><i class="fa fa-github fa-2x" aria-label="github" aria-hidden="true"></i></a></li>
-          <li><a href="https://instagram.com/shimakyohsuke/"><i class="fa fa-instagram fa-2x" aria-label="instagram" aria-hidden="true"></i></a></li>
-          <li><a href="https://www.flickr.com/photos/shimakyohsuke/"><i class="fa fa-flickr fa-2x" aria-label="flickr" aria-hidden="true"></i></a></li>
-        </ul>
-      </div>
-    </section>
-    <section class="section">
-      <div class="container has-text-centered">
-        <small>{{ .Site.Copyright | safeHTML }}</small>
-      </div>
-    </section>
+    </footer>
   </body>
 </html>

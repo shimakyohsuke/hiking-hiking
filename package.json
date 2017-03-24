@@ -1,0 +1,45 @@
+{
+  "name": "hiking_hiking",
+  "version": "1.0.0",
+  "description": "HIKING-HIKING",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SHIMA KYOHSUKE",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.9.4"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-register": "^6.24.0",
+    "bulma-stylus": "^0.3.2",
+    "gulp": "^3.9.1",
+    "gulp-changed": "^2.0.0",
+    "gulp-data": "^1.2.1",
+    "gulp-debug": "^3.1.0",
+    "gulp-header": "^1.8.8",
+    "gulp-if": "^2.0.2",
+    "gulp-notify": "^3.0.0",
+    "gulp-pleeease": "^2.0.2",
+    "gulp-plumber": "^1.1.0",
+    "gulp-size": "^2.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-stylus": "^2.6.0",
+    "gulp-uglify": "^2.1.2",
+    "gulp-watch": "^4.3.11",
+    "minimist": "^1.2.0",
+    "require-dir": "^0.3.1"
+  },
+  "dependencies": {
+    "sanitize.css": "^5.0.0"
+  }
+}
