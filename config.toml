@@ -3,11 +3,11 @@ title = "HIKING-HIKING"
 baseURL = "https://hiking-hiking.com/"
 theme = "hucore"
 copyright = "&copy; <a href=\"/\">HIKING-HIKING</a>"
-description = "知らない土地、知らない景色を知る為にぼちぼち歩いて行くブログ"
+description = "知らない土地、知らない景色を知るためにぼちぼち歩いて行くブログ"
 HasCJKLanguage = true
 
 [params]
-  description = "知らない土地、知らない景色を知る為にぼちぼち歩いて行くブログ"
+  description = "知らない土地、知らない景色を知るためにぼちぼち歩いて行くブログ"
   author = "SHIMA KYOHSUKE"
   sharingicons = false
   displayauthor = true

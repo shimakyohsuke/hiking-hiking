@@ -1,5 +1,7 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
+{{ $siteUrl := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $.Scratch.Add "sitePath" .Site.BaseURL }}
     <section>
       <div class="hh-container">
         <div class="hh-post hh-content">
