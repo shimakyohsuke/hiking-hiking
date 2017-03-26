@@ -21,11 +21,12 @@ related: "tool-rethink"
 ### シューズ
 
 シューズは普段履くスニーカーでもハイカットが苦手で、いかにも山登ります的なゴツいのは避けたかったこともあり、トレラン用のものを購入。
-ただやっぱり苦手とはいえ山だし足首心配じゃんっていう情けない感じでミドルカットに。
+ただやっぱり苦手とはいえ山だし足首心配じゃんっていう情けない感じでミドルカットに。こんな感じで靴選んでよかったのかｗ
 
 Lone Peak 3.0 NeoShell Mid は若干の防水製があるとのことですが、GORE-TEX よりは防水製が劣るとのこと。その分、ムレも少ないので丁度いいなーと思いました。
 
-あと ALTRA の特徴である[「ゼロドロップ」](http://altrazerodrop.jp/learntorun01.html)がどんな感じで歩けるのか楽しみです。
+あと ALTRA の特徴であるつま先部分からかかとまでフラットなソールの[「ゼロドロップ」](http://altrazerodrop.jp/learntorun01.html)がどんな感じで歩けるのか楽しみです。
+
 
 ### その他
 
@@ -41,3 +42,5 @@ Lone Peak 3.0 NeoShell Mid は若干の防水製があるとのことですが�
 あとは実践あるのみや！ってことで 4 月中か GW にでもどっかいってきます。
 
 実際に使用した感じとかまた書きます。
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01B720H9S&linkId=5840a3ce1b258edd3eecfa5fe6d9ad07"></iframe>

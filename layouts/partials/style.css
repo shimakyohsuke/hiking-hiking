@@ -699,6 +699,9 @@ table tbody th {
 .hh-list__title a:hover {
   color: #f99f48;
 }
+.hh-list__description {
+  margin-top: 0;
+}
 .hh-button {
   background-color: #f99f48;
   padding: 0 10px;

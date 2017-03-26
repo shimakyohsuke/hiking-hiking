@@ -4,6 +4,7 @@ title: "Quatro Stove を購入した！固形燃料最高！"
 draft: false
 description: "山道具再考 昼食編といった感じです。"
 related: "tool-rethink"
+ogimage: "media/tool-rethink-lunch/IMG_9366.JPG"
 ---
 
 <!--more-->
