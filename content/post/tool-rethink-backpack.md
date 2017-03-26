@@ -36,8 +36,6 @@ OMM は Original Mountain Marathon の頭文字をとった名前で、世界各
 
 あっさり購入したようにみえる書き方をしてますが、実際に選ぶまでにすごく時間がかかりました。
 
-以下、駄文です。
-
 前回、六甲山に登った時に先輩のフレーム入りザックを背負わせてもらいました。
 
 フレーム入りのザックとなるとザック自身の重さが 1kg 〜 3kg はあるみたいで、それだけで重いやんと予想してましたが全然違いました。
@@ -59,22 +57,19 @@ OMM は Original Mountain Marathon の頭文字をとった名前で、世界各
 
 CM で使用しているザックにはロゴはありませんが、どうやら[Hyperlite Mountain Gear](https://www.hyperlitemountaingear.com/) のザックではないかのと情報を見つけました。たしかに似ています。
 
-Hyperlite Mountain Gear かっこいいなぁとなりましたが、お値段が、、となり断念しました。
+Hyperlite Mountain Gear かっこいいですねぇ。
 
 ##### 山と道
 
 [山と道](http://yamatomichi.com/) のザック、マジかっこいい。
 
 [最初の記事](/post/hello/) で書いた「軽い荷物でハイキングしよう！移動の幅が広がって自由だぜ！」はこのブランドのページやブログを見て知りました。（ウルトラライトハイキングの文化については、[Hiker&#039;s Depot](http://hikersdepot.jp/) さんや [山と道](http://yamatomichi.com/) さんのページに詳細や経緯などが書かれています。）
-しかし、関西で試しに背負える方法がなかったのと若干の予算が、、となり諦めました。
-※2017 年 3 月現在は京都の「[山食音](https://www.facebook.com/yamashokuon/)」という場所で購入できるそうです。
 
 ##### RawLow Mountain Works
 
-[RawLow Mountain Works](http://rawlow.jp/) なんておしゃれなザックなんだ。
-
+[RawLow Mountain Works](http://rawlow.jp/) なんておしゃれなザックなんだ。  
 こちらは、[geared](http://geared.jp/mita/2016/09/rawlowmountainworks.html) の記事で知りました。
-クラシックなイキフンに魅了されかけましたが、こちらも試しに背負える方法がなかったのと若干の予算が、、となり諦めました。
+クラシックなイキフンにいいですねぇ。
 
 #### 予算がおれを冷静にさせてくれた
 

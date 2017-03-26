@@ -688,7 +688,7 @@ table tbody th {
   font-weight: 400;
 }
 .hh-list__title {
-  margin-top: 30px;
+  margin-top: 60px;
   margin-bottom: 0;
   font-size: 125%;
   color: #1b435d;
@@ -740,7 +740,7 @@ table tbody th {
   margin-top: 30px;
 }
 .hh-post .hh-post__title {
-  margin-top: 30px;
+  margin-top: 60px;
 }
 .hh-post code {
   background-color: #f8f8f8;
@@ -773,6 +773,9 @@ table tbody th {
   color: #78bbe6;
   margin-bottom: 1em;
   font-size: 90%;
+}
+.hh-pagination {
+  margin-top: 60px;
 }
 @media screen and (max-width: 680px) {
   .hh-post figure {

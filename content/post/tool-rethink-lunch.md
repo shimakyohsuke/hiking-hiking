@@ -1,6 +1,6 @@
 ---
 date: "2017-03-20T00:00:00+09:00"
-title: "固形燃料最高！Quatro Stove を購入した！"
+title: "Quatro Stove を購入した！固形燃料最高！"
 draft: false
 description: "山道具再考 昼食編といった感じです。"
 related: "tool-rethink"
@@ -36,7 +36,7 @@ related: "tool-rethink"
 {{% figure src="/media/tool-rethink-lunch/IMG_9365.JPG" alt="Quatro Stove" caption="Highland Designs / Quatro Stove" %}}
 
 ストーブはたまたま東京出張の時に、三鷹の [Hiker&#039;s Depot](http://hikersdepot.jp/) に寄る時間があったので、Quatro Stove を購入。
-Quatro Stove はチタン製で型どられた薄い板 3 枚を使用時に組み立て、台の中央に固形燃料を置いて使用します。
+Quatro Stove はチタン製で型どられた薄い板 3 枚を使用時に組み立て、台の中央に固形燃料を置いて使用します。重量は 17g ！すごく軽い
 
 {{% figure src="/media/tool-rethink-lunch/IMG_9366.JPG" alt="組み立ても簡単" caption="組み立ても簡単" %}}
 
@@ -51,13 +51,23 @@ Quatro Stove はチタン製で型どられた薄い板 3 枚を使用時に組�
 
 {{% figure src="/media/tool-rethink-lunch/IMG_9369.JPG" alt="snowpeak のチタンシングルマグ 450 とフタ" caption="snowpeak のチタンシングルマグ 450 とフタ" %}}
 
-{{% figure src="/media/tool-rethink-lunch/IMG_9371.JPG" alt="一式。部屋の背景汚いからいずれ外でキレイな写真を撮る" caption="一式。部屋の背景汚いからいずれ外でキレイな写真を撮る" %}}
+{{% figure src="/media/tool-rethink-lunch/IMG_9371.JPG" alt="Quatro Stove にチタンシングルマグをのっけた様子。部屋の背景汚いからいずれ外でキレイな写真を撮る" caption="Quatro Stove にチタンシングルマグをのっけた様子。部屋の背景汚いからいずれ外でキレイな写真を撮る" %}}
 
-ウインドスクリーンを使って少ない固形燃料でも熱が逃げないようにします。こちらもチタン製です。
+ウインドスクリーンを使って少ない固形燃料でも熱が逃げないようにします。
+
+{{% figure src="/media/tool-rethink-lunch/IMG_9380.JPG" alt="使用時はこんな感じ" caption="使用時はこんな感じ" %}}
+
+ウインドスクリーンもチタン製です。
+
+{{% figure src="/media/tool-rethink-lunch/IMG_9381.JPG" alt="丸めるとこんなにコンパクト" caption="丸めるとこんなにコンパクト" %}}
 
 上記すべてとライターなどの火器、カップラーメン、おにぎりを Granite Gear のスタッフサック AIR ZIPPSACK にいれて昼食セットの完成です。
 
+{{% figure src="/media/tool-rethink-lunch/IMG_9382.JPG" alt="カップヌードルはシーフード" caption="カップヌードルはシーフード" %}}
+
 気づけば全部チタン製で、物の重量より自身の体重落とせよといった感じです。
+
+{{% figure src="/media/tool-rethink-lunch/IMG_9379.JPG" alt="全部チタン製" caption="全部チタン製" %}}
 
 しばらくお米は炊きませんがいつか必ずリベンジします。
 
