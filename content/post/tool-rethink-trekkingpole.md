@@ -22,16 +22,16 @@ related: "tool-rethink"
 
 [BlackDiamond / ディスタンスFLZ](http://blackdiamondequipment.com/en/trekking-poles/distance-flz-pole-BD112178_cfg.html)
 
-トレッキングポールは先輩にお借りした時に絶対に必要だと思っていたので、最優先で購入しました。
-上を見ればカーボン製のとびきり軽くコンパクトに収まるポールがありましたが、カーボンは一般的なポールで採用されているアルミより耐久力が弱いとのことなのでアルミ製にしました。
+トレッキングポールは先輩にお借りした時に絶対に必要だと思っていたので、最優先で購入しました。  
+上を見ればカーボン製のとびきり軽くコンパクトに収まるポールがありましたが、カーボンは一般的なポールで採用されているアルミより耐久力が弱いとのことなのでアルミ製で探してました。
 
-ディスタンスFLZ は長さが可変します（ 105cm - 125cm ）を購入いたしました。
+組み立てが容易で強度があり長さ調節ができる BlackDiamond のディスタンス FLZ に決定しました。Z ポール式で軽いです。
 
-組み立てが容易なことと折りたたみ時（ 37cm になります）にザックの長さを超えないものを探してこれになりました。
+サイズ展開が 3 種類あり、身長 170cm の自分は長さが 105cm - 125cm の間で調整できるサイズを購入いたしました。また折りたたみ時の長さが 37cm になるので OMM Classic 25 にぴったりで収納性 Good です。
 
 {{% figure src="/media/tool-rethink-act/IMG_9363.JPG" alt="ザックの大きさにぴったり" caption="ザックの大きさにぴったり" %}}
 
-ポール先端が一般的なポールより細く尖っているので、さきっちょにゴムをつけます。
+ポール先端の石突き部分が一般的なポールより細く尖っているので、さきっちょにゴムをつけます。  
 [BlackDiamond / ディスタンスFLZ](http://blackdiamondequipment.com/en/trekking-poles/distance-flz-pole-BD112178_cfg.html) に [杖先ゴム PP07‐08](http://sinanostore.jp/products/detail.php?product_id=57) はぴったし装着できました。
 
 {{% figure src="/media/tool-rethink-act/IMG_9362.JPG" alt="ポールを逆さにして撮影。左が先端にゴムをつけたもので、右が購入時の状態" caption="ポールを逆さにして撮影。左が先端にゴムをつけたもので、右が購入時の状態" %}}
