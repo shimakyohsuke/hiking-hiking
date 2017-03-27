@@ -4,6 +4,7 @@ title: "OMM Classic 25 を選んだ理由"
 draft: false
 description: "ザック選びに一番長く迷いました。OMM Classic 25 を選んだ理由"
 related: "tool-rethink"
+ogimage: "media/tool-rethink-backpack/IMG_9360.JPG"
 ---
 
 <!--more-->
@@ -34,8 +35,9 @@ OMM は Original Mountain Marathon の頭文字をとった名前で、世界各
 フロントポケットもいい感じのサイズで、ハイドレーションなども入るようです。そこそこの強さのゴム紐でコンプレッションされているので、自分は薄手のインナーなど行動中に脱ぎ着する回数が多い物をいれるつもりです。  
 メッシュのサイドポケットには 500ml のペットボトル 2 本は入ります。その他アクセスしやすい位置にポケットがたくさんあるので、写真撮って追記します。
 
-
 ボトルホルダーはノリで買ってしまいました。これもぴったり装着することができます。
+
+{{% figure src="/media/tool-rethink-backpack/IMG_9360.JPG" alt="ロゴがドンッとプリントされてる" caption="ロゴがドンッとプリントされてる" %}}
 
 ### ザックを購入するまでの道のり
 
