@@ -33,7 +33,7 @@ EASY HIKING - <http://easyhiking.exblog.jp/22284609/>
 
 #### 誤字脱字について
 
-誤字脱字などがございましたら、GitHub の当サイトのリポジトリがございますので issues よりご連絡いただければ幸いです。  
+誤字脱字などがございましたら、GitHub に当サイトのリポジトリがございますので issues よりご連絡いただければ幸いです。  
 ※ GitHub アカウントが必要です。
 
 <https://github.com/shimakyohsuke/hiking-hiking/issues/new>
