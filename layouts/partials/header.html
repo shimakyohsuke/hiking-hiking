@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html{{ with .Site.LanguageCode }} lang="{{ . }}"{{ end }}>
   <head>
-    {{ if eq (printf "%v" $.Site.BaseURL) "http://localhost:1313/" }}
-    {{- "<!-- code for localhost only -->" | safeHTML -}}
-    {{ else }}
+    {{- if eq (printf "%v" $.Site.BaseURL) "http://localhost:1313/" -}}
+    {{ "<!-- code for localhost only -->" | safeHTML }}
+    {{- else -}}
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <script>
       (adsbygoogle = window.adsbygoogle || []).push({
@@ -11,7 +11,7 @@
         enable_page_level_ads: true
       });
     </script>
-    {{- "<!-- Google Tag Manager -->" | safeHTML -}}
+    {{ "<!-- Google Tag Manager -->" | safeHTML }}
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
