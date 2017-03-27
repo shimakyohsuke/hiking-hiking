@@ -35,6 +35,7 @@
     <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ if .Params.ogimage }}{{ .Params.ogimage }}{{ else }}ogp/ogp.png{{ end }}">
     <meta name="twitter:url" content="{{ .Site.BaseURL }}">
     <meta name="theme-color" content="#ffffff">
+    {{ .Hugo.Generator }}
     {{ if .RSSLink }}
     <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
     <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
@@ -45,7 +46,6 @@
     <link rel="icon" type="image/png" href="/favicons/favicon-16x16.png" sizes="16x16">
     <link rel="manifest" href="/favicons/manifest.json">
     <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#5bbad5">
-
     <title>{{ .Title }}{{ if eq .IsHome false }} | {{ .Site.Title }}{{ end }}</title>
     <script src="https://use.fontawesome.com/889f7ec330.js"></script>
     <style>{{ replaceRE " +" " " (replaceRE "\n" "" (partial "style.css" .)) | safeCSS }}</style>
