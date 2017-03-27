@@ -30,3 +30,10 @@ EASY HIKING - <http://easyhiking.exblog.jp/22284609/>
 ### Amazon アソシエイトに関するプライバシーポリシー
 
 「HIKING-HIKING」は、Amazon.co.jp を宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイト宣伝プログラムである、Amazon アソシエイト・プログラムの参加者です。
+
+#### 誤字脱字について
+
+誤字脱字などがございましたら、GitHub の当サイトのリポジトリがございますので issues よりご連絡いただければ幸いです。  
+※ GitHub アカウントが必要です。
+
+<https://github.com/shimakyohsuke/hiking-hiking/issues/new>
