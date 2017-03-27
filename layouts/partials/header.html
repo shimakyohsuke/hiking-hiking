@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html{{ with .Site.LanguageCode }} lang="{{ . }}"{{ end }}>
   <head>
-    {{- if eq (printf "%v" $.Site.BaseURL) "http://localhost:1313/" -}}
-    {{ "<!-- code for localhost only -->" | safeHTML }}
+    {{ if eq (printf "%v" $.Site.BaseURL) "http://localhost:1313/" }}
+    {{- "<!-- code for localhost only -->" | safeHTML -}}
     {{- else -}}
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <script>
