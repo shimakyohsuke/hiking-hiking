@@ -18,7 +18,19 @@ description: "こんにちは。ハイキングについて書いていくブロ
 そこから山登ったり歩いたりするのもなんだかよさそうだなーとなりました。  
 とある北海道のフェスで山の中で一晩中踊って原始的な体験したのも影響してます。
 
-知らない土地、知らない景色をたくさん知る為にぼちぼち歩いて行きたいと思います。
+## いずれ行きたい地
+
+いずれ行きたい地は「双六岳」です。  
+双六岳の事は以下の記事を見た時に知りました。
+
+EASY HIKING - <http://easyhiking.exblog.jp/22284609/>
+
+その後、双六岳の景色が掲載されている雑誌 [ワンダーフォーゲル 2016年8月号](http://www.yamakei.co.jp/products/2816914122.html) を購入し「ルポ 北アルプスUL珍道中」に掲載されていた両紙面いっぱいの双六岳の写真をみて一目惚れしました。
+
+こういった知らない土地、知らない景色がまだまだたくさんありますね。  
+訪れた場所の記録をこれから残していきたいと思います。
+
+いつの日か必ず双六岳にいこう
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01DP2X6UU&linkId=96a6b2eb6603e90f36a4e38581261882"></iframe>
 
