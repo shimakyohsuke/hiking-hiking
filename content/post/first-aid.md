@@ -46,11 +46,14 @@ description: "行動中の軽い怪我や症状に対応できるファースト
 
 滅菌されたガーゼが個別包装されているものを用意しました。
 
-軽い擦り傷には水洗い後に滅菌ガーゼで傷口を軽く圧迫して止血し、傷口を拭き取り、キズパワーパッド&trade; を貼り付けて包帯で軽く固定します。
-
+軽い擦り傷には水洗い後に滅菌ガーゼで傷口を軽く圧迫して止血し、傷口を拭き取り、キズパワーパッド&trade; を貼り付けて包帯で軽く固定します。  
 ハチに刺された時にはポイズンリムーバーで吸い出した毒液や血などを滅菌ガーゼで拭き取り、軟膏を塗布してバンドエイドを貼って応急処置します。
 
+包帯は伸縮性があって重ねるとくっつくタイプの包帯にしました。
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B004JZYAUS&linkId=0d54c267b0896717286f7c1fce35e332"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000FQU6BC&linkId=f72aa8cbfa075e7aab50cf59c144c0b3"></iframe>
 
 ### 飲み薬やサプリなど
 
