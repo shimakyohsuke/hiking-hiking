@@ -30,7 +30,11 @@ description: "行動中の軽い怪我や症状に対応できるファースト
 
 軽い擦り傷などに使用します。
 
-[使い方ページ](http://www.band-aid.jp/kizupowerpad/use.html)をみていると「水道水で洗い流してから、キズパワーパッド™を貼ってください。」とのことなので、消毒液がいらなくて荷物減っていいかなと思いました。ただあまり怪我をしたことがないので「湿潤療法」を経験したことがないのですが、どうなんでしょう？昔ながらの消毒液＋バンドエイドのほうがいいのかな。
+[使い方ページ](http://www.band-aid.jp/kizupowerpad/use.html)をみていると「水道水で洗い流してから、キズパワーパッド™を貼ってください。」とのことなので、消毒液がいらなくて荷物減っていいかなと思いました。
+
+ただあまり怪我をしたことがないので「湿潤療法」を経験したことがないのですが、どうなんでしょう？水道水で洗い流しての箇所は山の中では厳しいことになりそうなので、昔ながらの消毒液＋バンドエイドのほうがいいのかな。
+
+まぁあくまで下山後に病院にいくまでの応急処置なので、血が止まってできるだけ傷口にバイキンなどが入らないようにする程度のことができればいいかなと今は思います。
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000VT0D9S&linkId=17fa99d35c38eb0119aca90803e5f75a"></iframe>
 
@@ -38,7 +42,7 @@ description: "行動中の軽い怪我や症状に対応できるファースト
 
 ハチに刺された時などに使用します。
 
-「吸引力が違う」とダイソンみたいなレビューが Amazon のレビューにあり、評価が良かったのでこちらにしました。試しに使ってみたところ、レバーを何度も引くことで吸引力を高めれることができます。
+「吸引力が違う」とダイソンみたいなレビューが Amazon のレビューにあり、評価が良かったので F.G.Labo のポイズンリムーバーにしました。試しに使ってみたところ、レバーを何度か引くことで吸引力を調整することができます。
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0130D16MO&linkId=3e8b2146b4a532f7a3c087ebbfcf6be3"></iframe>
 
@@ -101,5 +105,5 @@ description: "行動中の軽い怪我や症状に対応できるファースト
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B005DJS3ZW&linkId=d9194b8134ffbe3803df8e61ac36b3dc"></iframe>
 
-最低限の応急処置ができて比較的重量が軽く、コンパクトなファーストエイドキットが完成したと思います。  
+最低限の応急処置ができてコンパクトなファーストエイドキットが完成したと思います。  
 実際に使ってみて足りないものがあれば追記していきます。
