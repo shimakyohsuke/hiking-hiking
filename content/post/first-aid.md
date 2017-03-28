@@ -107,3 +107,9 @@ description: "行動中の軽い怪我や症状に対応できるファースト
 
 最低限の応急処置ができてコンパクトなファーストエイドキットが完成したと思います。  
 実際に使ってみて足りないものがあれば追記していきます。
+
+また処置の方法がわかっていなければ意味が無いので、以下の本などよく読んで応急処置の基礎知識は頭に叩き込んでおこうと思います。スマホの Kindle アプリにいれておけばいつでも読むことが出来ますね。
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01HHYTROQ&linkId=9427d03387c44d6a5682dfdb8000867b"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00BBP3L2C&linkId=492131a45b4f0540fe869c726edd5b5a"></iframe>
