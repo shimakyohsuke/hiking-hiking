@@ -75,7 +75,7 @@ description: "行動中の軽い怪我や症状に対応できるファースト
 
 #### ミドリ安全 塩熱サプリ 6粒PTP
 
-脱水対策にはポカリスエットやアクエリアスをマメに摂取すればいいかと思いましたが、いかんせん水分は重たいので、簡単に摂取できるサプリにしました。  
+脱水対策にはポカリスエットやアクエリアスをマメに摂取すればいいかと思いましたが、いかんせん液体は重たいので、簡単に摂取できるサプリにしました。  
 1 錠ずつ個別に取り出せるものがあったのでそちらを購入。
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00CJ9X6C4&linkId=2ea9e9bf3836fcbac56906d198746fca"></iframe>
