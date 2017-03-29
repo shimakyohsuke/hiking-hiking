@@ -3,6 +3,7 @@ date: "2017-03-28T00:00:00+09:00"
 draft: false
 title: "もしもの時のファーストエイドキットを作る"
 description: "行動中の軽い怪我や症状に対応できるファーストエイドキットを作りました。"
+ogimage: "media/first-aid/IMG_9393.JPG"
 ---
 
 <!--more-->
@@ -42,9 +43,28 @@ description: "行動中の軽い怪我や症状に対応できるファースト
 
 ハチに刺された時などに使用します。
 
-「吸引力が違う」とダイソンみたいなレビューが Amazon のレビューにあり、評価が良かったので F.G.Labo のポイズンリムーバーにしました。試しに使ってみたところ、レバーを何度か引くことで吸引力を調整することができます。
+「吸引力が違う」とダイソンみたいなレビューが Amazon のレビューにあり、評価が良かったので F.G.Labo のポイズンリムーバーにしました。
+
+{{% figure src="/media/first-aid/IMG_9392.JPG" alt="専用のケースがある" caption="専用のケースがある" %}}
+
+吸引器本体と吸引カップ 2 種類、ガーゼと止血帯がセットになってました。
+
+{{% figure src="/media/first-aid/IMG_9393.JPG" alt="中身はこんな感じ" caption="中身はこんな感じ" %}}
+
+早速試しに使ってみました。  
+レバーを引く回数で吸引力を調整することができます。
+
+{{% figure src="/media/first-aid/IMG_9395.JPG" alt="吸引カップをセットした状態" caption="吸引カップをセットした状態" %}}
+
+吸引カップに逆止弁がついていて、吸引した状態で吸引カップを取り外すことができます。  
+以下の写真ではわかりずらいかもしれませんが、オレンジの部分を引き上げると空気が入り、取り外せました。
+
+{{% figure src="/media/first-aid/IMG_9394.JPG" alt="ピンがボケた" caption="ピンがボケた" %}}
+
+片手で吸引した状態で吸引カップを取り外すのは少しコツがいるので、引率者がいれば取り外してもらうほうがよさそうです。
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0130D16MO&linkId=3e8b2146b4a532f7a3c087ebbfcf6be3"></iframe>
+
 
 ### 滅菌ガーゼと包帯
 
