@@ -830,6 +830,22 @@ table tbody th {
   -ms-flex-align: center;
       align-items: center;
 }
+.hh-sns {
+  max-width: 50%;
+  margin: 0 auto;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -ms-flex-align: center;
+      align-items: center;
+  margin-top: 60px;
+}
+@media screen and (max-width: 680px) {
+  .hh-sns {
+    max-width: 100%;
+  }
+}
 .aligncenter {
   display: block;
   margin: 0 auto;
