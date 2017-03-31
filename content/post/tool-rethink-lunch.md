@@ -1,6 +1,6 @@
 ---
 date: "2017-03-20T00:00:00+09:00"
-title: "Quatro Stove（クアトロストーブ）を購入した！固形燃料最高！"
+title: "Quatro Stove を購入した！固形燃料最高！"
 draft: false
 description: "山道具再考 昼食編といった感じです。<br>Quatro Stove はチタニウム製で軽くてコンパクトに収納できるストーブです。"
 related: "tool-rethink"
@@ -41,7 +41,7 @@ ogimage: "media/tool-rethink-lunch/IMG_9366.JPG"
 
 {{% figure src="/media/tool-rethink-lunch/IMG_9365.JPG" alt="Quatro Stove" caption="Highland Designs / Quatro Stove" %}}
 
-ストーブはたまたま東京出張の時に、三鷹の [Hiker&#039;s Depot](http://hikersdepot.jp/) に寄る時間があったので、Quatro Stove を購入。
+ストーブはたまたま東京出張の時に、三鷹の [Hiker&#039;s Depot](http://hikersdepot.jp/) に寄る時間があったので、Quatro Stove（クアトロストーブ）を購入。
 Quatro Stove はチタン製で型どられた薄い板 3 枚を使用時に組み立て、台の中央に固形燃料を置いて使用します。
 
 {{% figure src="/media/tool-rethink-lunch/IMG_9366.JPG" alt="組み立ても簡単" caption="組み立ても簡単" %}}
