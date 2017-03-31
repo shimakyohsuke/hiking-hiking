@@ -777,13 +777,19 @@ table tbody th {
 .hh-post h2 {
   border-bottom: 1px solid #78bbe6;
   padding-bottom: 8px;
+  padding-left: 3px;
 }
 .hh-post h3 {
   border-left: 4px solid #78bbe6;
   padding: 4px 0 4px 10px;
 }
+.hh-post h4 {
+  border-bottom: 1px dotted;
+  padding-bottom: 8px;
+  padding-left: 3px;
+}
 .hh-post strong {
-  background: linear-gradient(transparent 68%, #f99f48 68%);
+  background: linear-gradient(transparent 70%, rgba(249,159,72,0.7) 70%);
 }
 .hh-post figure {
   text-align: center;
@@ -831,7 +837,7 @@ table tbody th {
       align-items: center;
 }
 .hh-sns {
-  max-width: 50%;
+  max-width: 40%;
   margin: 0 auto;
   display: -ms-flexbox;
   display: flex;
