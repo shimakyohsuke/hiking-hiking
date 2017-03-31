@@ -46,7 +46,7 @@ ogimage: "media/first-climb/IMG_8871.JPG"
 | ------ | ------ | ------ |
 | クッカー | [LOTUS / ALMIPOT](http://hikersdepot.jp/products/145.html/) | 炊飯に |
 | クッカー | 百均の一人用アルミ鍋 | 鍋したあとにカレーで〆るプラン |
-| ストーブ | [antigravity gear / Katahdin Stove](http://hikersdepot.jp/products/1256.html/) | 炊飯に |
+| ストーブ | [AntiGravityGear / Katahdin Stove](http://hikersdepot.jp/products/1256.html/) | 炊飯に |
 | ストーブ | [Esbit / Pocket stove](https://esbit.de/en/pocket-stove-small-including-16x5-g-solid-fuel-tablets-002-092-00/) | 同時に調理したいじゃん |
 | 風防 | [TOAKS / TITANIUM WINDSCREEN](https://toaksoutdoor.com/products/wsc) | 風よけ |
 | 皿 | [ジップロック&reg; / スクリューロック&reg;](http://www.asahi-kasei.co.jp/saran/products/ziploc/screw.html) | 配膳に |
