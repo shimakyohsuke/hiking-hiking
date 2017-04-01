@@ -1,10 +1,22 @@
     <header>
       <div class="hh-header">
-        <div class="hh-header__content">
+        <div class="hh-site_meta">
+          <div class="hh-site_meta__inner">
           <div>
             <h1 class="hh-site_title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
           </div>
           {{ with .Site.Params.description }}<div><h2 class="hh-site_tagline">{{ . }}</h2></div>{{ end }}
+          </div>
+        </div>
+        <div class="hh-nav">
+          <div class="hh-nav__inner">
+            <nav>
+              <ul class="hh-nav__list">
+                <li><a href="/about/">このサイトについて</a></li>
+                <li><a href="/privacy-policy/">プライバシーポリシー</a></li>
+              </ul>
+            </nav>
+          </div>
         </div>
       </div>
     </header>

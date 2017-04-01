@@ -1,0 +1,10 @@
+<div class="hh-tags">
+  <p><i class="fa fa-tags" aria-hidden="true"></i></p>
+  <nav>
+    <ul class="hh-tags__list">
+      {{ range . }}
+      <li><a class="button is-link" href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a></li>
+      {{ end }}
+    </ul>
+  </nav>
+</div>

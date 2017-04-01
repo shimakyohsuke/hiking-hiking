@@ -4,6 +4,9 @@ draft: false
 title: "もしもの時のファーストエイドキットを作る"
 description: "行動中の軽い怪我や症状に対応できるファーストエイドキットを作りました。"
 ogimage: "media/first-aid/IMG_9393.JPG"
+tags:
+  - "tool"
+  - "first-aid"
 ---
 
 <!--more-->

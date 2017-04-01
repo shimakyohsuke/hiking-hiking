@@ -3,6 +3,8 @@ date: "2017-03-09T01:00:00+09:00"
 title: "こんにちは"
 draft: false
 description: "こんにちは。ハイキングについて書いていくブログをはじめます。"
+tags:
+  - "diary"
 ---
 
 <!--more-->

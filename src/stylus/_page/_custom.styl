@@ -3,7 +3,7 @@
 body
 	font-family "游ゴシック", YuGothic, fontFamily
 	line-height 1.8
-	color #1B435D
+	color textColor
 	font-size 100%
 
 a
@@ -13,7 +13,7 @@ a
 		color #F99F48
 		text-decoration underline
 p
-	color #1B435D
+	color textColor
 
 img
 	max-width 100%
@@ -44,17 +44,40 @@ table
 			border-right 1px #CCCCCC solid
 
 .hh-header
-	background #78BBE6
-
-.hh-header__content
-	max-width contentWidth
-	margin 0 auto
 	display flex
-	justify-content space-between
-	align-items center
+	flex-direction column
+	.hh-site_meta
+		background #78BBE6
+		&__inner
+			max-width contentWidth
+			margin 0 auto
+			display flex
+			justify-content space-between
+			align-items center
+
+.hh-nav
+	background #D5EEFF
+	&__inner
+		max-width contentWidth
+		margin 0 auto
+	&__list
+		display flex
+		justify-content flex-start
+		margin 0
+		padding 0
+		li
+			margin-left 2em
+			&:first-child
+				margin-left 0
+			a
+				color textColor
+				font-size px14
 
 @media screen and (max-width: screenSmallMin)
-	.hh-header__content
+	.hh-site_meta,
+	.hh-nav
+		padding 5px
+	.hh-site_meta__inner
 		justify-content center
 		flex-wrap wrap
 		& > div
@@ -85,11 +108,14 @@ table
 	margin-top 60px
 	margin-bottom 0
 	font-size px20
-	color #1B435D
+	color textColor
 	a
-		color #1B435D
+		color textColor
 		&:hover
 			color #F99F48
+@media screen and (max-width: screenSmallMin)
+	.hh-list__title
+		margin-top 40px
 
 .hh-list__description
 	margin-top 0
@@ -125,19 +151,24 @@ table
 		background-color #F2F2F2
 
 .hh-container
-	padding 20px
+	padding 0 10px
 
 .hh-content
 	max-width contentWidth
 	margin 0 auto
 	background-color #fff
 
+.hh-footer
+	margin-top 5em
+	padding-bottom 5px
+	border-bottom 5px solid textColor
+
 .hh-post
 	h1, h2, h3, h4, h5, h6
 		margin-top 0
 		line-height 1.5
 		&:not(:first-child)
-			margin-top 30px
+			margin-top 40px
 	& &__title
 		margin-top 60px
 	code
@@ -196,6 +227,39 @@ table
 	display flex
 	justify-content space-between
 	align-items center
+
+.hh-meta
+	width 100%
+	float left
+	&__date
+		float left
+		margin-right 2em
+
+.hh-tags
+	display flex
+	&__list
+		padding-left 1em
+		li
+			list-style-type none
+			float left
+			margin-left 1em
+			&:before
+				content '[ '
+			&:after
+				content ' ]'
+			&:first-child
+				margin-left 0
+
+@media screen and (max-width: screenSmallMin)
+	.hh-meta__date
+		margin 0
+	.hh-tags
+		width 100%
+		p,
+		ul,
+		li
+			margin 0
+
 
 .hh-sns
 	max-width 40%

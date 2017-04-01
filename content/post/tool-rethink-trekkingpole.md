@@ -4,6 +4,9 @@ title: "BlackDiamond ディスタンスFLZ は軽くて折りたたみもコン�
 draft: false
 description: "BlackDiamond ディスタンスFLZ は組み立てが容易で折りたたみ時もコンパクト"
 related: "tool-rethink"
+tags:
+  - "tool"
+  - "trekking-pole"
 ---
 
 <!--more-->

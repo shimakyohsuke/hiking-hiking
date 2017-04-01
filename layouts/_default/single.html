@@ -6,10 +6,10 @@
       <div class="hh-container">
         <div class="hh-post hh-content">
           <h1 class="hh-post__title">{{ .Title }}</h1>
-          <p>{{ .Date.Format "January 2, 2006" }}</p>
-          {{ if .Params.tags }}
-            {{ partial "tags" .Params.tags }}
-          {{ end }}
+          <div class="hh-meta">
+            <p class="hh-meta__date">{{ .Date.Format "January 2, 2006" }}</p>
+            {{ if .Params.tags }}{{ partial "tags" .Params.tags }}{{ end }}
+          </div>
           {{ .Content }}
           {{ if .Params.related }}
           {{ $related := .Params.related }}

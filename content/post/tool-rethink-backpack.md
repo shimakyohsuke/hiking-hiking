@@ -5,6 +5,9 @@ draft: false
 description: "ザック選びに一番長く迷いました。OMM Classic 25 を選んだ理由"
 related: "tool-rethink"
 ogimage: "media/tool-rethink-backpack/IMG_9360.JPG"
+tags:
+  - "tool"
+  - "backpack"
 ---
 
 <!--more-->

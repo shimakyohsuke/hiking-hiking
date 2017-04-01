@@ -4,6 +4,9 @@ title: "山靴デビューは ALTRA の Lone Peak 3.0"
 draft: false
 description: "ALTRA の特徴である「ゼロドロップ」がどんな感じで歩けるのか楽しみ"
 related: "tool-rethink"
+tags:
+  - "tool"
+  - "shoes"
 ---
 
 <!--more-->

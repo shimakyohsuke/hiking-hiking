@@ -5,6 +5,9 @@ draft: false
 description: "山道具再考 昼食編といった感じです。<br>Quatro Stove はチタニウム製で軽くてコンパクトに収納できるストーブです。"
 related: "tool-rethink"
 ogimage: "media/tool-rethink-lunch/IMG_9366.JPG"
+tags:
+  - "tool"
+  - "lunch"
 ---
 
 <!--more-->
@@ -58,7 +61,7 @@ Quatro Stove はチタン製で型どられた薄い板 3 枚を使用時に組�
 
 {{% figure src="/media/tool-rethink-lunch/IMG_9368.JPG" alt="Quatro Stove の台の中央に固形燃料を置く" caption="Quatro Stove の台の中央に固形燃料を置く" %}}
 
-ただカエン ニューエースは放置しておくと揮発してしまうとのことで若干取り扱いが面倒ですが、サランラップなどに巻いて持っていけば良いそうです。
+ただカエン ニューエースは放置しておくと揮発してしまうとのことで保管時にはジップロックなどにいれておく必要があります。
 
 #### snowpeak のチタンシングルマグ 450
 

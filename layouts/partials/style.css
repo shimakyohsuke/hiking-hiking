@@ -639,9 +639,15 @@ table tbody th {
   border-right: 1px #ccc solid;
 }
 .hh-header {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+}
+.hh-header .hh-site_meta {
   background: #78bbe6;
 }
-.hh-header__content {
+.hh-header .hh-site_meta__inner {
   max-width: 800px;
   margin: 0 auto;
   display: -ms-flexbox;
@@ -651,14 +657,43 @@ table tbody th {
   -ms-flex-align: center;
       align-items: center;
 }
+.hh-nav {
+  background: #d5eeff;
+}
+.hh-nav__inner {
+  max-width: 800px;
+  margin: 0 auto;
+}
+.hh-nav__list {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: start;
+      justify-content: flex-start;
+  margin: 0;
+  padding: 0;
+}
+.hh-nav__list li {
+  margin-left: 2em;
+}
+.hh-nav__list li:first-child {
+  margin-left: 0;
+}
+.hh-nav__list li a {
+  color: #1b435d;
+  font-size: 88%;
+}
 @media screen and (max-width: 680px) {
-  .hh-header__content {
+  .hh-site_meta,
+  .hh-nav {
+    padding: 5px;
+  }
+  .hh-site_meta__inner {
     -ms-flex-pack: center;
         justify-content: center;
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
   }
-  .hh-header__content > div {
+  .hh-site_meta__inner > div {
     width: 90%;
   }
   .hh-site_title {
@@ -699,6 +734,11 @@ table tbody th {
 .hh-list__title a:hover {
   color: #f99f48;
 }
+@media screen and (max-width: 680px) {
+  .hh-list__title {
+    margin-top: 40px;
+  }
+}
 .hh-list__description {
   margin-top: 0;
 }
@@ -737,12 +777,17 @@ table tbody th {
   background-color: #f2f2f2;
 }
 .hh-container {
-  padding: 20px;
+  padding: 0 10px;
 }
 .hh-content {
   max-width: 800px;
   margin: 0 auto;
   background-color: #fff;
+}
+.hh-footer {
+  margin-top: 5em;
+  padding-bottom: 5px;
+  border-bottom: 5px solid #1b435d;
 }
 .hh-post h1,
 .hh-post h2,
@@ -759,7 +804,7 @@ table tbody th {
 .hh-post h4:not(:first-child),
 .hh-post h5:not(:first-child),
 .hh-post h6:not(:first-child) {
-  margin-top: 30px;
+  margin-top: 40px;
 }
 .hh-post .hh-post__title {
   margin-top: 60px;
@@ -835,6 +880,48 @@ table tbody th {
       justify-content: space-between;
   -ms-flex-align: center;
       align-items: center;
+}
+.hh-meta {
+  width: 100%;
+  float: left;
+}
+.hh-meta__date {
+  float: left;
+  margin-right: 2em;
+}
+.hh-tags {
+  display: -ms-flexbox;
+  display: flex;
+}
+.hh-tags__list {
+  padding-left: 1em;
+}
+.hh-tags__list li {
+  list-style-type: none;
+  float: left;
+  margin-left: 1em;
+}
+.hh-tags__list li:before {
+  content: '[ ';
+}
+.hh-tags__list li:after {
+  content: ' ]';
+}
+.hh-tags__list li:first-child {
+  margin-left: 0;
+}
+@media screen and (max-width: 680px) {
+  .hh-meta__date {
+    margin: 0;
+  }
+  .hh-tags {
+    width: 100%;
+  }
+  .hh-tags p,
+  .hh-tags ul,
+  .hh-tags li {
+    margin: 0;
+  }
 }
 .hh-sns {
   max-width: 40%;
