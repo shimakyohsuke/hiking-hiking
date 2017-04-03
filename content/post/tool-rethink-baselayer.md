@@ -23,7 +23,7 @@ tags:
 | ベースレイヤー | [CW-X / ボトムス エキスパートモデル](http://www.cw-x.jp/about/mechanism/expert.html) | 膝が少し弱いので |
 | ベースレイヤー | [ユニクロ / AIRism ボクサーブリーフ（エアリズムメッシュ）](https://www.uniqlo.com/jp/store/feature/uq/airism/men/#fC101) | 安かったので |
 
-### 網シャツ界最強の異名を持つ MILLET の DRYNAMIC™ MESH
+### 網シャツ界最強の異名を持つ MILLET の DRYNAMIC&trade; MESH
 
 汗をかいたらインナーはすぐに乾いてほしいので、評判のいい MILLET の DRYNAMIC にしました。  
 これから暖かくなるのでノースリーブを購入です。
