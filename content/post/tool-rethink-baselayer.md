@@ -4,6 +4,7 @@ title: "MILLET の DRYNAMICTM™ MESH と CW-X のタイツを買った"
 draft: false
 description: "体温を守るためベースレイヤーを一通り買いに行きました。"
 related: "tool-rethink"
+ogimage: "media/tool-rethink-baselayer/IMG_9404.JPG"
 tags:
   - "tool"
   - "baselayer"
