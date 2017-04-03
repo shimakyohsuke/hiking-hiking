@@ -7,6 +7,7 @@ related: "tool-rethink"
 tags:
   - "tool"
   - "shoes"
+  - "clothes"
 ---
 
 <!--more-->

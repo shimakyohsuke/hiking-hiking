@@ -19,30 +19,6 @@ img
 	max-width 100%
 	height auto
 
-table
-	width 100%
-	border 1px #CCCCCC solid
-	border-bottom 0
-	border-right 0
-	table-layout fixed
-	font-size px14
-	margin-bottom 30px
-	tr
-		border-bottom 1px #CCCCCC solid
-	thead
-		th
-			background-color #F2F2F2
-			text-align center
-			padding 10px
-			border-right 1px #CCCCCC solid
-	tbody
-		td
-			padding 10px
-			box-sizing border-box
-			border-right 1px #CCCCCC solid
-		th
-			border-right 1px #CCCCCC solid
-
 .hh-header
 	display flex
 	flex-direction column
@@ -66,12 +42,14 @@ table
 		margin 0
 		padding 0
 		li
-			margin-left 2em
-			&:first-child
-				margin-left 0
 			a
 				color textColor
 				font-size px14
+				display block
+				padding 3px 1em
+				&:hover
+					background #FFF
+					text-decoration none
 
 @media screen and (max-width: screenSmallMin)
 	.hh-site_meta,
@@ -113,6 +91,7 @@ table
 		color textColor
 		&:hover
 			color #F99F48
+
 @media screen and (max-width: screenSmallMin)
 	.hh-list__title
 		margin-top 40px
@@ -200,6 +179,29 @@ table
 		color #78BBE6
 		margin-bottom 1em
 		font-size 90%
+	table
+		width 100%
+		border 1px #CCCCCC solid
+		border-bottom 0
+		border-right 0
+		table-layout fixed
+		font-size px14
+		margin-bottom 30px
+		tr
+			border-bottom 1px #CCCCCC solid
+		thead
+			th
+				background-color #F2F2F2
+				text-align center
+				padding 10px
+				border-right 1px #CCCCCC solid
+		tbody
+			td
+				padding 10px
+				box-sizing border-box
+				border-right 1px #CCCCCC solid
+			th
+				border-right 1px #CCCCCC solid
 
 .hh-pagination
 	margin-top 60px

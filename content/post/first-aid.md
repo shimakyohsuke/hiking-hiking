@@ -88,6 +88,8 @@ tags:
 
 以前、ハイキング中に先輩にいただいて飲んだらなんか身体が元気になった気がしたので、持って行きます。
 
+{{% figure src="/media/first-aid/IMG_9408.JPG" alt="6 個入りでもけっこう高い。。" caption="6 個入りでもけっこう高い。。" %}}
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0093FWXK8&linkId=864d6b2d1257cf6ef82696ab5183e7fe"></iframe>
 
 #### 芍薬甘草湯
@@ -100,6 +102,8 @@ tags:
 
 脱水対策にはポカリスエットやアクエリアスをマメに摂取すればいいかと思いましたが、いかんせん液体は重たいので、簡単に摂取できるサプリにしました。  
 1 錠ずつ個別に取り出せるものがあったのでそちらを購入。
+
+{{% figure src="/media/first-aid/IMG_9409.JPG" alt="行動中にも取り出しやすい" caption="行動中にも取り出しやすい" %}}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00CJ9X6C4&linkId=2ea9e9bf3836fcbac56906d198746fca"></iframe>
 
