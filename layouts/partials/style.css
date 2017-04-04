@@ -639,7 +639,7 @@ img {
   width: 68%;
 }
 @media screen and (max-width: 680px) {
-  .hh-article_list__title {
+  .hh-article_list {
     margin-top: 40px;
   }
 }
