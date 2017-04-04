@@ -1,0 +1,80 @@
+.hh-post
+	h1, h2, h3, h4, h5, h6
+		margin-top 0
+		line-height 1.5
+		&:not(:first-child)
+			margin-top 40px
+	& &__title
+		margin-top 60px
+	code
+		background-color #f8f8f8
+	h1+h2:not(:first-child),
+	h2+h3:not(:first-child),
+	h3+h4:not(:first-child),
+	h4+h5:not(:first-child),
+	h5+h6:not(:first-child)
+		margin-top: 20px
+	h2
+		border-bottom 1px solid #78BBE6
+		padding-bottom 8px
+		padding-left 3px
+	h3
+		border-left 4px solid #78BBE6
+		padding 4px 0 4px 10px
+	h4
+		border-bottom 1px dotted
+		padding-bottom 8px
+		padding-left 3px
+	strong
+		background linear-gradient(transparent 70%, rgba(249, 159, 72, .7) 70%)
+	figure
+		text-align center
+		img
+			max-width 80%
+	figcaption
+		color #78BBE6
+		margin-bottom 1em
+		font-size 90%
+	table
+		width 100%
+		border 1px #CCCCCC solid
+		border-bottom 0
+		border-right 0
+		table-layout fixed
+		font-size px14
+		margin-bottom 30px
+		tr
+			border-bottom 1px #CCCCCC solid
+		thead
+			th
+				background-color #F2F2F2
+				text-align center
+				padding 10px
+				border-right 1px #CCCCCC solid
+		tbody
+			td
+				padding 10px
+				box-sizing border-box
+				border-right 1px #CCCCCC solid
+			th
+				border-right 1px #CCCCCC solid
+	.aligncenter
+		display block
+		margin 0 auto
+
+	.alignright
+		float right
+		margin-left 1.5em
+		margin-bottom 1em
+
+	.alignleft
+		float left
+		margin-right 1.5em
+		margin-bottom 1em
+
+@media screen and (max-width: screenSmallMin)
+	.hh-post
+		figure
+			margin 0
+			img
+				max-width 100%

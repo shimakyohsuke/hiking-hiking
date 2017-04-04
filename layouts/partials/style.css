@@ -1,7 +1,4 @@
-
-
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600");
-
 /*! sanitize.css v5.0.0 | CC0 License | github.com/jonathantneal/sanitize.css */
 
 /* Document (https://html.spec.whatwg.org/multipage/semantics.html#semantics)
@@ -591,6 +588,7 @@ textarea,
 [aria-disabled] {
 	cursor: default;
 }
+
 body {
   font-family: "游ゴシック", YuGothic, -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
   line-height: 1.8;
@@ -605,12 +603,54 @@ a:hover {
   color: #f99f48;
   text-decoration: underline;
 }
-p {
-  color: #1b435d;
-}
 img {
   max-width: 100%;
   height: auto;
+}
+.hh-button {
+  background-color: #f99f48;
+  padding: 0 10px;
+  color: #fff;
+  display: inline-block;
+  box-sizing: border-box;
+  border: 1px solid #f99f48;
+  transition: 0.2s linear;
+}
+.hh-button:hover {
+  color: #f99f48;
+  text-decoration: none;
+  background-color: #fff;
+}
+.hh-button.is-disabled {
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  color: #fff;
+}
+.hh-button.is-disabled:hover {
+  color: #fff;
+  text-decoration: none;
+  background-color: #f2f2f2;
+}
+.hh-container {
+  padding: 0 10px;
+  font-size: 94%;
+}
+.hh-content {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fff;
+}
+.hh-footer {
+  margin-top: 5em;
+  padding-bottom: 5px;
+  border-bottom: 5px solid #1b435d;
+}
+.hh-footer__icons {
+  width: 50%;
+  margin: 0 auto;
+}
+.hh-footer__icons p a {
+  color: #42464c;
 }
 .hh-header {
   display: -ms-flexbox;
@@ -631,34 +671,8 @@ img {
   -ms-flex-align: center;
       align-items: center;
 }
-.hh-nav {
-  background: #d5eeff;
-}
-.hh-nav__inner {
-  max-width: 800px;
-  margin: 0 auto;
-}
-.hh-nav__list {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-pack: start;
-      justify-content: flex-start;
-  margin: 0;
-  padding: 0;
-}
-.hh-nav__list li a {
-  color: #1b435d;
-  font-size: 88%;
-  display: block;
-  padding: 3px 1em;
-}
-.hh-nav__list li a:hover {
-  background: #fff;
-  text-decoration: none;
-}
 @media screen and (max-width: 680px) {
-  .hh-site_meta,
-  .hh-nav {
+  .hh-site_meta {
     padding: 5px;
   }
   .hh-site_meta__inner {
@@ -670,31 +684,6 @@ img {
   .hh-site_meta__inner > div {
     width: 90%;
   }
-  .hh-site_title {
-    margin-bottom: 0;
-  }
-}
-.hh-site_title {
-  font-family: 'Source Sans Pro', "游ゴシック", YuGothic, -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
-  font-size: 125%;
-  color: #fff;
-  font-weight: 600;
-}
-.hh-site_title a {
-  text-decoration: none;
-  color: #fff;
-  font-weight: 600;
-}
-.hh-site_title a:visited {
-  color: #fff;
-}
-.hh-site_title a:hover {
-  color: #fff;
-}
-.hh-site_tagline {
-  color: #fff;
-  font-size: 88%;
-  font-weight: 400;
 }
 .hh-list__title {
   margin-top: 60px;
@@ -716,52 +705,52 @@ img {
 .hh-list__description {
   margin-top: 0;
 }
-.hh-ad__for_mobile {
-  display: none;
+.hh-meta {
+  width: 100%;
+  float: left;
+}
+.hh-meta__date {
+  float: left;
+  margin-right: 2em;
 }
 @media screen and (max-width: 680px) {
-  .hh-ad__for_pc {
-    display: none;
-  }
-  .hh-ad__for_mobile {
-    display: block;
+  .hh-meta__date {
+    margin: 0;
   }
 }
-.hh-button {
-  background-color: #f99f48;
-  padding: 0 10px;
-  color: #fff;
-  display: inline-block;
-  box-sizing: border-box;
-  border: 1px solid #f99f48;
-  transition: 0.2s linear;
+.hh-nav {
+  background: #d5eeff;
 }
-.hh-button:hover {
-  color: #f99f48;
-  text-decoration: none;
-  background-color: #fff;
-}
-.hh-button.is-disabled {
-  background-color: #f2f2f2;
-  border: 1px solid #f2f2f2;
-}
-.hh-button.is-disabled:hover {
-  color: #fff;
-  text-decoration: none;
-  background-color: #f2f2f2;
-}
-.hh-container {
-  padding: 0 10px;
-}
-.hh-content {
+.hh-nav__inner {
   max-width: 800px;
   margin: 0 auto;
-  background-color: #fff;
 }
-.hh-footer {
-  margin-top: 5em;
-  padding-bottom: 5px;
-  border-bottom: 5px solid #1b435d;
+.hh-nav__list {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: start;
+      justify-content: flex-start;
+  margin: 0;
+  padding: 0;
+}
+.hh-nav__list li a {
+  color: #1b435d;
+  font-size: 88%;
+  display: block;
+  padding: 3px 1em;
+  text-decoration: none;
+}
+.hh-nav__list li a:hover {
+  background: #fff;
+  text-decoration: none;
+}
+@media screen and (max-width: 680px) {
+  .hh-nav {
+    padding: 5px;
+  }
+}
+.hh-pagination {
+  margin-top: 60px;
 }
 .hh-post h1,
 .hh-post h2,
@@ -847,8 +836,19 @@ img {
 .hh-post table tbody th {
   border-right: 1px #ccc solid;
 }
-.hh-pagination {
-  margin-top: 60px;
+.hh-post .aligncenter {
+  display: block;
+  margin: 0 auto;
+}
+.hh-post .alignright {
+  float: right;
+  margin-left: 1.5em;
+  margin-bottom: 1em;
+}
+.hh-post .alignleft {
+  float: left;
+  margin-right: 1.5em;
+  margin-bottom: 1em;
 }
 @media screen and (max-width: 680px) {
   .hh-post figure {
@@ -858,36 +858,59 @@ img {
     max-width: 100%;
   }
 }
-.hh-footer__icons {
-  width: 50%;
+.hh-ad__for_mobile {
+  display: none;
+}
+@media screen and (max-width: 680px) {
+  .hh-ad__for_pc {
+    display: none;
+  }
+  .hh-ad__for_mobile {
+    display: block;
+  }
+}
+.hh-site_tagline {
+  color: #fff;
+  font-size: 88%;
+  font-weight: 400;
+}
+.hh-site_title {
+  font-family: 'Source Sans Pro', "游ゴシック", YuGothic, -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
+  font-size: 125%;
+  color: #fff;
+  font-weight: 600;
+}
+.hh-site_title a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 600;
+}
+.hh-site_title a:visited {
+  color: #fff;
+}
+.hh-site_title a:hover {
+  color: #fff;
+}
+@media screen and (max-width: 680px) {
+  .hh-site_title {
+    margin-bottom: 0;
+  }
+}
+.hh-sns {
+  max-width: 40%;
   margin: 0 auto;
-}
-.hh-footer__icons p a {
-  color: #42464c;
-}
-.hh-display__flex--jcs--aic {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-pack: distribute;
       justify-content: space-around;
   -ms-flex-align: center;
       align-items: center;
+  margin-top: 60px;
 }
-.hh-display__flex--jcsb--aic {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-pack: justify;
-      justify-content: space-between;
-  -ms-flex-align: center;
-      align-items: center;
-}
-.hh-meta {
-  width: 100%;
-  float: left;
-}
-.hh-meta__date {
-  float: left;
-  margin-right: 2em;
+@media screen and (max-width: 680px) {
+  .hh-sns {
+    max-width: 100%;
+  }
 }
 .hh-tags {
   display: -ms-flexbox;
@@ -911,9 +934,6 @@ img {
   margin-left: 0;
 }
 @media screen and (max-width: 680px) {
-  .hh-meta__date {
-    margin: 0;
-  }
   .hh-tags {
     width: 100%;
   }
@@ -923,33 +943,19 @@ img {
     margin: 0;
   }
 }
-.hh-sns {
-  max-width: 40%;
-  margin: 0 auto;
+.hh-display__flex--jcs--aic {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-pack: distribute;
       justify-content: space-around;
   -ms-flex-align: center;
       align-items: center;
-  margin-top: 60px;
 }
-@media screen and (max-width: 680px) {
-  .hh-sns {
-    max-width: 100%;
-  }
-}
-.aligncenter {
-  display: block;
-  margin: 0 auto;
-}
-.alignright {
-  float: right;
-  margin-left: 1.5em;
-  margin-bottom: 1em;
-}
-.alignleft {
-  float: left;
-  margin-right: 1.5em;
-  margin-bottom: 1em;
+.hh-display__flex--jcsb--aic {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: justify;
+      justify-content: space-between;
+  -ms-flex-align: center;
+      align-items: center;
 }

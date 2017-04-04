@@ -1,0 +1,22 @@
+.hh-tags
+	display flex
+	&__list
+		padding-left 1em
+		li
+			list-style-type none
+			float left
+			margin-left 1em
+			&:before
+				content '[ '
+			&:after
+				content ' ]'
+			&:first-child
+				margin-left 0
+
+@media screen and (max-width: screenSmallMin)
+	.hh-tags
+		width 100%
+		p,
+		ul,
+		li
+			margin 0

@@ -1,0 +1,20 @@
+.hh-header
+	display flex
+	flex-direction column
+	.hh-site_meta
+		background #78BBE6
+		&__inner
+			max-width contentWidth
+			margin 0 auto
+			display flex
+			justify-content space-between
+			align-items center
+
+@media screen and (max-width: screenSmallMin)
+	.hh-site_meta
+		padding 5px
+		&__inner
+			justify-content center
+			flex-wrap wrap
+			& > div
+				width 90%

@@ -1,0 +1,24 @@
+.hh-nav
+	background #D5EEFF
+	&__inner
+		max-width contentWidth
+		margin 0 auto
+	&__list
+		display flex
+		justify-content flex-start
+		margin 0
+		padding 0
+		li
+			a
+				color textColor
+				font-size px14
+				display block
+				padding 3px 1em
+				text-decoration none
+				&:hover
+					background #FFF
+					text-decoration none
+
+@media screen and (max-width: screenSmallMin)
+	.hh-nav
+		padding 5px
