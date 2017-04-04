@@ -7,7 +7,7 @@
         <div class="hh-post hh-content">
           <h1 class="hh-post__title">{{ .Title }}</h1>
           <div class="hh-meta">
-            <p class="hh-meta__date">{{ .Date.Format "January 2, 2006" }}</p>
+            <p class="hh-meta__date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ .Date.Format "2006-01-02" }}</p>
             {{ if .Params.tags }}{{ partial "tags" .Params.tags }}{{ end }}
           </div>
           {{ .Content }}

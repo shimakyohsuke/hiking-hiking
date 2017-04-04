@@ -1,17 +1,16 @@
 .hh-tags
 	display flex
 	&__list
-		padding-left 1em
+		padding-left .3em
 		li
 			list-style-type none
 			float left
-			margin-left 1em
 			&:before
-				content '[ '
-			&:after
-				content ' ]'
+				content ', '
 			&:first-child
 				margin-left 0
+				&:before
+					content none
 
 @media screen and (max-width: screenSmallMin)
 	.hh-tags

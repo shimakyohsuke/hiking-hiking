@@ -2,10 +2,10 @@
       <div class="hh-header">
         <div class="hh-site_meta">
           <div class="hh-site_meta__inner">
-          <div>
-            <h1 class="hh-site_title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
-          </div>
-          {{ with .Site.Params.description }}<div><h2 class="hh-site_tagline">{{ . }}</h2></div>{{ end }}
+            <div>
+              <p class="hh-site_title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></p>
+              {{ with .Site.Params.description }}<p class="hh-site_tagline">{{ . }}</p>{{ end }}
+            </div>
           </div>
         </div>
         <div class="hh-nav">
