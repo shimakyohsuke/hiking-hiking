@@ -676,6 +676,35 @@ img {
   margin: 0 auto;
   background-color: #fff;
 }
+.hh-flipsnap {
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.hh-flipsnap__inner {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+      justify-content: center;
+  box-sizing: border-box;
+}
+.hh-flipsnap__item {
+  margin: 0 2.5%;
+  cursor: ew-resize;
+}
+.pointer {
+  text-align: center;
+}
+.pointer span {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 8px;
+  border: 1px solid #1b435d;
+}
+.pointer span.current {
+  background: #2077b2;
+}
 .hh-footer {
   margin-top: 5em;
   padding-bottom: 1em;
@@ -816,6 +845,7 @@ img {
   background: linear-gradient(transparent 70%, rgba(249,159,72,0.7) 70%);
 }
 .hh-post figure {
+  margin: 1em 0;
   text-align: center;
 }
 .hh-post figure img {

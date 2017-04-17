@@ -2,4 +2,4 @@
 
 import gulp from 'gulp'
 
-gulp.task('build', ['stylus'])
+gulp.task('build', ['stylus', 'webpack'])

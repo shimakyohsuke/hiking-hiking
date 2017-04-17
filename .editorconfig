@@ -1,7 +1,6 @@
 root = true
 
 [*]
-indent_style = tab
 charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
@@ -20,3 +19,7 @@ tab_width = 2
 
 [*.md]
 trim_trailing_whitespace = false
+
+[*.js]
+indent_style = space
+indent_size = 2

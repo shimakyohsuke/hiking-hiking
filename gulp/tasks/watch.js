@@ -2,4 +2,4 @@
 
 import gulp from 'gulp'
 
-gulp.task('watch', ['stylus:watch'])
+gulp.task('watch', ['stylus:watch', 'webpack:watch'])

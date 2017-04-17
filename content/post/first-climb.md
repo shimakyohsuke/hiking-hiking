@@ -4,6 +4,7 @@ draft: false
 title: "六甲山の思い出"
 description: "初めて山に登った時のこと書きました。"
 ogimage: "media/first-climb/IMG_8871.JPG"
+related: "diary"
 tags:
   - "climb"
   - "diary"

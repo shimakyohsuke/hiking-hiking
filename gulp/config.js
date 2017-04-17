@@ -33,6 +33,14 @@ const config = {
       watch: [
         `${baseConfig.sourceDir}stylus/**/*.styl`
       ]
+    },
+    webpack: {
+      src: `${baseConfig.sourceDir}js/entry.js`,
+      dest: `./static/js/`,
+      filename: 'bundle.js',
+      watch: [
+        `${baseConfig.sourceDir}js/**/*.js`
+      ]
     }
   }
 }
