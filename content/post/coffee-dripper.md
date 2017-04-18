@@ -18,7 +18,7 @@ tags:
 
 バラバラのタイミングで、ドリッパー / ケトル / マグカップを買ったのにすべて GSI OUTDOOR 製品。オレンジと黒に惹かれちゃうんですかね。
 
-{{% figure src="/media/coffee-dripper/IMG_9665.JPG" alt="通称 GSI セット" caption="背景がごちゃついててわかりずいらい" %}}
+{{% figure src="/media/coffee-dripper/IMG_9665.JPG" alt="通称 GSI セット" caption="背景がごちゃついててわかりずらい" %}}
 
 ### GSI ウルトラライト ジャバドリップ を使ってみて
 
