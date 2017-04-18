@@ -22,6 +22,8 @@ tags:
 
 ### GSI ウルトラライト ジャバドリップ を使ってみて
 
+{{% img src="/media/coffee-dripper/misumisu.jpg" alt="セットした感じ" class="alignleft" style="max-width: 40%;" %}}
+
 味はごく普通のドリップコーヒーで特にこれで淹れたからうまいとかそういうのはなかったです。  
 使用感ですがドリッパーを固定するには、カップのフチが薄くないと固定するのが難しいです。シェラカップだと使えるのではないでしょうか。（一般的な陶器のマグカップだと固定できないと思いますが、そもそもこのドリッパーをわざわざ使わないですよね。）
 
@@ -47,7 +49,7 @@ tags:
 
 ## ついでに固形燃料も使ってみた。
 
-{{% img src="/media/coffee-dripper/IMG_9680.JPG" alt="てっぺん" class="alignleft" style="max-width: 40%;" %}}
+{{% img src="/media/coffee-dripper/IMG_9680.JPG" alt="固形燃料で湯沸かし" class="alignleft" style="max-width: 40%;" %}}
 
 買っただけで一度も外で確認できていなかったので、固形燃料で湯沸かしの確認をしました。
 
