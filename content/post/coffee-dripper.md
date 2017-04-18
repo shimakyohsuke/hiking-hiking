@@ -3,7 +3,7 @@ date: "2017-04-18T00:00:00+09:00"
 title: "軽量・薄型のコーヒードリッパー【GSI ウルトラライト ジャバドリップ】"
 draft: false
 description: "コーヒーは外で飲もうが家で飲もうがどこでもうまいですが、外でも飲みたいなーと思って購入したドリップコーヒーセットを使ってみました。"
-ogimage: "media/coffee-dripper/IMG_9666.JPG"
+ogimage: "media/coffee-dripper/IMG_9665.JPG"
 tags:
   - "tool"
 ---
