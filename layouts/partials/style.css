@@ -1,4 +1,6 @@
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600");
+
+@import url("https://fonts.googleapis.com/css?family=Ek+Mukta:200");
+
 /*! sanitize.css v5.0.0 | CC0 License | github.com/jonathantneal/sanitize.css */
 
 /* Document (https://html.spec.whatwg.org/multipage/semantics.html#semantics)
@@ -618,6 +620,7 @@ img {
 .hh-article_list__title {
   margin: 0;
   font-size: 125%;
+  font-weight: 300;
   color: #1b435d;
 }
 .hh-article_list__title a {
@@ -716,6 +719,13 @@ img {
 }
 .hh-footer__icons p a {
   color: #42464c;
+}
+.hh-footer small {
+  font-family: 'Ek Mukta', sans-serif;
+  font-weight: 200;
+}
+.hh-footer small a {
+  color: #1b435d;
 }
 .hh-header {
   display: -ms-flexbox;
@@ -816,6 +826,8 @@ img {
 }
 .hh-post .hh-post__title {
   margin-top: 60px;
+  font-weight: normal;
+  margin-bottom: 0;
 }
 .hh-post code {
   background-color: #f8f8f8;
@@ -830,15 +842,18 @@ img {
 .hh-post h2 {
   border-bottom: 1px solid #78bbe6;
   padding-bottom: 8px;
+  font-weight: normal;
   padding-left: 3px;
 }
 .hh-post h3 {
   border-left: 4px solid #78bbe6;
   padding: 4px 0 4px 10px;
+  font-weight: normal;
 }
 .hh-post h4 {
   border-bottom: 1px dotted;
   padding-bottom: 8px;
+  font-weight: normal;
   padding-left: 3px;
 }
 .hh-post strong {
@@ -882,6 +897,9 @@ img {
 .hh-post table tbody th {
   border-right: 1px #ccc solid;
 }
+.hh-post hr {
+  border-style: dashed;
+}
 .hh-post .aligncenter {
   display: block;
   margin: 0 auto;
@@ -920,14 +938,14 @@ img {
   margin: 0;
 }
 .hh-site_title {
-  font-family: 'Source Sans Pro', "游ゴシック", YuGothic, -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
-  font-size: 125%;
-  font-weight: 600;
+  font-family: 'Ek Mukta', sans-serif;
+  font-size: 175%;
+  font-weight: 200;
+  line-height: 1.2;
   margin: 10px 0;
 }
 .hh-site_title a {
   text-decoration: none;
-  font-weight: 600;
   color: #1b435d;
 }
 @media screen and (max-width: 680px) {
