@@ -34,8 +34,6 @@ EASY HIKING - <http://easyhiking.exblog.jp/22284609/>
 
 いつの日か必ず双六岳にいこう
 
----
-
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01DP2X6UU&linkId=96a6b2eb6603e90f36a4e38581261882"></iframe>
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01J37V4Q4&linkId=e92412db7e92a5245bc4e8cc9cae6a6b"></iframe>

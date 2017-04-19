@@ -18,14 +18,22 @@ tags:
 
 バラバラのタイミングで、ドリッパー / ケトル / マグカップを買ったのにすべて GSI OUTDOOR 製品。オレンジと黒に惹かれちゃうんですかね。
 
+| アイテム | 商品名 |
+| ------ | ------ |
+| ドリッパー | [GSI / ウルトラライトジャバドリップ](http://amzn.to/2oLVJCi) |
+| ケトル | [GSI / ジーエスアイ エクストリームティーケトル](http://amzn.to/2olu6PE) |
+| マグカップ | [GSI / ホウロウマグカップ](http://amzn.to/2olHrqQ) |
+
 {{% figure src="/media/coffee-dripper/IMG_9665.JPG" alt="通称 GSI セット" caption="背景がごちゃついててわかりづらい" %}}
 
 ### GSI ウルトラライト ジャバドリップ を使ってみて
 
 {{% img src="/media/coffee-dripper/misumisu.jpg" alt="セットした感じ" class="alignleft" style="max-width: 40%;" %}}
 
-味はごく普通のドリップコーヒーで特にこれで淹れたからうまいとかそういうのはなかったです。  
-使用感ですがドリッパーを固定するには、カップのフチが薄くないと固定するのが難しいです。シェラカップだと使えるのではないでしょうか。（一般的な陶器のマグカップだと固定できないと思いますが、そもそもこのドリッパーをわざわざ使わないですよね。）
+味はごく普通のドリップコーヒーで特にこれで淹れたからうまいとかそういうのはなかったです。
+
+使用感ですがドリッパーを固定するには、カップのフチが薄くないと固定するのが難しいです。  
+シェラカップだと使えるのではないでしょうか。（一般的な陶器のマグカップだと固定できないと思いますが、そもそもこのドリッパーをわざわざ使わないですよね。）
 
 写真で使ってる GSI のホウロウマグカップだと、お湯を注ぐときグラつきなどは発生しませんでした。またリム付きなので簡単には外れないです。（逆にいうと外す時は慎重にいかないとせっかく淹れたコーヒーがこぼれてしまう。。）
 
@@ -45,7 +53,7 @@ tags:
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B001HYG5WK&linkId=f0563eb1921a0a0b226e5110621c6557"></iframe>
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01HPU9Z80&linkId=fe423b3263d368e64a2147d4fc943090"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01HPU9ZTE&linkId=19cac0adc3deb18f75be085240edc812"></iframe>
 
 ## ついでに固形燃料も使ってみた。
 

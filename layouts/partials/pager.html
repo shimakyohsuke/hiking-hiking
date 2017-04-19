@@ -2,15 +2,15 @@
       <div class="hh-container hh-pagination">
         <div class="hh-content hh-display__flex--jcs--aic">
           <div>
-            {{ if .Paginator.HasPrev }}
-            <a class="hh-button" href="{{ .Paginator.Prev.URL }}"><i class="fa fa-angle-left"></i> Older</a>
+            {{ if .Paginator.HasNext }}
+            <a class="hh-button" href="{{ .Paginator.Next.URL }}"><i class="fa fa-angle-left"></i> Older</a>
             {{ else }}
             <a class="hh-button is-disabled"><i class="fa fa-angle-left"></i> Older</a>
             {{ end }}
           </div>
           <div>
-            {{ if .Paginator.HasNext }}
-            <a class="hh-button" href="{{ .Paginator.Next.URL }}">Newer <i class="fa fa-angle-right"></i></a>
+            {{ if .Paginator.HasPrev }}
+            <a class="hh-button" href="{{ .Paginator.Prev.URL }}">Newer <i class="fa fa-angle-right"></i></a>
             {{ else }}
             <a class="hh-button is-disabled">Newer <i class="fa fa-angle-right"></i></a>
             {{ end }}
