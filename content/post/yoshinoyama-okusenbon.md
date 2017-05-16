@@ -161,7 +161,7 @@ Web 屋さんのコミュティの方と 2 人で奈良県吉野山の奥千本�
 
 {{% figure src="/media/yoshinoyama-okusenbon/IMG_9791.JPG" alt="ほんとにいい天気だった" caption="ほんとにいい天気だった" %}}
 
-{{% img src="/media/yoshinoyama-okusenbon/IMG_9801.JPG" alt="ソフトクリーム" class="alignleft" style="max-width: 30%;" %}}
+{{% img src="/media/yoshinoyama-okusenbon/IMG_9801.JPG" alt="ソフトクリーム" class="alignleft" style="max-width: 50%;" %}}
 
 帰り途中、道が観光地モードに入ったため甘いものを食う。
 
@@ -169,8 +169,14 @@ Web 屋さんのコミュティの方と 2 人で奈良県吉野山の奥千本�
 
 「奥千本」って Google で検索したら出て来る桜満開の画はどこにあるのか結局最後までわからないまま、電車に乗って帰路につく。
 
-記事にして見返すと、キャー！！見て―！！桜が満開！！みたいなの写真が全然なくてタイトルが釣りになってしまった笑  
+記事にして見返すと、キャー！！見て―！！桜が満開！！みたいなの写真が全然なくてタイトルが釣りになってしまった。  
 まあ実際、桜満開の画は見てないのでしょうがない。
 
 帰りに鶴橋でよった焼肉屋のアキレススープうまかったなぁ。  
+
+<div>
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BTLtK-3ldo9/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">補給 #空 #ホルモン #イマソラ</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">シマキョウスケさん(@shimakyohsuke)がシェアした投稿 - <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-04-22T09:39:06+00:00">2017  4月 22 2:39午前 PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+</div>
+
 運動して銭湯入って肉食って酒飲むの最高やで。
