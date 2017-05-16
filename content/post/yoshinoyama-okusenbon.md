@@ -113,7 +113,7 @@ Web 屋さんのコミュティの方と 2 人で奈良県吉野山の奥千本�
 
 {{% figure src="/media/yoshinoyama-okusenbon/IMG_9751.JPG" alt="奥千本口" caption="奥千本口" %}}
 
-ここから登りが続くので奥千本口付近の屋台で塩分補給。ヤマメの塩焼きを食べました。
+ここから登りが続くので奥千本口付近の屋台で塩分補給。ヤマメ？かアマゴ？（どっちか忘れた）の塩焼きを食べました。
 
 {{% figure src="/media/yoshinoyama-okusenbon/IMG_9754.JPG" alt="釣りたてらしい" caption="釣りたてらしい" %}}
 
@@ -152,8 +152,8 @@ Web 屋さんのコミュティの方と 2 人で奈良県吉野山の奥千本�
 このへんでほとんど観光地じゃんと思って気持ちが萎えてたこと（だから写真めっちゃ多い）と、帰りに鶴橋で銭湯と焼肉が待ってることもあり、どうすればビールをおいしく飲むことができるかに目的がかわったので早々と退散。
 
 {{% figure src="/media/yoshinoyama-okusenbon/IMG_9782.JPG" alt="ふむ" caption="ふむ" %}}
-{{% figure src="/media/yoshinoyama-okusenbon/IMG_9784.JPG" alt="この水でコーヒーいれればよかった" caption="この水でコーヒーいれればよかった" %}}
 
+{{% figure src="/media/yoshinoyama-okusenbon/IMG_9784.JPG" alt="この水でコーヒーいれればよかった" caption="この水でコーヒーいれればよかった" %}}
 
 {{% figure src="/media/yoshinoyama-okusenbon/IMG_9787.JPG" alt="西行庵を見下ろす" caption="西行庵を見下ろす" %}}
 
