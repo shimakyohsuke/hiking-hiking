@@ -2,7 +2,7 @@
 date: "2017-05-15T00:00:00+09:00"
 draft: false
 title: "奈良県吉野山の奥千本に桜を観に行ってきた"
-description: "奈良県吉野山の奥千本に桜を観に行ってきた"
+description: "もしかしたら桜のピークは前の週だったのかもしれません。"
 ogimage: "media/yoshinoyama-okusenbon/IMG_9791.JPG"
 related: "climb"
 tags:
@@ -90,7 +90,6 @@ Web 屋さんのコミュティの方と 2 人で奈良県吉野山の奥千本�
 {{% figure src="/media/yoshinoyama-okusenbon/IMG_9729.JPG" alt="中千本の桜の見頃の時期は過ぎていた" caption="中千本の桜の見頃の時期は過ぎていた" %}}
 
 {{% figure src="/media/yoshinoyama-okusenbon/IMG_9741.JPG" alt="わらびっぽい。めっちゃ拾ってメルカリで売ろうとか考える。" caption="わらびっぽい。めっちゃ拾ってメルカリで売ろうとか考える。" %}}
-
 
 ほどよく歩いてると吉野水分神社に到着。  
 写真を拡大して気がついたけど、「すいぶん」と思ってたら「みくまり」って読むんですね。
