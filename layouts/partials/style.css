@@ -597,14 +597,10 @@ body {
   color: #1b435d;
   font-size: 100%;
   background-color: #fefefe;
-  -webkit-font-smoothing: subpixel-antialiased;
-  -moz-osx-font-smoothing: unset;
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 2), (-webkit-min-device-pixel-ratio: 2), (min-resolution: 2dppx) {
   body {
     font-family: 'Josefin Sans', Klee, '游ゴシック', YuGothic, -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
   }
   .hh-site_title {
     font-family: 'Josefin Sans', Klee, '游ゴシック', YuGothic, -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
