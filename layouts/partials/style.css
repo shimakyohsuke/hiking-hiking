@@ -592,11 +592,23 @@ textarea,
 	cursor: default;
 }
 body {
-  font-family: 'Josefin Sans', Klee, '游ゴシック', YuGothic, -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
   line-height: 1.8;
   color: #1b435d;
   font-size: 100%;
   background-color: #fefefe;
+  -webkit-font-smoothing: subpixel-antialiased;
+  -moz-osx-font-smoothing: unset;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), (-webkit-min-device-pixel-ratio: 2), (min-resolution: 2dppx) {
+  body {
+    font-family: 'Josefin Sans', Klee, '游ゴシック', YuGothic, -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .hh-site_title {
+    font-family: 'Josefin Sans', Klee, '游ゴシック', YuGothic, -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
+  }
 }
 a {
   color: #f99f48;
@@ -938,7 +950,7 @@ img {
   margin: 0;
 }
 .hh-site_title {
-  font-family: 'Josefin Sans', Klee, '游ゴシック', YuGothic, -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
   font-size: 175%;
   font-weight: 200;
   line-height: 1.2;

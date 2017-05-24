@@ -1,5 +1,6 @@
 @import '../../node_modules/sanitize.css/sanitize.css'
 @import './_partial/*'
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:300');
 
 body
 	font-family fontFamily
@@ -7,13 +8,16 @@ body
 	color textColor
 	font-size 100%
 	background-color #fefefe
-// 	-webkit-font-smoothing subpixel-antialiased
-// 	-moz-osx-font-smoothing unset
-//
-// @media only screen and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 2dppx)
-// 	body
-// 		-webkit-font-smoothing antialiased
-// 		-moz-osx-font-smoothing grayscale
+	-webkit-font-smoothing subpixel-antialiased
+	-moz-osx-font-smoothing unset
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 2dppx)
+	body
+		font-family 'Josefin Sans', Klee, '游ゴシック', YuGothic, fontFamily
+		-webkit-font-smoothing antialiased
+		-moz-osx-font-smoothing grayscale
+	.hh-site_title
+		font-family 'Josefin Sans', Klee, '游ゴシック', YuGothic, fontFamily
 
 a
 	color #F99F48
