@@ -1,5 +1,6 @@
 
-@import url("https://fonts.googleapis.com/css?family=Ek+Mukta:200");
+
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans:300");
 
 /*! sanitize.css v5.0.0 | CC0 License | github.com/jonathantneal/sanitize.css */
 
@@ -590,20 +591,19 @@ textarea,
 [aria-disabled] {
 	cursor: default;
 }
-
 body {
-  font-family: "游ゴシック", YuGothic, -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
   line-height: 1.8;
   color: #1b435d;
   font-size: 100%;
   background-color: #fefefe;
-  -webkit-font-smoothing: subpixel-antialiased;
-  -moz-osx-font-smoothing: unset;
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 2), (-webkit-min-device-pixel-ratio: 2), (min-resolution: 2dppx) {
   body {
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Josefin Sans', Klee, '游ゴシック', YuGothic, -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
+  }
+  .hh-site_title {
+    font-family: 'Josefin Sans', Klee, '游ゴシック', YuGothic, -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
   }
 }
 a {
@@ -946,7 +946,7 @@ img {
   margin: 0;
 }
 .hh-site_title {
-  font-family: 'Ek Mukta', sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
   font-size: 175%;
   font-weight: 200;
   line-height: 1.2;
