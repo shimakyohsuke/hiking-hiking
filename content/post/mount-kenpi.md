@@ -1,8 +1,8 @@
 ---
-date: "2017-05-17T00:00:00+09:00"
-draft: true
+date: "2017-05-31T00:00:00+09:00"
+draft: false
 title: "大阪府の北摂山系 剣尾山〜横尾山に行ってきました"
-description: "大阪市内から近く、登りやすくて帰りに温泉にも寄ることができていいところでした。"
+description: "大阪市内から近く登りやすくて帰りに温泉にも寄ることができていいところでした。"
 ogimage: "media/mount-kenpi/IMG_9857.JPG"
 related: "climb"
 tags:
@@ -99,7 +99,7 @@ tags:
 
 {{% figure src="/media/mount-kenpi/IMG_9857.JPG" alt="「ぴ」なのか「び」なのか" caption="「ぴ」なのか「び」なのか" %}}
 
-{{% figure src="/media/mount-kenpi/IMG_9860.JPG" alt="いい天気" caption="いい天気" %}}
+{{% figure src="/media/mount-kenpi/IMG_9860.JPG" alt="いいお天気" caption="いいお天気" %}}
 
 登山道まで早く着いたおかげで山頂には誰もいませんでした笑  
 見晴らしのいいところで昼食タイム。
