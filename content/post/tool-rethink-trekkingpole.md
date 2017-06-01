@@ -3,7 +3,7 @@ date: "2017-03-22T00:00:00+09:00"
 title: "BlackDiamond ディスタンスFLZ は軽くて折りたたみもコンパクト"
 draft: false
 description: "BlackDiamond ディスタンスFLZ は組み立てが容易で折りたたみ時もコンパクト"
-related: "tool-rethink"
+related: "tool"
 tags:
   - "tool"
   - "trekking-pole"

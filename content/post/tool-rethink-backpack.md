@@ -3,7 +3,7 @@ date: "2017-03-21T00:00:00+09:00"
 title: "OMM Classic 25 を選んだ理由"
 draft: false
 description: "ザック選びに一番長く迷いました。OMM Classic 25 を選んだ理由"
-related: "tool-rethink"
+related: "tool"
 ogimage: "media/tool-rethink-backpack/IMG_9360.JPG"
 tags:
   - "tool"

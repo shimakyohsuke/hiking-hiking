@@ -3,7 +3,7 @@ date: "2017-04-02T00:00:00+09:00"
 title: "MILLET の DRYNAMIC™ MESH と CW-X のタイツを買った"
 draft: false
 description: "体温を守るためベースレイヤーを一通り買いに行きました。"
-related: "tool-rethink"
+related: "tool"
 ogimage: "media/tool-rethink-baselayer/IMG_9404.JPG"
 tags:
   - "tool"

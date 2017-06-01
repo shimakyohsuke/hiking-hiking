@@ -3,6 +3,7 @@ date: "2017-03-28T00:00:00+09:00"
 draft: false
 title: "もしもの時のファーストエイドキットを作る"
 description: "行動中の軽い怪我や症状に対応できるファーストエイドキットを作りました。"
+related: "tool"
 ogimage: "media/first-aid/IMG_9393.JPG"
 tags:
   - "tool"

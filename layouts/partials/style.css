@@ -907,6 +907,7 @@ img {
 }
 .hh-post hr {
   border-style: dashed;
+  margin: 3em 0;
 }
 .hh-post .aligncenter {
   display: block;

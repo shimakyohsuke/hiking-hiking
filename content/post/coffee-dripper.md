@@ -4,6 +4,7 @@ title: "ハイキングに最適な軽量・薄型のコーヒードリッパー
 draft: false
 description: "コーヒーは外で飲もうが家で飲もうがどこでもうまいですが、外でも飲みたいなーと思って購入したドリップコーヒーセットを使ってみました。"
 ogimage: "media/coffee-dripper/IMG_9665.JPG"
+related: "tool"
 tags:
   - "tool"
 ---
