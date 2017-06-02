@@ -1,6 +1,15 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
     <section>
+      {{ if eq .IsHome false }}
+      <div class="hh-container">
+        <div class="hh-content">
+          <div class="hh-article_list">
+            <h1 class="hh-article_list__title" style="text-align: center; width: 100%; font-size: 200%;">Tag: {{ .Title }}</h1>
+          </div>
+        </div>
+      </div>
+      {{ end }}
       <div class="hh-container">
         <div class="hh-content">
         {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}{{ range sort $paginator.Pages }}
@@ -20,7 +29,7 @@
             </div>
           </article>
         {{ end }}
-      </div>
+        </div>
       </div>
     </section>
 {{ partial "pager" . }}

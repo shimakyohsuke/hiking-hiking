@@ -592,7 +592,7 @@ textarea,
 	cursor: default;
 }
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
+  font-family: 'Josefin Sans', -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
   line-height: 1.8;
   color: #1b435d;
   font-size: 100%;
@@ -600,10 +600,10 @@ body {
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 2), (-webkit-min-device-pixel-ratio: 2), (min-resolution: 2dppx) {
   body {
-    font-family: 'Josefin Sans', Klee, '游ゴシック', YuGothic, -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
+    font-family: 'Josefin Sans', Klee, '游ゴシック', YuGothic, 'Josefin Sans', -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
   }
   .hh-site_title {
-    font-family: 'Josefin Sans', Klee, '游ゴシック', YuGothic, -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
+    font-family: 'Josefin Sans', Klee, '游ゴシック', YuGothic, 'Josefin Sans', -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
   }
 }
 a {
@@ -643,8 +643,16 @@ img {
 .hh-article_list__thumbnail {
   width: 30%;
 }
+.hh-article_list__thumbnail a {
+  float: left;
+  overflow: hidden;
+}
+.hh-article_list__thumbnail a:hover img {
+  transform: scale(1);
+}
 .hh-article_list__thumbnail img {
-  border: 5px solid #fff;
+  transform: scale(1.03);
+  transition: 0.3s ease-in-out;
 }
 .hh-article_list__info {
   width: 68%;
@@ -947,7 +955,7 @@ img {
   margin: 0;
 }
 .hh-site_title {
-  font-family: -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
+  font-family: 'Josefin Sans', -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
   font-size: 175%;
   font-weight: 200;
   line-height: 1.2;

@@ -22,7 +22,7 @@ tags:
 - 囲まれたところで寝るっていう安心感は多少ほしい
 - 風と底冷えさえなんとかすればいいはず（適当
   - 風は壁を作ればいいはず
-  - 底冷えは MoonlightGear で買った KLYMIT の [Insulated Static V (U.L 120 edition)](http://moonlight-gear.com/?pid=93080997) （限定って出ててなぜか即買ったｗ）があるから大丈夫なはず
+  - 底冷えは MoonlightGear で買った KLYMIT の Insulated Static V (U.L 120 edition) があるから大丈夫なはず（限定って出ててなぜか即買ったｗ）
   - シュラフカバーに SOL のエマージェンシー ヴィヴィ でいけるはず
 - どうせグランドシート敷くのでフロアレスでいい
   - 軽量なテントの底は薄いはずなのでどうせ破れる。破れるならそもそもいらない
@@ -45,7 +45,7 @@ tags:
 - グランドシート
 - 蚊帳
 - Bivy Sack
-- シェラフ
+- シュラフ
 - まくら
 - テント or タープ
 
@@ -76,7 +76,7 @@ Amazon で買えるのは 102cm巾 ✕ 50cm を 1つの単位で、4個分の注
 
 #### SEA TO SUMMIT / モスキートネット シングルサイズ
 
-メッシュに殺虫処理してあるらしい。  
+Amazon のレビューを見てるとメッシュに殺虫処理してあるらしく若干、臭いがするらしい。  
 重量: 245g  
 サイズ: 100×220×120cm  
 
@@ -84,29 +84,35 @@ Amazon で買えるのは 102cm巾 ✕ 50cm を 1つの単位で、4個分の注
 
 #### EQUINOX / Mantis Sleep Screen
 
-かなり思い切った蚊帳だなと思った。重量がすごく魅力的。
+はっきりと用途が限定されてていい蚊帳だなと思った。重量が魅力的。
 
 <http://moonlight-gear.com/?pid=43836227>  
 
 本体: 115g  
 スタッフサック: 4g  
-サイズ: 不明
 価格: 6,000円(税込6,480円)
 
 ### Bivy Sack
 
 #### As Tucas / Millaris Bivy Sack(Mesh window model)
 
-これで寝れたら最高だな
+重量がすごい。
 
 <http://moonlight-gear.com/?pid=115601612>
 
 実測: 165g  
 価格: 39,000円(税込42,120円)
 
-### シェラフ
+#### SOL / エスケープライトヴィヴィ
 
-ちゃんと調べきれてないけど、以下はいいなと思ってる
+シュラフカバーとしてもよく使われてる。  
+重さ: 156g
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00JJBMMRK&linkId=0074caad02735f9ac22c377470ad9717"></iframe>
+
+### シュラフ
+
+調べきれてないけど、以下がいいなと思ってる  
 
 #### SHMW / Sky High Down Quilt 120 / regular / Lino / UDD770FP
 
@@ -138,8 +144,8 @@ Amazon で買えるのは 102cm巾 ✕ 50cm を 1つの単位で、4個分の注
 
 #### KLYMIT Insulated Static V (U.L 120 edition)
 
-限定数量販売の文字に惹かれ、テントもシェラフも持ってないのになぜか買ったもの。  
-会社で寝泊まりする時に一回使った。普通に寝れる。
+限定数量販売の文字に惹かれ、テントもシュラフも持ってないのになぜか買ったもの。  
+会社で寝泊まりする時に一回使った。普通に眠れる。
 
 <http://moonlight-gear.com/?pid=93080997>
 
@@ -181,7 +187,7 @@ Amazon で買えるのは 102cm巾 ✕ 50cm を 1つの単位で、4個分の注
 
 #### HILLEBERG Tarp5
 
-HILLEBERG はなんか憧れ。ロマン武器っぽい感覚がある。
+HILLEBERG はなんか憧れ。ロマン武器っぽい
 
 <http://moonlight-gear.com/?pid=99342449>
 
@@ -224,9 +230,20 @@ HILLEBERG はなんか憧れ。ロマン武器っぽい感覚がある。
 
 <http://moonlight-gear.com/?pid=23439365>
 
-サイズ: 縦幅183cm 横幅245cm  
+サイズ: Sサイズ(5'W x 8'L) 縦幅183cm  横幅245cm  
 重量: 257g  
-価格: 13,000円
+価格: 13,000円(税込14,040円)
+
+#### EQUINOX / Globe Skimmer Ultralite Tarps 8×10
+
+上のやつの M サイズ。
+
+<http://moonlight-gear.com/?pid=36789660>
+
+サイズ: Mサイズ(8"W x 10"L) 縦幅245cm  横幅300cm  
+重量: 397g  
+価格: 16,000円(税込17,280円)
+
 
 ####  LOCUS GEAR / Tarp X Duo Sil
 
@@ -236,22 +253,36 @@ HILLEBERG はなんか憧れ。ロマン武器っぽい感覚がある。
 重量: 470g  
 価格: ¥13,800
 
+#### BIG SKY / Wisp 1P
+
+人気でどのオンラインショップでもすぐ売り切れてる。  
+スタッフサック・ガイライン・ミニポール込みで 600g 以内の重量は魅力的。
+
+<http://grips-outdoor.jp/?pid=104552641>
+
+重量：589g(スタッフサック・ガイライン・ミニポール込み)
+価格: 30,000円(税抜)
+
 ---
 
-ダラダラと商品リンク貼っただけになってしまった笑
-
+ダラダラと商品リンク貼っただけになってしまったけど、  
 今のお気持ちを表にすると、
 
 | アイテム | 商品名 | 価格 | 重量 | 購入理由 / 用途など |
 | ------ | :------: | :------: | :------: | ------ |
 | タープ | LOCUS GEAR / Tarp X Duo Sil | ¥13,800 | 470g | 風よけ。トレッキングポールで張る |
-| グランドシート | SOL / ヘビーデューティ エマージェンシーブランケット | ¥2,000 | 159g | 底冷え防止 |
 | 蚊帳 | EQUINOX / Mantis Sleep Screen | ¥6,000 | 115g | 虫除け |
-| シェラフ | Sky High Down Quilt 120 regular | ¥30,240 | 249g | 暖かみ |
-| スリーピングマット | KLYMIT / Insulated Static V (U.L 120 edition) | ¥15,120 | 399g（スタッフサック11g） | 暖かみ |
+| シュラフ | Sky High Down Quilt 120 regular | ¥30,240 | 249g | 暖かみ |
+| シュラフカバー | SOL / エスケープライトヴィヴィ | ￥5,054 | 156g | シュラフを湿気から守る |
+| スリーピングマット | KLYMIT / Insulated Static V (U.L 120 edition) | ¥15,120 | 410g | 底冷え防止 |
+| グランドシート | SOL / ヘビーデューティ エマージェンシーブランケット | ¥2,000 | 159g | 底冷え防止 |
 
-こうなる。  
-こうして一覧でみると、あ、お金が足りないって気が付きますね。
+こうなる。計画を立てて順次購入していこう。  
 
-総重量はペグとかガイライン抜きで約 1.4kg か。  
-けっこう重くなるから下りで膝痛くなるしヤバイから体重落とすにはランニングだ！の流れで先にランニングシューズ買おうかな笑
+総重量はペグとかガイライン抜きで約 1.6kg  
+そこそこ重くなるから下りで膝痛くなるしヤバイから体重落とすにはランニングだ！の流れで先にランニングシューズ買おうかな笑
+
+LOCUS GEAR の Pneuma Bivy eVent とかもおもしろいなーと思う。  
+このハッシュタグ [#pneumabivyevent](https://www.instagram.com/explore/tags/pneumabivyevent/) みてるとそそられる。
+
+先日行った剣尾山に月峯寺跡付近に「キャンプ場」と書かれた看板があったので、そこに夕方くらいに到着してテン泊するのがいいかなー
