@@ -1,11 +1,21 @@
     <footer>
       <div class="hh-container hh-footer">
-        <div class="hh-content hh-ad__for_pc" style="text-align: center;">
-          <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=48&l=ur1&category=kindle&banner=0TJZDN29D5N619MVE982&f=ifr&linkID=dcbb333be6373bd4cdd84c5d7442525a&t=hiking-hiking-22&tracking_id=hiking-hiking-22" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+{{ if eq (printf "%v" $.Site.BaseURL) "http://localhost:1313/" }}
+{{- "<!-- code for localhost only -->" | safeHTML -}}
+{{- else -}}
+        <div class="hh-content" style="text-align: center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- article_responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3669068670704645"
+     data-ad-slot="2105798415"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
         </div>
-        <div class="hh-content hh-ad__for_mobile" style="text-align: center;">
-          <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=12&l=ur1&category=kindle&banner=17GXD662V4WS1ZKDCA82&f=ifr&linkID=2e96dad33306f0e364ba0584d210b9f1&t=hiking-hiking-22&tracking_id=hiking-hiking-22" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-        </div>
+{{- end -}}
         <div class="hh-content">
           <h4>プロフィール</h4>
           <p>シマ キョウスケと言います。<br />30 代 / 男 / 大阪在住で普段は Web のお仕事をしています。<br /><a href="https://shimakyohsuke.com/">https://shimakyohsuke.com/</a></p>
