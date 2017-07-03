@@ -59,7 +59,7 @@ tags:
 #### SOL(ソル) ヘビーデューティ エマージェンシーブランケット
 
 Amazon で 2 千円台で手に入ってそこそこ丈夫で、「体熱の90%を反射保持し非常時の防寒用」らしい。安心だ。  
-重量： 159g
+重量: 159g
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00JJBMEY6&linkId=b8f1118393f7934d269a9ab1dd65e2f8"></iframe>
 
@@ -260,8 +260,17 @@ HILLEBERG はなんか憧れ。ロマン武器っぽい
 
 <http://grips-outdoor.jp/?pid=104552641>
 
-重量：589g(スタッフサック・ガイライン・ミニポール込み)
+重量: 589g(スタッフサック・ガイライン・ミニポール込み)
 価格: 30,000円(税抜)
+
+
+#### LOCUS GEAR / Khufu Sil
+
+<http://locusgear.com/items/khufu-sil/>
+
+サイズ: 長さ 265cm x 幅 160cm x 高さ 130cm
+重量: 470g（スタッフサック込、ペグ、ポール除く）
+価格: ¥33,800
 
 ---
 
