@@ -610,6 +610,7 @@ a {
   color: #ff7330;
   text-decoration: none;
   font-weight: 700;
+  word-break: break-all;
 }
 a:hover {
   color: #ff7330;
@@ -631,6 +632,7 @@ img {
   font-size: 125%;
   font-weight: 300;
   color: #1b435d;
+  line-height: 1.5;
 }
 .hh-article_list__title a {
   color: #1b435d;
@@ -661,6 +663,9 @@ img {
 @media screen and (max-width: 680px) {
   .hh-article_list {
     margin-top: 40px;
+  }
+  .hh-article_list__title {
+    font-size: 113%;
   }
 }
 .hh-button {
@@ -814,6 +819,7 @@ img {
   display: block;
   padding: 0.5em;
   text-decoration: none;
+  font-weight: 400;
 }
 .hh-nav__list li a:hover {
   background: #1b435d;
@@ -969,6 +975,7 @@ img {
 .hh-site_title a {
   text-decoration: none;
   color: #1b435d;
+  font-weight: 400;
 }
 @media screen and (max-width: 680px) {
   .hh-site_title {
