@@ -607,11 +607,12 @@ body {
   }
 }
 a {
-  color: #f99f48;
+  color: #ff7330;
   text-decoration: none;
+  font-weight: 700;
 }
 a:hover {
-  color: #f99f48;
+  color: #ff7330;
   text-decoration: underline;
 }
 img {
@@ -729,6 +730,9 @@ img {
   padding-bottom: 1em;
   border-bottom: 5px solid #1b435d;
 }
+.hh-footer h4 {
+  margin-bottom: 0;
+}
 .hh-footer__icons {
   width: 50%;
   margin: 0 auto;
@@ -742,6 +746,7 @@ img {
 }
 .hh-footer small a {
   color: #1b435d;
+  font-weight: 400;
 }
 .hh-header {
   display: -ms-flexbox;
