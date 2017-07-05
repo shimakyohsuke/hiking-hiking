@@ -104,6 +104,16 @@ ifyouhave の財布はかわいいし鍵も収納できて色味などカスタ�
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B06ZZRKPN4&linkId=cba3263e344beefe5e8abb0c921ffdd6"></iframe>
 
+## 日焼け止め
+
+先日 Amazon で見つけました「VIVO アウトドアUV」  
+固形でスティックタイプなので液漏れの心配が少ないみたいですね。  
+手が汚れずに塗れるのはいいなと思いました。
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B014S6CRGQ&linkId=4fddeccf111d20719706db0d94a48750"></iframe>
+
+自分は毎年[アネッサ パーフェクト UV](http://amzn.to/2uoq6RF) を買ってますが来年はこちらを買おうと思ってます。
+
 ## レインコートは AXESQUIN のカグヤ
 
 これは自分もまだ持ってないけど[先日試着する機会](http://www.utility-outdoor.com/2017/07/02/33635)があり、いいなと思ったので紹介しておきます。
