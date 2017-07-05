@@ -37,7 +37,7 @@ tags:
 
 [使い方ページ](http://www.band-aid.jp/kizupowerpad/use.html)をみていると「水道水で洗い流してから、キズパワーパッド™を貼ってください。」とのことなので、消毒液がいらなくて荷物減っていいかなと思いました。
 
-ただあまり怪我をしたことがないので「湿潤療法」を経験したことがないのですが、どうなんでしょう？水道水で洗い流しての箇所は山の中では厳しいことになりそうなので、昔ながらの消毒液＋バンドエイドのほうがいいのかな。
+ただあまり怪我をしたことがないので「湿潤療法」を経験したことがないのですが、どうなんでしょう？水道水で洗い流しての箇所は水場の少ない山の中では厳しいことになりそうなので、昔ながらの消毒液＋バンドエイドのほうがいいのかな。
 
 まぁあくまで下山後に病院にいくまでの応急処置なので、血が止まってできるだけ傷口にバイキンなどが入らないようにする程度のことができればいいかなと今は思います。
 
@@ -47,7 +47,7 @@ tags:
 
 ハチに刺された時などに使用します。
 
-「吸引力が違う」とダイソンみたいなレビューが Amazon のレビューにあり、評価が良かったので F.G.Labo のポイズンリムーバーにしました。
+「吸引力が違う」とダイソンみたいなレビューが Amazon にあり、評価が良かったので F.G.Labo のポイズンリムーバーにしました。
 
 {{% figure src="/media/first-aid/IMG_9392.JPG" alt="専用のケースがある" caption="専用のケースがある" %}}
 
@@ -65,17 +65,18 @@ tags:
 
 {{% figure src="/media/first-aid/IMG_9394.JPG" alt="ピンがボケた" caption="ピンがボケた" %}}
 
-片手で吸引した状態で吸引カップを取り外すのは少しコツがいるので、引率者がいれば取り外してもらうほうがよさそうです。
+片手で吸引した状態で吸引カップを取り外すのは少しコツがいるので、同行者がいれば取り外してもらうほうがよさそうです。
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0130D16MO&linkId=3e8b2146b4a532f7a3c087ebbfcf6be3"></iframe>
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000YZL8N4&linkId=823eb3050d2668b4413c6af326a915da"></iframe>
 
 ### 滅菌ガーゼと包帯
 
 滅菌されたガーゼが個別包装されているものを用意しました。
 
 軽い擦り傷には水洗い後に滅菌ガーゼで傷口を軽く圧迫して止血し、傷口を拭き取り、キズパワーパッド&trade; を貼り付けて包帯で軽く固定します。  
-ハチに刺された時にはポイズンリムーバーで吸い出した毒液や血などを滅菌ガーゼで拭き取り、軟膏を塗布してバンドエイドを貼って応急処置します。
+ハチに刺された時には毒針を抜いてポイズンリムーバーで吸い出した毒液や血などを滅菌ガーゼで拭き取り、抗ヒスタミン系成分を含むステロイド系軟膏を塗布してバンドエイドを貼って応急処置します。
 
 包帯は伸縮性があって重ねるとくっつくタイプの包帯にしました。
 
@@ -87,7 +88,7 @@ tags:
 
 #### なんか飲んだら元気になった「アミノバイタル GOLD」
 
-以前、ハイキング中に先輩にいただいて飲んだらなんか身体が元気になった気がしたので、持って行きます。
+以前、先輩にいただいて飲んだらなんか身体が元気になった気がしたので、持って行きます。
 
 {{% figure src="/media/first-aid/IMG_9408.JPG" alt="6 個入りでもけっこう高い。。" caption="6 個入りでもけっこう高い。。" %}}
 
@@ -95,7 +96,9 @@ tags:
 
 #### 芍薬甘草湯
 
-こちらも以前、ハイキング中に軽く足がつりそうになっていて座り込んでいたら、道行くおばさまにいただいて治った気がしたので持って行きます。道行くおばさま、あの時はありがとうございました。
+こちらも以前、軽く足がつりそうになっていて座り込んでいたら、道行くおばさまにいただいて治った気がしたので持って行きます。道行くおばさま、あの時はありがとうございました。
+
+登る前に飲んでいます。
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000YZPBCS&linkId=da4134a32dec97fb5897134024747f09"></iframe>
 
