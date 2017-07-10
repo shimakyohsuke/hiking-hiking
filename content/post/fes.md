@@ -146,6 +146,8 @@ AXESQUIN は他にもレインコートの種類がありますが、カグヤ�
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01EWZ1VIS&linkId=59f1f4deea13c89a9b72c45f909f418b"></iframe>
 
+スタッフサックは旅行の時の荷物のパッキングにも大活躍なので、いろんなサイズ持ってると便利です。
+
 ### まとめ
 
 あとはこの荷物全部をトレラン用のバックにいれてさらに機動力あげたいなーという感じ。  
