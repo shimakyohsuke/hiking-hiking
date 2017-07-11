@@ -7,12 +7,15 @@ title = "お問い合わせ"
 
 <!--more-->
 
-<form name="contact" action="../thank-you" netlify>
+<form name="contact" netlify-honeypot="bot-field" action="../thank-you" netlify>
+  <p style="display: none;">
+    <label>Don’t fill this out: <input name="bot-field"></label>
+  </p>
   <p>
     <label>あなたのお名前: <input type="text" name="name"></label>
   </p>
   <p>
-    <label>Email: <input type="email" name="email"></label>
+    <label>email: <input type="email" name="email"></label>
   </p>
   <p>
     <label>お問い合わせ内容: <textarea name="message"></textarea></label>
