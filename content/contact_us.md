@@ -12,13 +12,13 @@ title = "お問い合わせ"
     <label>Don’t fill this out: <input name="bot-field"></label>
   </p>
   <p>
-    <label>あなたのお名前: <input type="text" name="name"></label>
+    <label>あなたのお名前: <input type="text" name="name" required></label>
   </p>
   <p>
-    <label>email: <input type="email" name="email"></label>
+    <label>email: <input type="email" name="email" required></label>
   </p>
   <p>
-    <label>お問い合わせ内容: <textarea name="message"></textarea></label>
+    <label>お問い合わせ内容: <textarea name="message" required></textarea></label>
   </p>
   <p>
     <button type="submit">Send</button>
