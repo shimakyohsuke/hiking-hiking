@@ -23,6 +23,6 @@ title = "お問い合わせ"
     <label>お問い合わせ内容: <textarea name="message" required></textarea></label>
   </p>
   <p>
-    <button type="submit">Send</button>
+    <button type="submit">送信</button>
   </p>
 </form>
