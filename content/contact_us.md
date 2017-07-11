@@ -7,6 +7,8 @@ title = "お問い合わせ"
 
 <!--more-->
 
+**すべての項目が入力必須です。**
+
 <form name="contact" netlify-honeypot="bot-field" action="../thank-you" netlify>
   <p style="display: none;">
     <label>Don’t fill this out: <input name="bot-field"></label>
