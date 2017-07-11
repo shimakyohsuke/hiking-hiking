@@ -93,6 +93,22 @@ ifyouhave の財布はかわいいし鍵も収納できて色味などカスタ�
 100% ナイロン素材の OR の BIG RIG TRUCKER CAP とか自分は好き。  
 <http://www.outdoorresearch.jp/ja/mens/hats/big-rig-trucker-cap.html>
 
+## 足の疲れ対策
+
+飛び跳ねや立ちっぱなしによる足の疲れは段階着圧のタイツを履くといいでしょう。  
+自分は膝も弱いので膝まわりのサポートも入った CW-X のタイツを履いてます。
+
+CW-X / ボトムス エキスパートモデル  
+<http://www.cw-x.jp/about/mechanism/expert.html>
+
+夏場のタイツは暑いのでサポートしてほしい部分だけのサポーターもあるので、自分は [CW-Xパーツ ひざ用プレミアム](http://www.cw-x.jp/cw-x_item/product/detail.html?goodsStkNo=BCO004&goodsSeason=17SS&category=2&dispNo=003250010060)を使っています。
+ひざ用なのでふくらはぎや太もものサポートはありませんが、ひざ周りの痛みはほとんど感じることがないです。
+
+その他パーツに分かれているので自分が弱い部分だけサポーターで補うのも良いと想います。
+
+CW-Xパーツ | CW-X | ワコールのスポーツウェア  
+<http://www.cw-x.jp/about/parts/>
+
 ## 足回り
 
 靴は汗抜けが良く乾きが早そうなスニーカーと靴下はメリノウール製のだったらなんでもいいです。
