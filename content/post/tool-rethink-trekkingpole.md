@@ -21,6 +21,19 @@ tags:
 | トレッキングポール | [BlackDiamond / ディスタンスFLZ](http://blackdiamondequipment.com/en/trekking-poles/distance-flz-pole-BD112178_cfg.html) | ザックからはみ出ない長さを求めて |
 | ポール先ゴム | [杖先ゴム PP07‐08](http://sinanostore.jp/products/detail.php?product_id=57) | BlackDiamond ディスタンスFLZ の先に |
 
+---
+
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-3669068670704645"
+     data-ad-slot="9535956018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ### トレッキングポール
 
 [BlackDiamond / ディスタンスFLZ](http://blackdiamondequipment.com/en/trekking-poles/distance-flz-pole-BD112178_cfg.html)

@@ -26,6 +26,20 @@ Web 屋さんのコミュティの方と 2 人で奈良県吉野山の奥千本�
     1. 奥千本（西行庵）
     1. 吉野駅
 
+
+---
+
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-3669068670704645"
+     data-ad-slot="9535956018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ### 大阪阿部野橋駅から出発
 
 {{% figure src="/media/yoshinoyama-okusenbon/IMG_9706.JPG" alt="なんか旅感ある車両" caption="なんか旅感ある車両" %}}

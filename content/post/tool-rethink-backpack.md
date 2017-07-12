@@ -21,6 +21,18 @@ tags:
 | ザック | [OMM / Classic 25](http://theomm.jp/?page_id=317) | 用途、作り、価格、容量の面でちょうど良かった |
 | ボトルホルダー | OMM のボトルホルダー | なんとなく買ってしまった |
 
+---
+
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-3669068670704645"
+     data-ad-slot="9535956018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## OMM Classic 25 は用途・作り・価格・容量がちょうどよかった
 
 今後どういったシーンでザックを背負うか考えた時に、冬以外の日帰りハイキングが主であることが考えられたので容量は 15L 〜 30L もあれば十分かなと思いました。（あっても 1 泊 2 日とかかな）

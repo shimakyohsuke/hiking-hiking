@@ -40,6 +40,18 @@ tags:
 | クッカー | [TOAKS / TITANIUM LID](https://www.toaksoutdoor.com/collections/accessory/products/lid-new) | フタ |
 | スタッフサック | [Granite Gear / AIR ZIPPSACK](http://www.granitegear.com/air-zippsack.html) | 調理器具とカップラーメンいれる |
 
+---
+
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-3669068670704645"
+     data-ad-slot="9535956018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 #### Quatro Stove を組み立てただけでワクワクした。
 
 {{% figure src="/media/tool-rethink-lunch/IMG_9365.JPG" alt="Quatro Stove" caption="Highland Designs / Quatro Stove" %}}

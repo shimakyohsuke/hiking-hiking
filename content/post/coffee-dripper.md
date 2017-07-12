@@ -15,6 +15,19 @@ tags:
 
 六甲山登る時に全部持っていったのに水が無くて使えなかった残念な思い出が残るセットでしたが、先日 BBQ をして使う機会があったので使い心地などをご紹介します。
 
+---
+
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-3669068670704645"
+     data-ad-slot="9535956018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ## 通称 GSI セット
 
 バラバラのタイミングで、ドリッパー / ケトル / マグカップを買ったのにすべて GSI OUTDOOR 製品。オレンジと黒に惹かれちゃうんですかね。

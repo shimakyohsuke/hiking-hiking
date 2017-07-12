@@ -25,6 +25,19 @@ tags:
     4. 雨ヶ峠 - 六甲山最高峰
     5. 六甲山最高峰 - 有馬温泉駅
 
+---
+
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-3669068670704645"
+     data-ad-slot="9535956018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ## だが計画がおかしい
 
 「山と食欲と私」の世界が自分が知る一般的な登山なので、米は生米から炊くものと思ってました。

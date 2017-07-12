@@ -23,6 +23,19 @@ tags:
 | 靴下 | [Point6 / Hiking Tech Extra Light Mini Crew](http://point6.com/collections/men/products/hiking-tech-extra-light-mini) | メリノウールで匂い軽減 |
 | ハラマキ | [AXESQUIN / クイックハラマキ](http://www.axesquin.co.jp/index-page_id=ax0158.html) | お腹を冷やさない |
 
+---
+
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-3669068670704645"
+     data-ad-slot="9535956018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ### シューズ
 
 シューズは普段履くスニーカーでもハイカットが苦手で、いかにも山登ります的なゴツいのは避けたかったこともあり、トレラン用のものを購入。

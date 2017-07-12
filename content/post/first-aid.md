@@ -31,6 +31,19 @@ tags:
 | [バファリン プレミアム](http://www.bufferin.net/premium/) | 急な頭痛に |
 | [トイレキット](https://webshop.montbell.jp/goods/disp.php?product_id=1150106) | トイレがなかった時に |
 
+---
+
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-3669068670704645"
+     data-ad-slot="9535956018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ### 軽い擦り傷には「キズパワーパッド&trade;」
 
 軽い擦り傷などに使用します。

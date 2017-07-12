@@ -24,6 +24,19 @@ http://www.kitahama-sumiyoshi.com/kitahama-sumiyoshi/index.html
 
 {{% figure src="/media/kitahama-sumiyoshi/IMG_9511.JPG" alt="事務所もすごく素敵" caption="事務所もすごく素敵" %}}
 
+---
+
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-3669068670704645"
+     data-ad-slot="9535956018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ### 北浜住吉はこんな感じ
 
 {{% figure src="/media/kitahama-sumiyoshi/IMG_9445.JPG" alt="ただの家の一角なのに絵力がある" caption="ただの家の一角なのに絵力がある" %}}

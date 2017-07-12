@@ -28,6 +28,20 @@ tags:
     1. 横尾山
     1. 汐の湯温泉
 
+
+---
+
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-3669068670704645"
+     data-ad-slot="9535956018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ### 能勢電鉄妙見線 山下駅から出発
 
 阪急宝塚線 梅田駅に集合し、川西能勢口駅まで乗って能勢電鉄妙見線 川西能勢口駅に乗り換え山下駅に到着しました。山下駅から行者山登山口まではバスが通ってますが、午前中に 1 本しかありません。
