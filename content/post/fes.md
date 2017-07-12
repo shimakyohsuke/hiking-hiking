@@ -3,8 +3,8 @@ date: "2017-07-02T23:00:00+09:00"
 draft: false
 title: "【夏フェスの持ち物】コンパクトで軽量な山道具を持って身軽にいこう！"
 description: "今年は夏フェスにいけない悔しさがあったので、夏フェスに持っていく持ち物を山で使ってる持ち物などに代用した持ち物リストを書いて興奮を押さえることにしました。"
+ogimage: "media/fes/IMG_8600.JPG"
 related: "tool"
-ogimage: ""
 tags:
   - "tool"
 ---
@@ -22,6 +22,16 @@ tags:
 できるだけ持ち物を少なく軽量化して元気に動きましょう。そこは山と一緒です。
 
 よくある夏フェス持ち物一覧とか見たい方は他のサイトへどうぞ、、
+
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-3669068670704645"
+     data-ad-slot="9535956018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## 速乾・軽量・消臭のタオル
 

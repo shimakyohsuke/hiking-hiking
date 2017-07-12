@@ -697,9 +697,20 @@ img {
   font-size: 94%;
 }
 .hh-content {
-  max-width: 760px;
+  max-width: 1024px;
   margin: 0 auto;
   background-color: #fff;
+  clear: both;
+}
+.hh-main {
+  width: 640px;
+  float: left;
+}
+.hh-sidebar {
+  width: 364px;
+  float: left;
+  margin-top: 60px;
+  margin-left: 20px;
 }
 .hh-flipsnap {
   width: 100%;
@@ -731,8 +742,10 @@ img {
   background: #2077b2;
 }
 .hh-footer {
+  width: 100%;
   margin-top: 5em;
   padding-bottom: 1em;
+  float: left;
   border-bottom: 5px solid #1b435d;
 }
 .hh-footer h4 {
@@ -760,7 +773,7 @@ img {
       flex-direction: column;
 }
 .hh-header .hh-site_meta__inner {
-  max-width: 760px;
+  max-width: 1024px;
   margin: 0 auto;
   display: -ms-flexbox;
   display: flex;
@@ -802,7 +815,7 @@ img {
   border-bottom: 1px solid #1b435d;
 }
 .hh-nav__inner {
-  max-width: 760px;
+  max-width: 1024px;
   margin: 0 auto;
 }
 .hh-nav__list {
@@ -970,7 +983,7 @@ img {
   font-size: 175%;
   font-weight: 200;
   line-height: 1.2;
-  margin: 10px 0;
+  margin: 20px 0 10px;
 }
 .hh-site_title a {
   text-decoration: none;
