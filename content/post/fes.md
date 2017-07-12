@@ -23,7 +23,6 @@ tags:
 
 よくある夏フェス持ち物一覧とか見たい方は他のサイトへどうぞ、、
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-format="fluid"
