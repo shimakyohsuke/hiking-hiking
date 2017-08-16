@@ -2,7 +2,7 @@
 date: "2017-08-16T00:00:00+09:00"
 draft: false
 title: "ウォーキングを始めた。"
-description: "もしかしたら桜のピークは前の週だったのかもしれません。"
+description: "膝の弱さは完全にデブってるせいなのでウォーキングすることにした。"
 ogimage: "media/walking/IMG_0618.JPG"
 related: "climb"
 tags:
