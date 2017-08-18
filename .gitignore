@@ -2,7 +2,6 @@
 /public
 /themes/hugo-hiking-theme
 /themes/gohugo-amp
-/node_modules
 
 # Windows image file caches
 Thumbs.db
