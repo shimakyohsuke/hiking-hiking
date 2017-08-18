@@ -28,19 +28,9 @@ tags:
     1. 横尾山
     1. 汐の湯温泉
 
-
 ---
 
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-format="fluid"
-     data-ad-layout="in-article"
-     data-ad-client="ca-pub-3669068670704645"
-     data-ad-slot="9535956018"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
+{{% adsbygoogle %}}
 
 ### 能勢電鉄妙見線 山下駅から出発
 

@@ -23,15 +23,7 @@ tags:
 
 ---
 
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-format="fluid"
-     data-ad-layout="in-article"
-     data-ad-client="ca-pub-3669068670704645"
-     data-ad-slot="9535956018"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{% adsbygoogle %}}
 
 ## OMM Classic 25 は用途・作り・価格・容量がちょうどよかった
 
