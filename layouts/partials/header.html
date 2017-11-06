@@ -26,7 +26,7 @@
     <meta name="twitter:title" content="{{ .Title }}{{ if eq .IsHome false }} | {{ .Site.Title }}{{ end }}">
     <meta name="twitter:description" content="{{ if eq .IsHome false }}{{ replaceRE "<br>" " " .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
     <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ if .Params.ogimage }}{{ .Params.ogimage }}{{ else }}ogp/ogp.png{{ end }}">
-    <meta name="twitter:url" content="{{ .Site.BaseURL }}">
+    <meta name="twitter:url" content="{{ .Permalink }}">
     <meta name="theme-color" content="#ffffff">
     {{ .Hugo.Generator }}
     {{ if .RSSLink }}
