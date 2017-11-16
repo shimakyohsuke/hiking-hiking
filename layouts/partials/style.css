@@ -793,6 +793,9 @@ img {
   margin-right: 2em;
 }
 @media screen and (max-width: 680px) {
+  .hh-meta {
+    margin: 1em 0;
+  }
   .hh-meta__date {
     margin: 0;
   }
@@ -949,6 +952,10 @@ img {
   }
   .hh-post figure img {
     max-width: 100%;
+  }
+  .hh-post .hh-post__title {
+    font-size: 1.5em;
+    margin-top: 1em;
   }
 }
 .hh-ad__for_mobile {
