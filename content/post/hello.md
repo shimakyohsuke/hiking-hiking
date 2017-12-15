@@ -42,4 +42,8 @@ EASY HIKING - <http://easyhiking.exblog.jp/22284609/>
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B06XCDHGQK&linkId=b30f029a80d736056f6508ce92c3a0cc"></iframe>
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B073J57H22&linkId=78a6c5cd237898b967c94b059030525c"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B077TPJYGT&linkId=91a108c2aeb2f22b32ea2155a9bb8f9a"></iframe>
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01G5SQOSC&linkId=02d02ec615ab6c0af5a799386cbe7bd6"></iframe>
