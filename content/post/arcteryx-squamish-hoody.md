@@ -49,7 +49,7 @@ Arc'teryx / Squamish Hoody
 
 {{% figure src="/media/arcteryx-squamish-hoody/IMG_1146.jpg" alt="メーカー公称値より少し重い" caption="メーカー公称値より少し重い" %}}
 
-似たようなカテゴリの商品だと Houdini のAir 2 Air Wind jacket[](https://www.houdinisportswear.com/jp/ms-air-2-air-wind-jacket) や AXESQUIN の [ハゴロモ](https://www.axesquin.co.jp/product/1559/) や、Teton Bros. の [Wind River Hoody](http://www.teton-bros.com/jp/ss_products/light_trekking/windriver_hoody.html) になるのかな？  
+似たようなカテゴリの商品だと Houdini の [Air 2 Air Wind jacket](https://www.houdinisportswear.com/jp/ms-air-2-air-wind-jacket) や AXESQUIN の [ハゴロモ](https://www.axesquin.co.jp/product/1559/) や、Teton Bros. の [Wind River Hoody](http://www.teton-bros.com/jp/ss_products/light_trekking/windriver_hoody.html) になるのかな？  
 生地の厚みや素材の違い、フードのありなしと大きく違いはありますが、カテゴリ的には少し重い部類にはいってる感じがしますね。
 
 ### フードのつばの部分が固い素材でしっかりしてて好き
