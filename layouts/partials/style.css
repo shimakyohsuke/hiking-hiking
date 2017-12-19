@@ -710,6 +710,39 @@ img {
   margin: 0 auto;
   background-color: #fff;
 }
+.hh-form input,
+.hh-form textarea {
+  margin-left: 1em;
+  padding: 0.5em;
+  font-family: 'Josefin Sans', -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
+  min-width: 20em;
+  border: solid #1b435d 1px;
+}
+.hh-form form > p {
+  margin-bottom: 2em;
+}
+.hh-form form > p label {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: start;
+      justify-content: flex-start;
+  -ms-flex-align: center;
+      align-items: center;
+}
+.hh-form form > p button {
+  background-color: #1b435d;
+  color: #fff;
+  border: 0;
+  padding: 0.5em 1.5em;
+}
+.hh-form__submit {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+}
 .hh-flipsnap {
   width: 100%;
   margin: 0 auto;

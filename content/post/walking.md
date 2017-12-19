@@ -4,7 +4,7 @@ draft: false
 title: "ウォーキングを始めた。"
 description: "膝の弱さは完全にデブってるせいなのでウォーキングすることにした。"
 ogimage: "media/walking/IMG_0618.JPG"
-related: "climb"
+related: "running"
 tags:
   - "walking"
   - "diary"
