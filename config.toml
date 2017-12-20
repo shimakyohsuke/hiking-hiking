@@ -2,7 +2,7 @@ languageCode = "ja-jp"
 title = "HIKING-HIKING"
 baseURL = "https://hiking-hiking.com/"
 theme = "hucore"
-copyright = "&copy; <a href=\"/\">HIKING-HIKING</a>"
+copyright = "<a href=\"/\">HIKING-HIKING</a>"
 description = "知らない土地、知らない景色を知るためにぼちぼち歩いて行くブログ"
 HasCJKLanguage = true
 

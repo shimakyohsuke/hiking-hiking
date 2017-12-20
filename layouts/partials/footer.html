@@ -25,7 +25,7 @@
             <p><a href="https://www.flickr.com/photos/shimakyohsuke/"><i class="fa fa-flickr fa-2x" aria-label="flickr" aria-hidden="true"></i></a></p>
           </div>
           <div class="hh-display__flex--jcs--aic">
-            <small>{{ .Site.Copyright | safeHTML }}</small>
+            <small>&copy; {{ now.Format "2006"}} {{ .Site.Copyright | safeHTML }}</small>
           </div>
         </div>
       </div>
