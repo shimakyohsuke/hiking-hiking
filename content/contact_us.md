@@ -1,7 +1,7 @@
 +++
 description = "お問い合わせはこちらから"
 draft = false
-date = "2017-07-11T00:00:00+09:00"
+date = "2017-03-09T00:00:00+09:00"
 title = "お問い合わせ"
 +++
 
@@ -18,7 +18,10 @@ title = "お問い合わせ"
       <label>あなたのお名前: <input type="text" name="name" required></label>
     </p>
     <p>
-      <label>email: <input type="email" name="email" required></label>
+      <label>返信先メールアドレス: <input type="email" name="email" required></label>
+    </p>
+    <p>
+      <label>件名: <input type="text" name="subject" required></label>
     </p>
     <p>
       <label>お問い合わせ内容: <textarea name="message" required></textarea></label>
