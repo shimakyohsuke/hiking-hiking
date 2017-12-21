@@ -134,7 +134,11 @@ tags:
 
 ### RawLow Mountain Works / Bambi
 
+かわいい
+
 {{% figure src="/media/rawlowmountainworks-bambi/IMG_0923.jpg" alt="ほんとにジャストなパッキングサイズ" caption="ほんとにジャストなパッキングサイズ" %}}
+
+#### サイドポケット
 
 サイドポケットにトレッキングポール（[BlackDiamond / ディスタンスFLZ](http://blackdiamondequipment.com/en/trekking-poles/distance-flz-pole-BD112178_cfg.html) ）を折りたたんだ状態で入れたらこんな感じ。
 
@@ -143,7 +147,43 @@ tags:
 反対側のサイドポケットにドリンクボトル類（500ml のペットボトル 2 本入ります）いれてたけど、身体が固い、もしくは腕が短いせいもあるけど背負った状態だと少し取りづらい感じがした。  
 OMM Classic 25 より背中の高い位置にザックがあるので、ベルトを緩めてザックの位置を少し下げると届くので慣れが必要かな。
 
-ザック背面に入ってるパッドは手持ち（というか OMM Classic 25 に付属）の OMM デゥオマットとほとんど長さがかわらない。
+#### OMM の GO POD つけた
+
+サイドポケットよりアクセスしやすい位置にもドリンクボトルがほしいと UTILITY さんの店長さんに相談したところショルダーストラップの部分に [OMM の GO POD](http://amzn.to/2kuUu9w) 取り付けられますよーとのことだったのでやってみた。
+
+{{% figure src="/media/rawlowmountainworks-bambi/IMG_1200.jpg" alt="OMM Classic 25 と一緒に買ったやつ" caption="OMM Classic 25 と一緒に買ったやつ" %}}
+
+装着方法は OMM のザック類と同じ方法で取り付けることが出来ました。  
+赤枠部分のショルダーストラップの下部のバックルとハーネス部分に GO POD のベルクロを取り付けます。
+
+{{% figure src="/media/rawlowmountainworks-bambi/IMG_1202.jpg" alt="右手側につけて写真撮ってたけどホントは左手側につけてる" caption="右手側につけて写真撮ってたけどホントは左手側につけてる" %}}
+
+ショルダーストラップのバックルにベルクロを通します。
+
+{{% figure src="/media/rawlowmountainworks-bambi/IMG_1203.jpg" alt="少しキツイけど柔らかいベルクロだから入る" caption="少しキツイけど柔らかいベルクロだから入る" %}}
+
+{{% figure src="/media/rawlowmountainworks-bambi/IMG_1204.jpg" alt="ぴっちり止める" caption="ぴっちり止める" %}}
+
+次にショルダーハーネス部分に巻きつけるように取り付けます。
+
+{{% figure src="/media/rawlowmountainworks-bambi/IMG_1205.jpg" alt="ハーネス太いけどいけます" caption="ハーネス太いけどいけます" %}}
+
+この時、ショルダーハーネスの裏側の生地がメッシュタイプなので、GO POD 側のベルクロははみ出ないように取り付けました。
+
+{{% figure src="/media/rawlowmountainworks-bambi/IMG_1206.jpg" alt="ベルクロずれたらメッシュボロボロになりそう" caption="ベルクロずれたらメッシュボロボロになりそう" %}}
+
+取り付け完了！
+
+{{% figure src="/media/rawlowmountainworks-bambi/IMG_1208.jpg" alt="色合わしたいからオレンジ欲しい" caption="色合わしたいからオレンジ欲しい" %}}
+
+GO POD は OMM 以外のメーカーのボトルも入るのでいいですね！  
+※写真では[nalgene の広口 0.5L のボトル](http://amzn.to/2oYMPFc)を入れてます。
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01G9T295E&linkId=3efca7c23579c3739c2c90798b518dd3"></iframe>
+
+#### 背面
+
+背面に入ってるパッドは手持ち（というか OMM Classic 25 に付属）の OMM デゥオマットとほとんど長さがかわらない。
 
 {{% figure src="/media/rawlowmountainworks-bambi/IMG_0941.jpg" alt="デゥオマットの方が少し長いけどパッキングに支障はなかった" caption="デゥオマットの方が少し長いけどパッキングに支障はなかった" %}}
 
@@ -154,13 +194,16 @@ OMM Classic 25 より背中の高い位置にザックがあるので、ベル�
 
 {{% figure src="/media/rawlowmountainworks-bambi/IMG_0942.jpg" alt="けっこう長いので自分のサイズに合わして切るといい思う" caption="けっこう長いので自分のサイズに合わして切るといい思う" %}}
 
-なにげに一番うれしいと思ったのが、この持ち手！電車移動のときはここ持って移動できる。  
+#### 持ち手
+
+なにげにうれしいと思ったのが、この持ち手！電車移動のときはここ持って移動できる。  
 片方にこういう持ち手ついてるザックあるけどバランス崩れることあって、両方にあるとすごく持ちやすかった。
 
 {{% figure src="/media/rawlowmountainworks-bambi/IMG_0944.jpg" alt="少し細めの持ち手" caption="少し細めの持ち手" %}}
 
-OMM Classic 25 と比較してどうすんの？って感じだけど、手持ちのザックがこれしかないのでしょうがない。  
-他もいろいろ比べてみると、Bambi は素材が硬いので高さをだしてパッキングしても崩れるって感じはぜんぜんなかった。コンプレッションも入口の二箇所で荷物の増減にも対応できて、これで十分。
+#### 既に持ってる OMM Classic 25 と比較して
+
+OMM Classic 25 と比較してどうすんの？って感じだけど、手持ちのザックがこれしかないのでしょうがない。他もいろいろ比べてみると、Bambi は素材が硬いので高さをだしてパッキングしても崩れるって感じはぜんぜんなかった。コンプレッションも入口の二箇所で荷物の増減にも対応できて、これで十分。
 
 ウェストベルトのバックは Bambi にないけど、実はあまり使ってなかったこともありサコッシュでまかなえた。
 
