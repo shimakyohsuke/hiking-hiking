@@ -1,7 +1,7 @@
 ---
 date: "2017-06-02T00:00:00+09:00"
 draft: false
-title: "山で寝たい"
+title: "【考察】山で寝たい"
 description: "山で寝たいのでテントとかタープとかスリーピングアイテムの組み合わせを考えてみる。"
 related: "tool"
 tags:
