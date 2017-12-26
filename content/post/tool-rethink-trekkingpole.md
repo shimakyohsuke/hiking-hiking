@@ -4,6 +4,8 @@ title: "BlackDiamond ディスタンスFLZ は軽くて折りたたみもコン�
 draft: false
 description: "BlackDiamond ディスタンスFLZ は組み立てが容易で折りたたみ時もコンパクト"
 related: "tool"
+ogimage: "media/tool-rethink-trekkingpole/IMG_1227.jpg"
+thumbnail: "media/tool-rethink-trekkingpole/th_IMG_1227.jpg"
 tags:
   - "tool"
   - "trekking-pole"
@@ -26,6 +28,8 @@ tags:
 {{% adsbygoogle %}}
 
 ### トレッキングポール
+
+{{% figure src="/media/tool-rethink-trekkingpole/IMG_1227.jpg" alt="ロゴカッコイイ" caption="ロゴカッコイイ" %}}
 
 [BlackDiamond / ディスタンスFLZ](http://blackdiamondequipment.com/en/trekking-poles/distance-flz-pole-BD112178_cfg.html)
 

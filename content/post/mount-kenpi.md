@@ -4,6 +4,7 @@ draft: false
 title: "大阪府の北摂山系 剣尾山〜横尾山に行ってきました"
 description: "大阪市内から近く登りやすくて帰りに温泉にも寄ることができていいところでした。"
 ogimage: "media/mount-kenpi/IMG_9857.JPG"
+thumbnail: "media/mount-kenpi/th_IMG_9857.JPG"
 related: "climb"
 tags:
   - "climb"

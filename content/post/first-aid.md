@@ -5,6 +5,7 @@ title: "もしもの時のファーストエイドキットを作る"
 description: "行動中の軽い怪我や症状に対応できるファーストエイドキットを作りました。"
 related: "tool"
 ogimage: "media/first-aid/IMG_9393.JPG"
+thumbnail: "media/first-aid/th_IMG_9393.JPG"
 tags:
   - "tool"
   - "first-aid"

@@ -2,8 +2,9 @@
 date: "2017-07-02T23:00:00+09:00"
 draft: false
 title: "【夏フェスの持ち物】コンパクトで軽量な山道具を持って身軽にいこう！"
-description: "今年は夏フェスにいけない悔しさがあったので、夏フェスに持っていく持ち物を山で使ってる持ち物などに代用した持ち物リストを書いて興奮を押さえることにしました。"
+description: "山で使ってる物ってフェスでも使えるんじゃね？ってことで持ち物リストを作ってみました"
 ogimage: "media/fes/IMG_8600.JPG"
+thumbnail: "media/fes/th_IMG_8600.JPG"
 related: "tool"
 tags:
   - "tool"

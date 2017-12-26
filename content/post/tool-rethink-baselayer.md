@@ -5,6 +5,7 @@ draft: false
 description: "体温を守るためベースレイヤーを一通り買いに行きました。"
 related: "tool"
 ogimage: "media/tool-rethink-baselayer/IMG_9404.JPG"
+thumbnail: "media/tool-rethink-baselayer/th_IMG_9404.JPG"
 tags:
   - "tool"
   - "baselayer"

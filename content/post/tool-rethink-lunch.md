@@ -2,9 +2,10 @@
 date: "2017-03-20T00:00:00+09:00"
 title: "Quatro Stove を購入した！固形燃料最高！"
 draft: false
-description: "山道具再考 昼食編といった感じです。<br>Quatro Stove はチタニウム製で軽くてコンパクトに収納できるストーブです。"
+description: "Quatro Stove はチタニウム製で軽くてコンパクトに収納できるストーブ"
 related: "tool"
 ogimage: "media/tool-rethink-lunch/IMG_9366.JPG"
+thumbnail: "media/tool-rethink-lunch/th_IMG_9366.JPG"
 tags:
   - "tool"
   - "lunch"

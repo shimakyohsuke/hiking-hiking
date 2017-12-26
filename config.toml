@@ -5,6 +5,8 @@ theme = "hucore"
 copyright = "<a href=\"/\">HIKING-HIKING</a>"
 description = "知らない土地、知らない景色を知るためにぼちぼち歩いて行くブログ"
 HasCJKLanguage = true
+# Pagination
+paginate = 9
 
 [params]
   description = "知らない土地、知らない景色を知るためにぼちぼち歩いて行くブログ"

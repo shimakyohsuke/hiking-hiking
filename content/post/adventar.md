@@ -5,6 +5,7 @@ draft: false
 description: "「今年やったこと Advent Calendar 2017」の参加記事です。"
 related: "diary"
 ogimage: "media/adventar/IMG_1031.jpg"
+thumbnail: "media/adventar/th_IMG_1031.jpg"
 tags:
   - "diary"
 ---

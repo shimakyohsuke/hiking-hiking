@@ -5,6 +5,7 @@ draft: false
 description: "ストレッチ素材が最高で軽量コンパクトなウィンドシェルです！"
 related: "tool"
 ogimage: "media/arcteryx-squamish-hoody/IMG_1136.jpg"
+thumbnail: "media/arcteryx-squamish-hoody/th_IMG_1136.jpg"
 tags:
   - "tool"
 ---

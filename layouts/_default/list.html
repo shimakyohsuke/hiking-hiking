@@ -11,23 +11,21 @@
       </div>
       {{ end }}
       <div class="hh-container">
-        <div class="hh-content">
-        {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}{{ range sort $paginator.Pages }}
-          <article>
-            <div class="hh-article_list">
-              <div class="hh-article_list__thumbnail">
-                <a href="{{ .Permalink }}"><img src="{{ .Site.BaseURL }}{{ if .Params.ogimage }}{{ .Params.ogimage }}{{ else }}ogp/ogp.png{{ end }}" alt="{{ .Title }}"></a>
-              </div>
-              <div class="hh-article_list__info">
-                <h1 class="hh-article_list__title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} ::Draft{{ end }}</h1>
-                <div class="hh-meta">
-                  <p class="hh-meta__date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ .Date.Format "2006-01-02" }}</p>
-                  {{ if .Params.tags }}{{ partial "tags" .Params.tags }}{{ end }}
-                </div>
-                {{ .Summary | plainify | safeHTML }}{{ if .Truncated }}<p class="hh-article_list__description">{{ .Description | safeHTML }}</p>{{ end }}
-              </div>
+        <div class="hh-content hh-article_list__wrap">
+        {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+        {{ range sort $paginator.Pages }}
+          <div class="hh-article_list">
+            <div class="hh-article_list__thumbnail">
+              <a href="{{ .Permalink }}"><img src="{{ .Site.BaseURL }}{{ if .Params.thumbnail }}{{ .Params.thumbnail }}{{ else }}ogp/noimge.png{{ end }}" alt="{{ .Title }}"></a>
             </div>
-          </article>
+            <div class="hh-article_list__info">
+              <h1 class="hh-article_list__title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} ::Draft{{ end }}</h1>
+              <div class="hh-meta">
+                <p class="hh-meta__date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ .Date.Format "2006-01-02" }}</p>
+              </div>
+              {{ .Summary | plainify | safeHTML }}{{ if .Truncated }}<p class="hh-article_list__description">{{ .Description | safeHTML }}</p>{{ end }}
+            </div>
+          </div>
         {{ end }}
         </div>
       </div>

@@ -4,6 +4,7 @@ draft: false
 title: "奈良県吉野山の奥千本に桜を観に行ってきた"
 description: "もしかしたら桜のピークは前の週だったのかもしれません。"
 ogimage: "media/yoshinoyama-okusenbon/IMG_9791.JPG"
+thumbnail: "media/yoshinoyama-okusenbon/th_IMG_9791.JPG"
 related: "climb"
 tags:
   - "climb"

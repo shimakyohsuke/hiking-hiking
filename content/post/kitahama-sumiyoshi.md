@@ -5,6 +5,7 @@ draft: false
 description: "居心地バツグン。もはや住みたいと感じた「北浜住吉」"
 related: "diary"
 ogimage: "media/kitahama-sumiyoshi/IMG_9445.JPG"
+thumbnail: "media/kitahama-sumiyoshi/th_IMG_9445.JPG"
 tags:
   - "diary"
 ---

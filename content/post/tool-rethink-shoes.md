@@ -5,6 +5,7 @@ draft: false
 description: "ALTRA の特徴である「ゼロドロップ」がどんな感じで歩けるのか楽しみ"
 related: "tool"
 ogimage: "media/tool-rethink-shoes/IMG_9730.JPG"
+thumbnail: "media/tool-rethink-shoes/th_IMG_9730.JPG"
 tags:
   - "tool"
   - "shoes"

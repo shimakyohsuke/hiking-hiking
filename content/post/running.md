@@ -5,6 +5,7 @@ draft: false
 description: "強靭なふくらはぎを手にするぞ"
 related: "running"
 ogimage: "media/running/IMG_1139.jpg"
+thumbnail: "media/running/th_IMG_1139.jpg"
 tags:
   - "running"
   - "tool"
