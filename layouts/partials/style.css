@@ -592,19 +592,11 @@ textarea,
 	cursor: default;
 }
 body {
-  font-family: 'Josefin Sans', -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
-  line-height: 1.8;
+  font-family: 'Josefin Sans', 'YuGothic', -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
+  line-height: 2;
   color: #1b435d;
   font-size: 100%;
   background-color: #fefefe;
-}
-@media only screen and (-webkit-min-device-pixel-ratio: 2), (-webkit-min-device-pixel-ratio: 2), (min-resolution: 2dppx) {
-  body {
-    font-family: 'Josefin Sans', Klee, '游ゴシック', YuGothic, 'Josefin Sans', -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
-  }
-  .hh-site_title {
-    font-family: 'Josefin Sans', Klee, '游ゴシック', YuGothic, 'Josefin Sans', -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
-  }
 }
 a {
   color: #ff7330;
@@ -630,11 +622,11 @@ img {
 .hh-article_list__title {
   margin: 0;
   font-size: 125%;
-  font-weight: 300;
   color: #1b435d;
   line-height: 1.5;
 }
 .hh-article_list__title a {
+  font-weight: 400;
   color: #1b435d;
 }
 .hh-article_list__title a:hover {
@@ -706,7 +698,7 @@ img {
   font-size: 94%;
 }
 .hh-content {
-  max-width: 740px;
+  max-width: 720px;
   margin: 0 auto;
   background-color: #fff;
 }
@@ -714,7 +706,7 @@ img {
 .hh-form textarea {
   margin-left: 1em;
   padding: 0.5em;
-  font-family: 'Josefin Sans', -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
+  font-family: 'Josefin Sans', 'YuGothic', -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
   min-width: 20em;
   border: solid #1b435d 1px;
 }
@@ -803,7 +795,7 @@ img {
       flex-direction: column;
 }
 .hh-header .hh-site_meta__inner {
-  max-width: 740px;
+  max-width: 720px;
   margin: 0 auto;
   display: -ms-flexbox;
   display: flex;
@@ -854,7 +846,7 @@ img {
   border-bottom: 1px solid #1b435d;
 }
 .hh-nav__inner {
-  max-width: 740px;
+  max-width: 720px;
   margin: 0 auto;
 }
 .hh-nav__list {
@@ -1043,7 +1035,7 @@ img {
   margin: 0;
 }
 .hh-site_title {
-  font-family: 'Josefin Sans', -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
+  font-family: 'Josefin Sans', 'YuGothic', -apple-system, BlinkMacSystemFont, 'メイリオ', Arial, sans-serif;
   font-size: 175%;
   font-weight: 200;
   line-height: 1.2;
