@@ -2,7 +2,7 @@
 date: "2017-12-25T00:00:00+09:00"
 title: "【今年やったこと Adventar】ハイキングはじめた"
 draft: false
-description: "「今年やったこと Advent Calendar 2017」の参加記事です。"
+description: "「今年やったこと Advent Calendar 2017」の参加記事"
 related: "diary"
 ogimage: "media/adventar/IMG_1031.jpg"
 thumbnail: "media/adventar/th_IMG_1031.jpg"
@@ -140,7 +140,7 @@ tags:
 
 今年学んだことや、やったことをアップデートして来年はアルプスの 2000m 級に挑戦したいし、膝に負担をかけない・体力向上の為にランニングの距離を伸ばして強靭なふくらはぎに育てていこうと思います。
 
----
+{{% figure src="/media/adventar/IMG_1031.jpg" alt="11 月に行った岩湧山" caption="11 月に行った岩湧山" %}}
 
 こうやって長々と文章にして振り返ってみると今後もここはこうやってやっていこうとか、ブログの方向性とか整理できましたｗ よしぱんさん、なんかありがとうございます。
 

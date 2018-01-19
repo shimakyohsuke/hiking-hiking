@@ -2,7 +2,7 @@
 title: "Arc'teryx / Squamish Hoody を買った"
 date: 2017-12-15T00:00:00+09:00
 draft: false
-description: "ストレッチ素材が最高で軽量コンパクトなウィンドシェルです！"
+description: "ストレッチ素材が最高で軽量コンパクトなウィンドシェル！"
 related: "tool"
 ogimage: "media/arcteryx-squamish-hoody/IMG_1136.jpg"
 thumbnail: "media/arcteryx-squamish-hoody/th_IMG_1136.jpg"
