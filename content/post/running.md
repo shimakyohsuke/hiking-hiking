@@ -1,5 +1,5 @@
 ---
-title: "故障しにくい脚を作るためにベアフット・ランニングはじめて、ついでに ALTRA の ESCALANTE 買った"
+title: "ALTRA の ESCALANTE 買って故障しにくい脚を作るためにベアフット・ランニングはじめた"
 date: 2017-12-20T00:00:00+09:00
 draft: false
 description: "強靭なふくらはぎを手にするぞ"
