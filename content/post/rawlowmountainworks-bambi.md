@@ -1,7 +1,7 @@
 ---
 date: "2017-11-06T00:00:00+09:00"
 draft: false
-title: "物欲魔人が衝動買いした RawLow Mountain Works の Bambi を早く担ぎたくて摩耶山行ってきた"
+title: "衝動買いした RawLow Mountain Works の Bambi を早く担ぎたくて摩耶山行ってきた"
 description: "三十路のおっさんがこれかわいいって言ってすぐモノ買うのやめたい。"
 ogimage: "media/rawlowmountainworks-bambi/IMG_0923.jpg"
 thumbnail: "media/rawlowmountainworks-bambi/th_IMG_0923.jpg"
