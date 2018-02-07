@@ -5,13 +5,14 @@ draft: true
 description: ""
 related: ""
 ogimage: ""
-tags: ""
+thumbnail: ""
+tags:
+  - "diary"
 ---
 
 <!--more-->
 
 ## 見だし2
-
 
 ---
 
