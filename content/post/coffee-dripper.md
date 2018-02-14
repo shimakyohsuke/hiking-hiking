@@ -5,9 +5,10 @@ draft: false
 description: "外でコーヒー飲みたいなーと思って購入したドリップコーヒーセットを使ってみました。"
 ogimage: "media/coffee-dripper/IMG_9665.JPG"
 thumbnail: "media/coffee-dripper/th_IMG_9665.JPG"
-related: "tool"
+related: "coffee"
 tags:
   - "tool"
+  - "coffee"
 ---
 
 <!--more-->
