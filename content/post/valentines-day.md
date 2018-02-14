@@ -2,7 +2,7 @@
 title: "【今年も 0 個】バレンタインデーがやってきたのでコンビニで補給できる行動食をいろいろ買ってきた【悲しみ】"
 date: 2018-02-14T00:00:00+09:00
 draft: false
-description: ""
+description: "これまで行動中に食べたことがあるのものでどれだけカロリーを摂取できてたのかあやふやだったので調べてみました"
 related: ""
 ogimage: "media/valentines-day/IMG_1438.jpg"
 thumbnail: "media/valentines-day/th_IMG_1438.jpg"
