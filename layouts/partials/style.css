@@ -638,7 +638,7 @@ img {
   margin: 0 0 8px;
   font-size: 107%;
   color: #1b435d;
-  line-height: 1.5;
+  line-height: 1.6;
 }
 .hh-article_list__title a {
   font-weight: 400;
@@ -682,16 +682,21 @@ img {
   }
   .hh-article_list__title {
     font-size: 113%;
+    margin: 0;
+    font-weight: 700;
   }
   .hh-article_list__thumbnail,
   .hh-article_list__info {
     width: 100%;
   }
   .hh-article_list__info {
-    margin-top: 1em;
+    margin-top: 0.8em;
   }
   .hh-article_list__description {
     margin-bottom: 0;
+    float: left;
+    font-size: 94%;
+    line-height: 1.7;
   }
 }
 .hh-button {
@@ -719,7 +724,7 @@ img {
   background-color: #f2f2f2;
 }
 .hh-container {
-  padding: 0 10px;
+  padding: 0 5%;
   font-size: 94%;
 }
 .hh-content {
@@ -858,7 +863,7 @@ img {
 }
 @media screen and (max-width: 680px) {
   .hh-meta {
-    margin: 0 0 0.5em;
+    margin: 0.5em 0;
     display: -ms-flexbox;
     display: flex;
   }
@@ -1051,8 +1056,12 @@ img {
     max-width: 100%;
   }
   .hh-post .hh-post__title {
-    font-size: 1.5em;
+    font-size: 125%;
+    line-height: 1.6;
     margin-top: 1em;
+  }
+  .hh-post .hh-meta {
+    margin-bottom: 2em;
   }
 }
 .hh-ad__for_mobile {
