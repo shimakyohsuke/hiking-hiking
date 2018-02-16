@@ -83,7 +83,6 @@ Tetra Drip は独特の構造で携帯性が良く組み立てが容易という
 
 {{% figure src="/media/dinex-tetra-drip/IMG_1451.jpg" alt="iPhone で撮影したら点滴ぽくなった" caption="iPhone で撮影したら点滴ぽくなった" %}}
 
-
 ---
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01I3594JQ&linkId=26c7ecf818f13517c6a0850254498d83"></iframe>
@@ -92,4 +91,4 @@ Tetra Drip は独特の構造で携帯性が良く組み立てが容易という
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hiking-hiking-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B001HYG5WK&linkId=a61d7cf05996afddc7c7330e76fddce2"></iframe>
 
-DINEX にピッタリなドリッパーを探すっていう目的としては良いんだけど、重量面では結果的にドリッパーは 5g 軽くなり、きゅうすスキッター追加でプラスマイナスゼロみたいな。。  
+DINEX にピッタリなドリッパーを探すっていう目的としては良いんだけど、重量面では結果的にドリッパーは 5g 軽くなり、ドリップペーパーときゅうすスキッター（2g）追加でほぼプラスマイナスゼロみたいな。。  
