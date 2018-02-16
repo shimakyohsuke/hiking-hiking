@@ -73,7 +73,16 @@ Tetra Drip は独特の構造で携帯性が良く組み立てが容易という
 
 あと外でコーヒー作る時は GSI のエクストリームティーケトルを使うのですが、ドリップしずらいなーとずっと思っていたのでこちらも少しカイゼンしようということで、以前 YouTube のコーヒー動画でみたことある「きゅうすスキッター」なるものを購入してみました。
 
+{{% figure src="/media/dinex-tetra-drip/IMG_1449.jpg" alt="キャッチコピーのフォント怖すぎ" caption="キャッチコピーのフォント怖すぎ" %}}
+
+ケトル側の口のサイズを考えてなかったので、無理やり付けた。
+
+{{% figure src="/media/dinex-tetra-drip/IMG_1450.jpg" alt="一応固定されてる" caption="一応固定されてる" %}}
+
 ドバっとお湯が出ない分注ぎやすくはなったかな？
+
+{{% figure src="/media/dinex-tetra-drip/IMG_1451.jpg" alt="iPhone で撮影したら点滴ぽくなった" caption="iPhone で撮影したら点滴ぽくなった" %}}
+
 
 ---
 
