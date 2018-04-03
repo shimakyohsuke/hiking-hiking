@@ -26,6 +26,7 @@ title = "お問い合わせ"
     <p>
       <label>お問い合わせ内容: <textarea name="message" required></textarea></label>
     </p>
+    <div netlify-recaptcha></div>
     <p class="hh-form__submit">
       <button type="submit">送信</button>
     </p>
