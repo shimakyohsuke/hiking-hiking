@@ -49,28 +49,21 @@ tags:
 
 ### 寝床
 
-テントをついに買った。何度か使用してみた感想がペグ打ってガイライン通すの面倒だなってこと。
+テントをついに買った。BIG SKY の Wisp 1P。何度か使用してみた感想がペグ打ってガイライン通すの面倒だなってこと。
+これならペグ打たなくていいしガイラインもいらないなと思って買ったのが Outdoor Research の HELIUM BIVY。死体袋みたいなフォルムの寝床。なんか来季モデルチェンジとかでセールで安くなってた。
 
 - BIG SKY / Wisp 1P
-
-これならペグ打たなくていいしガイラインもいらないなと思って買った死体袋みたいなフォルムの寝床。なんか来季モデルチェンジとかでセールで安くなってた。
-
 - Outdoor Research / HELIUM BIVY
 
 軽量なチタン製の V ペグ。ちょっと足がぶつかっただけで曲がったり折れたりしたから横からの衝撃には弱い。
-
-- TOAKS / Titanium V-shaped Peg
-
 V ペグにちょっと信用を置けなくなったので Y 字型のペグも購入。
 
+- TOAKS / Titanium V-shaped Peg
 - MSR / Groundhog Stakes
 
-スリーピングマットは KLYMIT Insulated Static V (U.L 120 edition) を持ってるけど、エアマットはどうにも腰との相性が悪いのでマットタイプのものを購入。これはほんとに今年地味に一番使った。
+スリーピングマットは KLYMIT Insulated Static V (U.L 120 edition) を持ってるけど、エアマットはどうにも腰との相性が悪いのでマットタイプのものを購入。これはほんとに今年地味に一番使った。枕がないと眠れない。
 
 - BIG AGNES / Third Degree Foam Pad
-
-枕がないと眠れない。
-
 - KLYMIT / KLYMIT Pillow X
 
 インナーシュラフ。メーカーがいうにはこれだけで加算温度 5.3 度らしい。
@@ -118,7 +111,7 @@ ELDORESO の Mesh Cap は一年中かぶってた。
 - ELDORESO / Beyond Mesh Cap
 - finetrack / スキンメッシュ
 
-防水ジャケットと防水パンツ。結局今年は一度も使ってない。
+防水ジャケットと防水パンツ。結局買ってから一度も使ってない。
 
 - Outdoor Research / Men's Helium Hybrid Hooded Jacket
 - mont-bell / ストームクルーザー パンツ Men's
