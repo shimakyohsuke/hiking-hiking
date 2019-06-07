@@ -1,76 +1,86 @@
-    <section>
-      <div class="hh-container hh-pagination">
-        <div class="hh-content hh-display__flex--jcs--aic">
-          <div>
-            {{ if .Paginator.HasNext }}
-            <a class="hh-button" href="{{ .Paginator.Next.URL }}"><i class="fa fa-angle-left"></i> Older</a>
-            {{ else }}
-            <a class="hh-button is-disabled"><i class="fa fa-angle-left"></i> Older</a>
-            {{ end }}
-          </div>
-          <div>
-            {{ if .Paginator.HasPrev }}
-            <a class="hh-button" href="{{ .Paginator.Prev.URL }}">Newer <i class="fa fa-angle-right"></i></a>
-            {{ else }}
-            <a class="hh-button is-disabled">Newer <i class="fa fa-angle-right"></i></a>
-            {{ end }}
-          </div>
+<section>
+  <div class="hh-container hh-pagination">
+    <div class="hh-content hh-display__flex--jcs--aic">
+      <div>
+        {{ if .Paginator.HasNext }}
+        <a class="hh-button" href="{{ .Paginator.Next.URL }}"><i class="fa fa-angle-left"></i> Older</a>
+        {{ else }}
+        <a class="hh-button is-disabled"><i class="fa fa-angle-left"></i> Older</a>
+        {{ end }}
+      </div>
+      <div>
+        {{ if .Paginator.HasPrev }}
+        <a class="hh-button" href="{{ .Paginator.Prev.URL }}">Newer <i class="fa fa-angle-right"></i></a>
+        {{ else }}
+        <a class="hh-button is-disabled">Newer <i class="fa fa-angle-right"></i></a>
+        {{ end }}
+      </div>
+    </div>
+    <div class="hh-content hh-display__flex--jcs--aic">
+      <p>Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</p>
+    </div>
+  </div>
+</section>
+<section>
+  <div class="hh-container">
+    {{ if eq (printf "%v" $.Site.BaseURL) "http://localhost:1313/" }}
+    {{- "<!-- code for localhost only -->" | safeHTML -}}
+    {{- else -}}
+    <div class="hh-content" style="text-align: center;">
+      <!-- article_responsive -->
+      <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3669068670704645" data-ad-slot="2105798415"
+        data-ad-format="auto"></ins>
+      <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </div>
+    {{- end -}}
+    <div class="hh-content">
+      <div class="hh-article_list">
+        <h1 class="hh-article_list__title" style="text-align: center; width: 100%; font-size: 130%;">よく読まれてる記事</h1>
+      </div>
+    </div>
+    <div class="hh-content hh-article_list__wrap">
+      <div class="hh-article_list">
+        <div class="hh-article_list__thumbnail">
+          <a href="/post/tool-rethink-backpack/"><img src="/media/tool-rethink-backpack/th_IMG_0461.JPG"
+              alt="OMM Classic 25 を選んだ理由"></a>
         </div>
-        <div class="hh-content hh-display__flex--jcs--aic">
-          <p>Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</p>
+        <div class="hh-article_list__info">
+          <h1 class="hh-article_list__title"><a href="/post/tool-rethink-backpack/" style="font-size: 90%;">OMM Classic
+              25 を選んだ理由</a></h1>
         </div>
       </div>
-    </section>
-    <section>
-      <div class="hh-container">
-{{ if eq (printf "%v" $.Site.BaseURL) "http://localhost:1313/" }}
-{{- "<!-- code for localhost only -->" | safeHTML -}}
-{{- else -}}
-        <div class="hh-content" style="text-align: center;">
-<!-- article_responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3669068670704645"
-     data-ad-slot="2105798415"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
+      <div class="hh-article_list">
+        <div class="hh-article_list__thumbnail">
+          <a href="/post/rawlowmountainworks-bambi/"><img src="/media/rawlowmountainworks-bambi/th_IMG_0923.jpg"
+              alt="物欲魔人が衝動買いした RawLow Mountain Works の Bambi を早く担ぎたくて摩耶山行ってきた"></a>
         </div>
-{{- end -}}
-        <div class="hh-content">
-          <div class="hh-article_list">
-            <h1 class="hh-article_list__title" style="text-align: center; width: 100%; font-size: 130%;">よく読まれてる記事</h1>
-          </div>
-        </div>
-        <div class="hh-content hh-article_list__wrap">
-          <div class="hh-article_list">
-            <div class="hh-article_list__thumbnail">
-              <a href="/post/tool-rethink-backpack/"><img src="/media/tool-rethink-backpack/th_IMG_0461.JPG" alt="OMM Classic 25 を選んだ理由"></a>
-            </div>
-            <div class="hh-article_list__info">
-              <h1 class="hh-article_list__title"><a href="/post/tool-rethink-backpack/" style="font-size: 90%;">OMM Classic 25 を選んだ理由</a></h1>
-            </div>
-          </div>
-
-          <div class="hh-article_list">
-            <div class="hh-article_list__thumbnail">
-              <a href="/post/rawlowmountainworks-bambi/"><img src="/media/rawlowmountainworks-bambi/th_IMG_0923.jpg" alt="物欲魔人が衝動買いした RawLow Mountain Works の Bambi を早く担ぎたくて摩耶山行ってきた"></a>
-            </div>
-            <div class="hh-article_list__info">
-              <h1 class="hh-article_list__title"><a href="/post/rawlowmountainworks-bambi/" style="font-size: 90%;">物欲魔人が衝動買いした RawLow Mountain Works の Bambi を早く担ぎたくて摩耶山行ってきた</a></h1>
-            </div>
-          </div>
-
-          <div class="hh-article_list">
-            <div class="hh-article_list__thumbnail">
-              <a href="/post/fes/"><img src="/media/fes/th_IMG_8600.JPG" alt="【夏フェスの持ち物】コンパクトで軽量な山道具を持って身軽にいこう！"></a>
-            </div>
-            <div class="hh-article_list__info">
-              <h1 class="hh-article_list__title"><a href="/post/fes/" style="font-size: 90%;">【夏フェスの持ち物】コンパクトで軽量な山道具を持って身軽にいこう！</a></h1>
-            </div>
-          </div>
-
+        <div class="hh-article_list__info">
+          <h1 class="hh-article_list__title"><a href="/post/rawlowmountainworks-bambi/"
+              style="font-size: 90%;">物欲魔人が衝動買いした RawLow Mountain Works の Bambi を早く担ぎたくて摩耶山行ってきた</a></h1>
         </div>
       </div>
-    </section>
+
+      <div class="hh-article_list">
+        <div class="hh-article_list__thumbnail">
+          <a href="/post/fes/"><img src="/media/fes/th_IMG_8600.JPG" alt="【夏フェスの持ち物】コンパクトで軽量な山道具を持って身軽にいこう！"></a>
+        </div>
+        <div class="hh-article_list__info">
+          <h1 class="hh-article_list__title"><a href="/post/fes/"
+              style="font-size: 90%;">【夏フェスの持ち物】コンパクトで軽量な山道具を持って身軽にいこう！</a></h1>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+<section>
+  <div class="hh-container">
+    <figure>
+      <a href="https://amzn.to/2I2vXFj"><img src="/ogp/banner_970_250.png" alt=""></a>
+      <figcaption>WordPressのやさしい教科書。 手を動かしながら学ぶ実用サイト作りと正しい運用</figcaption>
+    </figure>
+  </div>
+</section>
